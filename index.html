@@ -7,6 +7,9 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
   <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
     html, body {
       height: 100%;
       margin: 0;
@@ -15,7 +18,6 @@
       background: linear-gradient(135deg, #bde6f4 0%, #e3f6fd 100%);
       min-height: 100vh;
       width: 100%;
-      box-sizing: border-box;
       overflow-x: hidden;
     }
     .container {
@@ -132,6 +134,19 @@
     @keyframes fadeInLeft {
       from { opacity: 0; transform: translateX(40px); }
       to { opacity: 1; transform: translateX(0); }
+    }
+    body, .container {
+      overflow-x: hidden;
+    }
+    img, .screenshot, .logo, .title-img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+    .columns, .left, .right {
+      width: 100%;
+      max-width: 100%;
+      box-sizing: border-box;
     }
   </style>
 </head>
