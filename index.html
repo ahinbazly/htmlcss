@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SubX Player</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: 'Play', Arial, sans-serif;
+      background: linear-gradient(135deg, #bde6f4 0%, #e3f6fd 100%);
+      min-height: 100vh;
+      width: 100vw;
+      box-sizing: border-box;
+    }
+    .container {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .main-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+      padding: 2rem 1rem 0 1rem;
+    }
+    .columns {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      gap: 3rem;
+    }
+    .left, .right {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .left {
+      animation: fadeInUp 1s ease;
+    }
+    .right {
+      animation: fadeInLeft 1s ease;
+    }
+    .logo {
+      width: 8rem;
+      height: 8rem;
+      margin-bottom: 1rem;
+    }
+    .title-img {
+      width: 18rem;
+      max-width: 100%;
+      margin-bottom: 1.5rem;
+    }
+    .tagline {
+      font-size: 1.25rem;
+      font-weight: 400;
+      color: #111;
+      text-align: center;
+      margin-bottom: 1.5rem;
+      letter-spacing: 0.02em;
+    }
+    .play-badge {
+      width: 12rem;
+      margin-bottom: 1.5rem;
+    }
+    .screenshot {
+      width: 100%;
+      max-width: 32rem;
+      border-radius: 1rem;
+      margin: 0 auto;
+      display: block;
+    }
+    footer {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      padding-bottom: 3rem;
+      animation: fadeInUp 1.2s ease;
+    }
+    .privacy-link {
+      color: #111;
+      text-decoration: underline;
+      font-size: 1.1rem;
+      letter-spacing: 0.04em;
+      transition: color 0.2s;
+    }
+    .privacy-link:hover {
+      color: #007BFF;
+    }
+    @media (min-width: 1024px) {
+      .main-content {
+        padding-top: 0;
+      }
+      .columns {
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: center;
+        gap: 4rem;
+      }
+      .left, .right {
+        width: 50%;
+        align-items: center;
+        justify-content: center;
+      }
+      .right {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(40px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeInLeft {
+      from { opacity: 0; transform: translateX(40px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <main class="main-content">
+      <div class="columns">
+        <div class="left">
+          <img src="assets/logo.svg" alt="SubX Player Logo" class="logo" />
+          <img src="assets/title_light.png" alt="SubX Player" class="title-img" />
+          <div class="tagline">
+            POWERFUL VIDEO PLAYER WITH <br />DUAL SUBTITLE SUPPORT
+          </div>
+          <a href="https://play.google.com/store/apps/details?id=com.subx.player" target="_blank" rel="noopener">
+            <img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" class="play-badge" />
+          </a>
+        </div>
+        <div class="right">
+          <img src="assets/screenshot.png" alt="App Screenshot" class="screenshot" />
+        </div>
+      </div>
+    </main>
+    <footer>
+      <a href="privacy-policy.html" class="privacy-link">PRIVACY POLICY</a>
+    </footer>
+  </div>
+</body>
+</html> 
