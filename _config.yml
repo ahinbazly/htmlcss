@@ -1,0 +1,5 @@
+---
+# Jekyll configuration for GitHub Pages
+permalink: /:title/
+baseurl: ""
+url: "" 
