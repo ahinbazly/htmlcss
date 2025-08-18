@@ -8,7 +8,7 @@
   /* Shows ONLY while the receiver is starting */
   .logo {
     background-image: url(assets/cast_logo.png);
-    background-size: 128px 128px;
+    background-size: 256px 256px;
     background-repeat: no-repeat;
     background-position: center;
   }
