@@ -1,36 +1,38 @@
 /* Google Cast Styled Media Receiver CSS */
-/* This file customizes the appearance of the Cast receiver */
 
 /* Background for the receiver */
 .background {
-  background: center no-repeat url(assets/cast_splash_dark.png);
-  background-size: cover;
-}
-
-/* Logo shown when receiver is launching or in idle state */
-/* .logo {
-  background-image: url(assets/cast_logo.png);
-  background-size: 128px 128px;
-  background-repeat: no-repeat;
-  background-position: center;
-} */
-
-/* Splash screen shown when receiver is in idle state */
-.splash {
-  background-image: url(assets/cast_splash_dark.png);
-  background-size: cover;
-  background-position: center;
-}
-
-/* Progress bar for media playback */
-.progressBar {
-  background-color: #007bff; /* Blue color for progress bar */
-}
-
-/* Watermark shown when media is playing */
-.watermark {
-  background-image: url(assets/cast_logo.png);
-  background-size: 57px 57px;
-  background-repeat: no-repeat;
-  background-position: center;
-}
+    background: center no-repeat url(assets/cast_splash_dark.png);
+    background-size: cover;
+  }
+  
+  /* Logo shown when receiver is launching or in idle state */
+  /* Uncomment if you want a logo over splash */
+  /*
+  .logo {
+    background-image: url(assets/cast_logo.png);
+    background-size: 128px 128px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  */
+  
+  /* Splash screen shown when receiver is in idle state */
+  .splash {
+    background-image: url(assets/cast_splash_dark.png);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Progress bar for media playback */
+  .progressBar {
+    background-color: #007bff !important; /* force blue color */
+  }
+  
+  /* Watermark shown when media is playing */
+  .watermark {
+    background-image: url(assets/cast_logo.png);
+    background-size: 57px 57px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
