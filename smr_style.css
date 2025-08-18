@@ -15,7 +15,7 @@
   
   /* Shows when the receiver is IDLE (after start-up, before playback) */
   .splash {
-    background-image: url(assets/cast_splash_dark.png);
+    background-image: url(assets/cast_splash.png);
     background-size: cover;
     background-position: center;
   }
