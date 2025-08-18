@@ -10,7 +10,7 @@
 /* Logo shown when receiver is launching or in idle state */
 .logo {
   background-image: url(assets/cast_logo.png);
-  background-size: contain;
+  background-size: 128px 128px;
   background-repeat: no-repeat;
   background-position: center;
 }
