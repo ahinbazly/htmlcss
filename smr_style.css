@@ -1,38 +1,40 @@
 /* Google Cast Styled Media Receiver CSS */
 
-/* Background for the receiver */
+/* Background that is always present – keep it simple */
 .background {
-    background: center no-repeat url(assets/cast_splash_dark.png);
-    background-size: cover;
+    background-color: #000;        /* or any solid / blurred colour */
   }
   
-  /* Logo shown when receiver is launching or in idle state */
-  /* Uncomment if you want a logo over splash */
-  /*
+  /* Shows ONLY while the receiver is starting */
   .logo {
     background-image: url(assets/cast_logo.png);
     background-size: 128px 128px;
     background-repeat: no-repeat;
     background-position: center;
   }
-  */
   
-  /* Splash screen shown when receiver is in idle state */
+  /* Shows when the receiver is IDLE (after start-up, before playback) */
   .splash {
     background-image: url(assets/cast_splash_dark.png);
     background-size: cover;
     background-position: center;
   }
   
-  /* Progress bar for media playback */
+  /* New API – works on current receivers */
+  cast-media-player {
+    --progress-color: #007bff;   /* your blue */
+  }
+  
+  /* Fallback for legacy receivers */
+  .progress,
   .progressBar {
-    background-color: #007bff !important; /* force blue color */
+    background-color: #007bff !important;
   }
   
   /* Watermark shown when media is playing */
   .watermark {
-    background-image: url(assets/cast_logo.png);
-    background-size: 57px 57px;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
+      background-image: url(assets/cast_logo.png);
+      background-size: 57px 57px;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
