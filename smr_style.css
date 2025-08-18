@@ -8,12 +8,12 @@
 }
 
 /* Logo shown when receiver is launching or in idle state */
-.logo {
+/* .logo {
   background-image: url(assets/cast_logo.png);
   background-size: 128px 128px;
   background-repeat: no-repeat;
   background-position: center;
-}
+} */
 
 /* Splash screen shown when receiver is in idle state */
 .splash {
