@@ -137,6 +137,40 @@
           }
         }
       ]
+    },
+     {
+      "id": "yt_8jPQjjsBbIc",
+      "youtube_id": "8jPQjjsBbIc",
+      "title": "How to stay calm when you know you'll be stressed | Daniel Levitin | TED",
+      "channel": "TED",
+      "duration": "12:20",
+      "duration_sec": 740,
+      "category": "TED Talks",
+      "language": "korean",
+      "level": "C1",
+      "tags": ["decision making", "habits","critical thinking","psychology","neuroscience","cognition","planning"],
+      "subtitles": [
+        {
+          "id": "sub_8jPQjjsBbIc_en",
+          "video_id": "yt_8jPQjjsBbIc",
+          "language": "en",
+          "label": "English",
+          "format": "srt",
+          "source": {
+            "url": "https://www.subx.app/subs/8jPQjjsBbIc/en.srt"
+          }
+        },
+        {
+          "id": "sub_8jPQjjsBbIc_ar",
+          "video_id": "yt_8jPQjjsBbIc",
+          "language": "ar",
+          "label": "Arabic",
+          "format": "srt",
+          "source": {
+            "url": "https://www.subx.app/subs/8jPQjjsBbIc/ar.srt"
+          }
+        }
+      ]
     }
   ]
 }
