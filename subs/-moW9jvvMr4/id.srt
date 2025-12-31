@@ -1,0 +1,897 @@
+1
+00:00:00,000 --> 00:00:07,000
+Translator: Febrina H. Ariendhita
+Reviewer: Maria Nainggolan
+
+2
+00:00:12,730 --> 00:00:14,538
+Saat pertama belajar bermeditasi,
+
+3
+00:00:14,562 --> 00:00:17,571
+saya hanya diminta fokus pada pernapasan,
+
+4
+00:00:17,595 --> 00:00:19,603
+dan saat pikiran mengembara,
+kembali fokus.
+
+5
+00:00:20,610 --> 00:00:21,970
+Kedengarannya cukup simpel.
+
+6
+00:00:22,650 --> 00:00:25,838
+Tapi saya duduk diam,
+
+7
+00:00:25,862 --> 00:00:28,537
+berkeringat sampai menembus kaus
+di tengah musim dingin.
+
+8
+00:00:29,203 --> 00:00:32,203
+Saya tidur sebentar setiap bisa
+karena itu sungguh sangat sulit.
+
+9
+00:00:32,595 --> 00:00:34,595
+Bahkan melelahkan.
+
+10
+00:00:35,370 --> 00:00:37,071
+Instruksinya cukup simpel,
+
+11
+00:00:37,095 --> 00:00:39,303
+tapi ada hal sangat penting
+yang saya lewatkan.
+
+12
+00:00:40,290 --> 00:00:42,437
+Jadi, kenapa sulit sekali untuk fokus?
+
+13
+00:00:43,050 --> 00:00:44,504
+Riset menunjukkan
+
+14
+00:00:44,528 --> 00:00:47,371
+bahwa saat kita benar-benar
+mencoba untuk fokus pun --
+
+15
+00:00:47,395 --> 00:00:48,971
+seperti fokus pada ceramah ini --
+
+16
+00:00:49,330 --> 00:00:52,503
+pada suatu saat, kira-kira separuh
+dari kita akan mulai melamun
+
+17
+00:00:52,930 --> 00:00:55,010
+atau terdorong untuk mengecek Twitter.
+
+18
+00:00:56,330 --> 00:00:57,850
+Jadi, apa yang terjadi?
+
+19
+00:00:58,970 --> 00:01:02,426
+Ternyata kita sedang melawan
+salah satu proses belajar
+
+20
+00:01:02,450 --> 00:01:05,103
+yang paling tak berubah
+sepanjang sejarah sains,
+
+21
+00:01:05,330 --> 00:01:08,837
+yang berasal dari sistem saraf
+paling dasar yang dikenal manusia.
+
+22
+00:01:09,797 --> 00:01:13,304
+Proses belajar berbasis manfaat ini
+disebut penguatan positif dan negatif,
+
+23
+00:01:13,328 --> 00:01:14,888
+dan intinya seperti ini.
+
+24
+00:01:16,103 --> 00:01:17,838
+Kita lihat makanan yang tampak enak,
+
+25
+00:01:17,862 --> 00:01:20,203
+otak kita bilang, "Kalori,
+selamatkan diri!"
+
+26
+00:01:20,610 --> 00:01:23,238
+Kita cicipi makanannya, ternyata enak.
+
+27
+00:01:23,262 --> 00:01:24,838
+Terutama dengan gula,
+
+28
+00:01:24,862 --> 00:01:26,971
+tubuh mengirim sinyal ke otak yang bilang,
+
+29
+00:01:26,995 --> 00:01:29,475
+"Ingat apa yang kamu makan
+dan di mana menemukannya."
+
+30
+00:01:31,250 --> 00:01:33,938
+Kita membentuk memori
+yang bergantung pada konteks ini
+
+31
+00:01:33,962 --> 00:01:36,137
+dan belajar mengulang prosesnya lain kali.
+
+32
+00:01:36,437 --> 00:01:40,070
+Lihat makanan, makan,
+merasa senang, ulangi.
+
+33
+00:01:40,930 --> 00:01:43,237
+Pemicu, perilaku, manfaat.
+
+34
+00:01:43,570 --> 00:01:44,637
+Simpel, kan?
+
+35
+00:01:45,890 --> 00:01:47,938
+Setelah beberapa lama,
+otak kreatif bilang,
+
+36
+00:01:47,962 --> 00:01:49,138
+"Kamu tahu?
+
+37
+00:01:49,162 --> 00:01:52,403
+Ini tak hanya bisa digunakan
+untuk mengingat di mana makanan itu.
+
+38
+00:01:52,870 --> 00:01:55,104
+Jika kapan-kapan
+perasaan kamu tak enak lagi,
+
+39
+00:01:55,128 --> 00:01:58,568
+coba saja makan makanan enak
+agar perasaanmu senang."
+
+40
+00:01:59,551 --> 00:02:01,706
+Kita berterima kasih
+atas ide hebat otak kita,
+
+41
+00:02:01,730 --> 00:02:03,238
+mencobanya, dan segera tahu
+
+42
+00:02:03,262 --> 00:02:06,631
+bahwa jika kita makan cokelat
+atau es krim saat marah atau sedih,
+
+43
+00:02:06,665 --> 00:02:07,865
+kita jadi lebih senang.
+
+44
+00:02:08,610 --> 00:02:11,337
+Prosesnya sama,
+yang berbeda hanya pemicunya.
+
+45
+00:02:11,770 --> 00:02:14,537
+Bukannya sinyal lapar dari perut,
+
+46
+00:02:14,890 --> 00:02:16,804
+sinyal emosi ini -- perasaan sedih --
+
+47
+00:02:16,828 --> 00:02:18,203
+memicu dorongan untuk makan.
+
+48
+00:02:19,010 --> 00:02:20,530
+Mungkin saat remaja,
+
+49
+00:02:21,169 --> 00:02:22,570
+kita kutu buku di sekolah
+
+50
+00:02:23,470 --> 00:02:26,071
+dan lihat anak-anak nakal
+merokok di luar dan berpikir,
+
+51
+00:02:26,095 --> 00:02:27,471
+"Hei, aku ingin jadi keren."
+
+52
+00:02:27,495 --> 00:02:28,695
+Jadi, kita mulai merokok.
+
+53
+00:02:29,770 --> 00:02:33,070
+Perokok itu bukan orang aneh,
+dan itu bukan kebetulan.
+
+54
+00:02:33,503 --> 00:02:34,671
+Lihat ada yang keren,
+
+55
+00:02:34,695 --> 00:02:36,038
+merokok agar keren,
+
+56
+00:02:36,062 --> 00:02:37,871
+merasa senang, ulangi.
+
+57
+00:02:37,895 --> 00:02:39,895
+Pemicu, perilaku, manfaat.
+
+58
+00:02:40,610 --> 00:02:43,570
+Setiap melakukan ini,
+kita belajar mengulangi prosesnya,
+
+59
+00:02:43,870 --> 00:02:45,170
+dan itu menjadi kebiasaan.
+
+60
+00:02:45,890 --> 00:02:47,186
+Jadi, nantinya,
+
+61
+00:02:47,210 --> 00:02:50,437
+perasaan stres memicu
+dorongan untuk merokok
+
+62
+00:02:50,850 --> 00:02:52,250
+atau makan makanan manis.
+
+63
+00:02:53,170 --> 00:02:56,038
+Dengan proses otak yang sama ini,
+
+64
+00:02:56,062 --> 00:02:57,971
+kita beralih dari belajar bertahan hidup
+
+65
+00:02:57,995 --> 00:03:00,503
+jadi mencelakakan diri
+dengan kebiasaan ini.
+
+66
+00:03:00,903 --> 00:03:01,904
+Obesitas dan merokok
+
+67
+00:03:01,928 --> 00:03:06,208
+adalah beberapa penyebab utama morbiditas
+dan mortalitas di dunia yang bisa dicegah.
+
+68
+00:03:07,450 --> 00:03:08,850
+Kembali ke pernapasan saya.
+
+69
+00:03:09,690 --> 00:03:12,004
+Bagaimana jika bukannya melawan otak,
+
+70
+00:03:12,028 --> 00:03:14,604
+atau mencoba memaksakan diri untuk fokus,
+
+71
+00:03:14,628 --> 00:03:17,770
+kita manfaatkan proses belajar alami
+berbasis manfaat ini,
+
+72
+00:03:18,637 --> 00:03:19,890
+tapi beri sentuhan lain?
+
+73
+00:03:20,470 --> 00:03:22,238
+Bagaimana jika kita jadi penasaran
+
+74
+00:03:22,262 --> 00:03:24,704
+tentang apa yang terjadi
+di pengalaman singkat kita?
+
+75
+00:03:24,728 --> 00:03:26,037
+Saya akan beri contoh.
+
+76
+00:03:26,650 --> 00:03:30,403
+Di lab, kami belajar apa latihan kesadaran
+bisa bantu orang berhenti merokok.
+
+77
+00:03:31,137 --> 00:03:34,871
+Seperti mencoba memaksakan diri
+untuk fokus pada pernapasan saya,
+
+78
+00:03:34,895 --> 00:03:37,837
+mereka bisa coba memaksakan diri
+untuk berhenti merokok.
+
+79
+00:03:38,237 --> 00:03:41,138
+Kebanyakan sudah mencoba ini
+sebelumnya dan gagal --
+
+80
+00:03:41,162 --> 00:03:43,082
+rata-rata enam kali.
+
+81
+00:03:43,903 --> 00:03:46,571
+Dengan latihan kesadaran,
+kami buang sedikit soal memaksa
+
+82
+00:03:46,595 --> 00:03:48,870
+dan fokus pada rasa penasaran.
+
+83
+00:03:49,570 --> 00:03:52,403
+Bahkan, kami menyuruh mereka merokok.
+
+84
+00:03:52,810 --> 00:03:54,671
+Apa? Ya, kami bilang, "Silakan merokok,
+
+85
+00:03:54,695 --> 00:03:57,703
+tapi benar-benar penasaran
+bagaimana rasanya saat merokok."
+
+86
+00:03:58,370 --> 00:03:59,670
+Apa yang mereka perhatikan?
+
+87
+00:04:00,090 --> 00:04:02,370
+Ini contoh dari salah satu perokok kami.
+
+88
+00:04:02,737 --> 00:04:04,514
+Katanya, "Merokok dengan penuh sadar:
+
+89
+00:04:04,548 --> 00:04:07,838
+baunya seperti keju bau,
+dan rasanya seperti bahan kimia.
+
+90
+00:04:07,862 --> 00:04:09,062
+Jijik!"
+
+91
+00:04:09,650 --> 00:04:13,038
+Dia tahu secara kognitif
+bahwa merokok itu tak baik baginya,
+
+92
+00:04:13,062 --> 00:04:14,942
+makanya dia ikut program kami.
+
+93
+00:04:15,650 --> 00:04:19,603
+Yang dia temukan hanya dengan sadar
+dan penasaran saat merokok
+
+94
+00:04:20,170 --> 00:04:23,346
+adalah merokok itu rasanya tak enak.
+
+95
+00:04:23,370 --> 00:04:25,050
+(Tertawa)
+
+96
+00:04:26,330 --> 00:04:30,271
+Dia beralih dari pengetahuan
+ke kebijaksanaan.
+
+97
+00:04:30,295 --> 00:04:33,438
+Dia beralih dari tahu di pikirannya
+bahwa merokok itu buruk baginya
+
+98
+00:04:33,462 --> 00:04:35,537
+menjadi sangat yakin,
+
+99
+00:04:35,970 --> 00:04:38,238
+dan pesona merokok pun hilang.
+
+100
+00:04:38,262 --> 00:04:41,622
+Dia mulai tersadar dari perilakunya.
+
+101
+00:04:42,930 --> 00:04:45,004
+<i>Prefrontal cortex,</i>
+
+102
+00:04:45,028 --> 00:04:48,538
+bagian termuda dari otak kita
+dari sudut pandang evolusi--
+
+103
+00:04:48,562 --> 00:04:52,638
+paham pada tingkat intelektual
+bahwa sebaiknya kita tak merokok,
+
+104
+00:04:52,662 --> 00:04:56,438
+dan berusaha sekuat tenaga
+membantu kita mengubah perilaku,
+
+105
+00:04:56,462 --> 00:04:57,838
+membantu berhenti merokok,
+
+106
+00:04:57,862 --> 00:05:01,982
+membantu berhenti makan
+kue kedua, ketiga, keempat itu.
+
+107
+00:05:02,870 --> 00:05:04,271
+Ini disebut kontrol kognitif.
+
+108
+00:05:04,295 --> 00:05:07,095
+Kognisi digunakan
+untuk mengontrol perilaku.
+
+109
+00:05:07,820 --> 00:05:08,816
+Sayangnya,
+
+110
+00:05:08,840 --> 00:05:12,671
+ini juga bagian pertama dari otak
+yang tak aktif saat kita stres,
+
+111
+00:05:12,695 --> 00:05:14,103
+dan itu tak terlalu membantu.
+
+112
+00:05:14,428 --> 00:05:16,905
+Kita semua bisa kaitkan ini
+dengan pengalaman kita.
+
+113
+00:05:16,951 --> 00:05:20,106
+Kita cenderung lakukan hal-hal
+seperti membentak pasangan atau anak
+
+114
+00:05:20,130 --> 00:05:23,738
+saat stres atau lelah
+meski tahu itu tak akan membantu.
+
+115
+00:05:23,762 --> 00:05:25,282
+Kita tak bisa menahan diri.
+
+116
+00:05:27,090 --> 00:05:29,266
+Saat <i>prefrontal cortex</i> tak aktif,
+
+117
+00:05:29,290 --> 00:05:31,506
+kita kembali ke kebiasaan lama,
+
+118
+00:05:31,530 --> 00:05:34,037
+makanya kita harus menyadarkan diri.
+
+119
+00:05:34,370 --> 00:05:35,804
+Melihat hasil kebiasaan kita
+
+120
+00:05:35,828 --> 00:05:38,238
+membantu kita memahaminya
+di tingkat lebih dalam,
+
+121
+00:05:38,262 --> 00:05:39,404
+benar-benar meyakininya
+
+122
+00:05:39,428 --> 00:05:42,971
+agar tak perlu memaksa untuk menahan
+atau membatasi diri dari perilaku.
+
+123
+00:05:42,995 --> 00:05:45,670
+Kita hanya kurang tertarik
+untuk melakukannya sejak awal.
+
+124
+00:05:46,410 --> 00:05:48,437
+Inilah inti kesadaran:
+
+125
+00:05:48,970 --> 00:05:52,650
+melihat dengan sangat jernih hasilnya
+saat kita terjebak dalam perilaku,
+
+126
+00:05:53,530 --> 00:05:56,637
+menyadarkan diri
+pada tingkat yang mendalam,
+
+127
+00:05:57,130 --> 00:06:00,170
+dan dengan menyadarkan diri ini,
+tentu kita akan melepaskannya.
+
+128
+00:06:00,890 --> 00:06:04,371
+Bukan berarti kita tiba-tiba
+berhenti merokok.
+
+129
+00:06:04,395 --> 00:06:08,271
+Tapi seiring kita belajar melihat
+hasil tindakan kita dengan lebih jernih,
+
+130
+00:06:08,295 --> 00:06:11,037
+kita lepaskan kebiasaan lama
+dan membentuk kebiasaan baru.
+
+131
+00:06:12,090 --> 00:06:13,426
+Paradoksnya di sini
+
+132
+00:06:13,450 --> 00:06:16,238
+adalah inti kesadaran
+hanyalah benar-benar tertarik
+
+133
+00:06:16,262 --> 00:06:17,571
+untuk lebih mengenali
+
+134
+00:06:17,595 --> 00:06:19,871
+apa yang sebenarnya terjadi
+di tubuh dan pikiran
+
+135
+00:06:19,895 --> 00:06:21,203
+dari waktu ke waktu.
+
+136
+00:06:21,937 --> 00:06:24,204
+Kesediaan untuk mengamati pengalaman,
+
+137
+00:06:24,228 --> 00:06:27,908
+bukannya mencoba menghilangkan
+hasrat buruk secepat mungkin.
+
+138
+00:06:28,737 --> 00:06:30,937
+Kesediaan untuk mengamati pengalaman ini
+
+139
+00:06:31,330 --> 00:06:33,186
+didukung oleh rasa penasaran,
+
+140
+00:06:33,210 --> 00:06:34,946
+yang tentunya bermanfaat.
+
+141
+00:06:34,970 --> 00:06:36,370
+Seperti apa rasa penasaran?
+
+142
+00:06:36,730 --> 00:06:37,803
+Rasanya menyenangkan.
+
+143
+00:06:38,970 --> 00:06:40,770
+Apa yang terjadi saat kita penasaran?
+
+144
+00:06:41,340 --> 00:06:44,738
+Kita mulai perhatikan bahwa hasrat
+hanya terdiri dari sensasi tubuh --
+
+145
+00:06:44,762 --> 00:06:47,004
+ada sesak, ada ketegangan,
+
+146
+00:06:47,028 --> 00:06:48,403
+ada kegelisahan --
+
+147
+00:06:48,737 --> 00:06:50,970
+dan sensasi tubuh ini datang dan pergi.
+
+148
+00:06:51,850 --> 00:06:54,403
+Ini adalah potongan kecil dari pengalaman
+
+149
+00:06:54,803 --> 00:06:56,866
+yang bisa kita tangani
+dari waktu ke waktu,
+
+150
+00:06:56,890 --> 00:07:01,004
+bukannya dihajar
+hasrat besar dan menakutkan
+
+151
+00:07:01,028 --> 00:07:02,404
+yang membuat kita tercekik.
+
+152
+00:07:02,428 --> 00:07:04,924
+Dengan kata lain, saat penasaran,
+
+153
+00:07:04,970 --> 00:07:09,237
+kita keluar dari pola kebiasaan lama
+yang reaktif dan berdasarkan rasa takut,
+
+154
+00:07:09,703 --> 00:07:11,570
+dan kita menjadi ada.
+
+155
+00:07:11,970 --> 00:07:14,570
+Kita jadi berjiwa ilmuwan
+
+156
+00:07:14,890 --> 00:07:17,470
+yang tak sabar menunggu
+poin data berikutnya.
+
+157
+00:07:18,130 --> 00:07:22,303
+Mungkin ini terdengar terlalu simpel
+untuk memengaruhi perilaku.
+
+158
+00:07:22,690 --> 00:07:25,146
+Tapi dalam satu riset,
+kami dapati latihan kesadaran
+
+159
+00:07:25,170 --> 00:07:28,837
+dua kali lebih baik dari terapi terbaik
+dalam membantu orang berhenti merokok.
+
+160
+00:07:29,090 --> 00:07:30,603
+Jadi, itu benar-benar berhasil.
+
+161
+00:07:31,770 --> 00:07:34,586
+Saat meneliti otak
+ahli meditasi berpengalaman,
+
+162
+00:07:34,610 --> 00:07:38,371
+kami menemukan jaringan saraf yang aktif
+saat mengaitkan informasi dengan diri,
+
+163
+00:07:38,395 --> 00:07:40,803
+yang disebut jaringan
+mode default, ternyata aktif.
+
+164
+00:07:41,170 --> 00:07:44,226
+Satu hipotesis saat ini
+adalah wilayah jaringan
+
+165
+00:07:44,250 --> 00:07:46,270
+yang disebut
+<i>posterior cingulate cortex</i> ini
+
+166
+00:07:46,490 --> 00:07:49,171
+belum tentu diaktifkan
+oleh hasrat itu sendiri,
+
+167
+00:07:49,195 --> 00:07:51,738
+tapi saat kita terjebak
+di dalamnya, saat kita hanyut,
+
+168
+00:07:51,762 --> 00:07:53,103
+itu akan menipu kita.
+
+169
+00:07:53,610 --> 00:07:55,638
+Sebaliknya, saat kita melepaskan --
+
+170
+00:07:55,662 --> 00:07:57,038
+keluar dari proses itu
+
+171
+00:07:57,061 --> 00:07:59,604
+hanya dengan menyadari
+apa yang sedang terjadi --
+
+172
+00:07:59,628 --> 00:08:01,603
+wilayah otak ini menjadi tenang.
+
+173
+00:08:03,290 --> 00:08:07,338
+Kami sedang menguji aplikasi
+dan program latihan kesadaran daring
+
+174
+00:08:07,362 --> 00:08:10,103
+yang menargetkan mekanisme inti ini
+
+175
+00:08:10,570 --> 00:08:14,938
+dan, ironisnya, menggunakan teknologi
+yang membuat perhatian kita teralih
+
+176
+00:08:14,962 --> 00:08:17,638
+untuk membantu kita keluar
+dari pola kebiasaan tak sehat,
+
+177
+00:08:17,662 --> 00:08:20,903
+yaitu merokok, makan saat stres,
+dan perilaku adiktif lainnya.
+
+178
+00:08:21,690 --> 00:08:24,038
+Ingat memori yang bergantung
+pada konteks itu?
+
+179
+00:08:24,062 --> 00:08:27,104
+Kami bisa membuat alat ini
+mudah dijangkau orang
+
+180
+00:08:27,128 --> 00:08:29,070
+dalam konteks yang paling penting
+
+181
+00:08:29,437 --> 00:08:32,358
+agar kami bisa membantu mereka
+memanfaatkan kapasitas bawaan
+
+182
+00:08:32,388 --> 00:08:33,771
+untuk sadar dan penasaran itu
+
+183
+00:08:33,795 --> 00:08:37,370
+tepat saat hasrat untuk merokok,
+makan stres, atau apa pun itu muncul.
+
+184
+00:08:38,537 --> 00:08:40,404
+Jika tak merokok atau makan saat stres,
+
+185
+00:08:40,428 --> 00:08:43,804
+mungkin jika Anda merasakan dorongan
+untuk mengecek surel saat bosan,
+
+186
+00:08:43,828 --> 00:08:46,037
+atau coba mengalihkan
+perhatian dari pekerjaan,
+
+187
+00:08:46,270 --> 00:08:50,070
+atau mungkin secara kompulsif
+menanggapi pesan teks saat mengemudi,
+
+188
+00:08:51,003 --> 00:08:54,871
+coba manfaatkan kapasitas alami ini,
+
+189
+00:08:54,895 --> 00:08:56,138
+sadar dan penasaran saja
+
+190
+00:08:56,162 --> 00:08:58,837
+tentang apa yang terjadi
+di tubuh dan pikiran saat itu.
+
+191
+00:08:59,170 --> 00:09:01,171
+Itu akan jadi kesempatan
+untuk mengabadikan
+
+192
+00:09:01,195 --> 00:09:04,338
+salah satu lingkaran kebiasaan
+yang tak ada habisnya dan melelahkan
+
+193
+00:09:04,362 --> 00:09:05,602
+atau keluar dari itu.
+
+194
+00:09:06,050 --> 00:09:08,938
+Daripada melihat pesan teks
+dan membalasnya secara kompulsif,
+
+195
+00:09:08,962 --> 00:09:10,671
+buat perasaan sedikit lebih baik --
+
+196
+00:09:10,695 --> 00:09:12,138
+perhatikan dorongannya,
+
+197
+00:09:12,162 --> 00:09:13,604
+jadi penasaran,
+
+198
+00:09:13,628 --> 00:09:15,203
+rasakan nikmatnya melepaskan,
+
+199
+00:09:15,603 --> 00:09:16,703
+dan ulangi.
+
+200
+00:09:17,410 --> 00:09:18,438
+Terima kasih.
+
+201
+00:09:18,462 --> 00:09:20,822
+(Tepuk tangan)
+

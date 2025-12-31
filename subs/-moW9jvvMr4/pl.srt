@@ -1,0 +1,911 @@
+1
+00:00:00,000 --> 00:00:07,000
+Tłumaczenie: Robert Filipowski
+Korekta: Małgorzata Ciborska
+
+2
+00:00:12,000 --> 00:00:14,616
+Kiedy uczyłem się medytacji,
+
+3
+00:00:14,640 --> 00:00:17,696
+kazano przywiązywać uwagę do oddechu,
+
+4
+00:00:17,720 --> 00:00:19,800
+a jeśli myśli odpłyną, przywołać je.
+
+5
+00:00:20,640 --> 00:00:22,000
+Brzmi banalnie.
+
+6
+00:00:22,680 --> 00:00:25,896
+Jednak podczas cichych odosobnień
+
+7
+00:00:25,920 --> 00:00:29,256
+pociłem się w T-shircie w środku zimy.
+
+8
+00:00:29,280 --> 00:00:32,616
+Drzemałem, kiedy tylko mogłem,
+tak mnie to męczyło.
+
+9
+00:00:32,640 --> 00:00:34,640
+Wręcz wyczerpywało.
+
+10
+00:00:35,400 --> 00:00:37,136
+Zadanie było proste,
+
+11
+00:00:37,160 --> 00:00:39,280
+ale popełniałem istotny błąd.
+
+12
+00:00:40,320 --> 00:00:42,560
+Dlaczego tak trudno się skupić?
+
+13
+00:00:43,080 --> 00:00:44,536
+Badania wykazały,
+
+14
+00:00:44,560 --> 00:00:47,736
+że jeśli próbujemy na czymś się skupić,
+
+15
+00:00:47,760 --> 00:00:49,336
+na przykład na tej prelekcji,
+
+16
+00:00:49,360 --> 00:00:50,576
+w pewnym momencie
+
+17
+00:00:50,600 --> 00:00:52,936
+połowa z nas się wyłączy,
+
+18
+00:00:52,960 --> 00:00:55,040
+lub poczuje potrzebę sprawdzenia Twittera.
+
+19
+00:00:56,360 --> 00:00:57,880
+Dlaczego tak jest?
+
+20
+00:00:59,000 --> 00:01:02,456
+Okazuje się, że walczymy
+z jednym najbardziej z pierwotnych
+
+21
+00:01:02,480 --> 00:01:05,336
+procesów uczenia, jakie zna nauka.
+
+22
+00:01:05,360 --> 00:01:06,736
+Proces jest zakorzeniony
+
+23
+00:01:06,736 --> 00:01:09,040
+w układzie nerwowym człowieka.
+
+24
+00:01:09,720 --> 00:01:11,340
+Proces uczenia oparty na nagrodzie
+
+25
+00:01:11,340 --> 00:01:13,616
+nazywa się pozytywnym
+i negatywnym wzmocnieniem.
+
+26
+00:01:13,616 --> 00:01:15,280
+Wygląda następująco.
+
+27
+00:01:16,130 --> 00:01:17,926
+Widzimy smaczne jedzenie,
+
+28
+00:01:17,926 --> 00:01:20,616
+a nasz mózg mówi: "Kalorie! Przetrwanie!"
+
+29
+00:01:20,640 --> 00:01:22,136
+Próbujemy jedzenia,
+
+30
+00:01:22,160 --> 00:01:23,376
+smakuje dobrze.
+
+31
+00:01:23,400 --> 00:01:24,936
+Zwłaszcza w przypadku cukrów
+
+32
+00:01:24,960 --> 00:01:27,216
+ciało wysyła sygnał do mózgu:
+
+33
+00:01:27,240 --> 00:01:29,720
+"Zapamiętaj, co jesz
+i gdzie to znalazłeś".
+
+34
+00:01:31,280 --> 00:01:34,016
+Zapamiętujemy kontekst procesu
+
+35
+00:01:34,040 --> 00:01:36,496
+i uczymy się go powtarzać następnym razem.
+
+36
+00:01:36,520 --> 00:01:37,736
+Widzisz jedzenie,
+
+37
+00:01:37,760 --> 00:01:39,456
+jesz, czujesz się dobrze,
+
+38
+00:01:39,480 --> 00:01:40,936
+powtarzasz.
+
+39
+00:01:40,960 --> 00:01:43,576
+Bodziec, działanie, nagroda.
+
+40
+00:01:43,600 --> 00:01:44,800
+Proste, prawda?
+
+41
+00:01:45,920 --> 00:01:48,056
+Po jakimś czasie kreatywny mózg powie:
+
+42
+00:01:48,080 --> 00:01:49,296
+"Wiesz co?
+
+43
+00:01:49,320 --> 00:01:52,936
+Możesz to wykorzystać do innych celów.
+
+44
+00:01:52,960 --> 00:01:55,136
+Kiedy będziesz się czuć źle,
+
+45
+00:01:55,160 --> 00:01:58,600
+zjedz coś dobrego,
+żeby poprawić sobie nastrój".
+
+46
+00:01:59,720 --> 00:02:01,736
+Dziękujemy mózgowi za świetny pomysł,
+
+47
+00:02:01,760 --> 00:02:03,336
+wdrażamy go i przekonujemy się,
+
+48
+00:02:03,360 --> 00:02:06,656
+że jeśli zjemy czekoladę albo lody,
+kiedy jesteśmy źli lub smutni,
+
+49
+00:02:06,680 --> 00:02:07,880
+czujemy się lepiej.
+
+50
+00:02:08,640 --> 00:02:10,016
+Ten sam proces,
+
+51
+00:02:10,040 --> 00:02:11,776
+inne bodźce.
+
+52
+00:02:11,800 --> 00:02:14,660
+Zamiast uczucia głodu z żołądka,
+
+53
+00:02:14,660 --> 00:02:17,066
+dociera sygnał emocjonalny,
+czyli uczucie smutku
+
+54
+00:02:17,066 --> 00:02:18,200
+pobudzające głód.
+
+55
+00:02:19,040 --> 00:02:20,560
+Może jako nastolatki
+
+56
+00:02:21,199 --> 00:02:22,600
+byliśmy nerdami.
+
+57
+00:02:23,390 --> 00:02:26,296
+Widzieliśmy zbuntowane dzieciaki
+z papierosami i pomyśleliśmy:
+
+58
+00:02:26,320 --> 00:02:27,576
+"Też chcę być fajny".
+
+59
+00:02:27,600 --> 00:02:28,800
+Zaczęliśmy więc palić.
+
+60
+00:02:29,800 --> 00:02:33,536
+Facet z reklamy Marlboro
+nieprzypadkowo nie wyglądał na głupka.
+
+61
+00:02:33,560 --> 00:02:34,720
+Widzisz coś fajnego,
+
+62
+00:02:34,720 --> 00:02:36,146
+palisz, żeby czuć się fajnym,
+
+63
+00:02:36,146 --> 00:02:37,936
+czujesz się dobrze, powtarzasz.
+
+64
+00:02:37,960 --> 00:02:39,960
+Bodziec, działanie, nagroda.
+
+65
+00:02:40,640 --> 00:02:41,896
+Robiąc to, uczymy się
+
+66
+00:02:41,920 --> 00:02:43,936
+powtarzać proces,
+
+67
+00:02:43,960 --> 00:02:45,200
+i staje się on nawykiem.
+
+68
+00:02:45,920 --> 00:02:47,216
+Później stres wywołuje
+
+69
+00:02:47,240 --> 00:02:50,850
+potrzebę zapalenia papierosa
+
+70
+00:02:50,850 --> 00:02:52,450
+albo zjedzenia czegoś słodkiego.
+
+71
+00:02:53,200 --> 00:02:56,136
+Ten sam proces,
+
+72
+00:02:56,160 --> 00:02:58,056
+który uczył nas, jak przetrwać,
+
+73
+00:02:58,080 --> 00:03:00,930
+sprawia, że sami siebie zabijamy.
+
+74
+00:03:00,930 --> 00:03:03,006
+Otyłość i palenie należą do najczęstszych
+
+75
+00:03:03,006 --> 00:03:06,520
+przyczyn chorób i śmierci,
+których da się uniknąć.
+
+76
+00:03:07,480 --> 00:03:08,880
+Wróćmy do oddechu.
+
+77
+00:03:09,720 --> 00:03:12,096
+Może, zamiast walczyć z mózgiem
+
+78
+00:03:12,120 --> 00:03:14,656
+albo skupiać całą siłę na tym,
+żeby się skoncentrować,
+
+79
+00:03:14,680 --> 00:03:18,696
+wykorzystać naturalny proces uczenia
+oparty na nagrodzie,
+
+80
+00:03:18,720 --> 00:03:19,920
+ale go modyfikując?
+
+81
+00:03:20,520 --> 00:03:22,576
+Może zainteresować się
+
+82
+00:03:22,600 --> 00:03:25,096
+przyczynami danego zachowania?
+
+83
+00:03:25,120 --> 00:03:26,656
+Podam przykład.
+
+84
+00:03:26,680 --> 00:03:27,896
+Badaliśmy w laboratorium,
+
+85
+00:03:27,920 --> 00:03:31,256
+czy ćwiczenie świadomej uwagi
+pomoże ludziom rzucić palenie.
+
+86
+00:03:31,280 --> 00:03:34,936
+Tak jak ja próbowałem zmusić się
+do skupienia na oddechu,
+
+87
+00:03:34,960 --> 00:03:38,216
+palacze zmuszają się do rzucenia palenia.
+
+88
+00:03:38,240 --> 00:03:41,176
+Większość z nich odniosła porażkę
+
+89
+00:03:41,200 --> 00:03:43,120
+średnio sześciokrotnie.
+
+90
+00:03:43,960 --> 00:03:45,456
+Ćwicząc świadomą uwagę,
+
+91
+00:03:45,480 --> 00:03:48,800
+przestajemy się zmuszać,
+a pobudzamy ciekawość.
+
+92
+00:03:49,600 --> 00:03:52,816
+Nawet kazaliśmy im zapalić.
+
+93
+00:03:52,840 --> 00:03:54,816
+Co? Tak, powiedzieliśmy:
+
+94
+00:03:54,840 --> 00:03:58,376
+"Zapal, ale przy tym
+zainteresuj się tą czynnością".
+
+95
+00:03:58,400 --> 00:04:00,096
+Jaki był efekt?
+
+96
+00:04:00,120 --> 00:04:02,816
+Jedna z palaczek powiedziała:
+
+97
+00:04:02,840 --> 00:04:04,576
+"Świadome palenie
+
+98
+00:04:04,600 --> 00:04:06,216
+śmierdzi serem
+
+99
+00:04:06,240 --> 00:04:07,856
+i smakuje chemikaliami.
+
+100
+00:04:07,880 --> 00:04:09,080
+Fuj!".
+
+101
+00:04:09,680 --> 00:04:13,056
+Wiedziała wcześniej,
+że palenie jej szkodzi,
+
+102
+00:04:13,080 --> 00:04:14,960
+dlatego do nas przyszła.
+
+103
+00:04:15,680 --> 00:04:20,216
+Dzięki ciekawości odkryła,
+
+104
+00:04:20,240 --> 00:04:23,376
+że papierosy mają obrzydliwy smak.
+
+105
+00:04:23,400 --> 00:04:25,080
+(Śmiech)
+
+106
+00:04:26,360 --> 00:04:30,375
+Wiedzę zamieniła w mądrość.
+
+107
+00:04:30,399 --> 00:04:33,495
+Wcześniej miała świadomość,
+że palenie jest szkodliwe,
+
+108
+00:04:33,519 --> 00:04:35,976
+a teraz była tego pewna.
+
+109
+00:04:36,000 --> 00:04:38,296
+Nawyk został zerwany.
+
+110
+00:04:38,320 --> 00:04:41,680
+Przestała akceptować swoje zachowanie.
+
+111
+00:04:42,960 --> 00:04:45,056
+Kora przedczołowa,
+
+112
+00:04:45,080 --> 00:04:48,616
+najmłodsza ewolucyjnie część mózgu,
+
+113
+00:04:48,640 --> 00:04:52,580
+rozumie, że nie powinniśmy palić.
+
+114
+00:04:52,580 --> 00:04:57,886
+Robi wszystko,
+żeby pomóc nam rzucić palenie,
+
+115
+00:04:57,886 --> 00:05:02,040
+żebyśmy nie sięgali po drugie,
+trzecie, czwarte "ciastko".
+
+116
+00:05:02,960 --> 00:05:04,456
+Nazywamy to kontrolą poznawczą.
+
+117
+00:05:04,480 --> 00:05:07,280
+Używamy poznania
+do kontroli naszych zachowań.
+
+118
+00:05:07,960 --> 00:05:09,176
+Niestety,
+
+119
+00:05:09,200 --> 00:05:11,136
+ta część mózgu wyłącza się jako pierwsza
+
+120
+00:05:11,160 --> 00:05:12,910
+w przypadku stresu,
+
+121
+00:05:12,910 --> 00:05:14,456
+co komplikuje sprawę.
+
+122
+00:05:14,480 --> 00:05:16,957
+Możemy to odnieść do własnych doświadczeń.
+
+123
+00:05:16,981 --> 00:05:20,070
+Jesteśmy bardziej skłonni krzyczeć
+na partnera lub dzieci
+
+124
+00:05:20,070 --> 00:05:21,556
+w stanie stresu czy zmęczenia,
+
+125
+00:05:21,556 --> 00:05:23,940
+choć wiemy, że to nie pomoże.
+
+126
+00:05:23,940 --> 00:05:25,680
+Nie możemy nic na to poradzić.
+
+127
+00:05:27,120 --> 00:05:29,296
+Kiedy kora przedczołowa się wyłącza,
+
+128
+00:05:29,320 --> 00:05:31,536
+powracamy do starych nawyków,
+
+129
+00:05:31,560 --> 00:05:34,416
+dlatego ważne jest zniechęcenie.
+
+130
+00:05:34,440 --> 00:05:36,096
+Zrozumienie nawyków
+
+131
+00:05:36,120 --> 00:05:38,270
+pozwala dogłębniej je zrozumieć,
+
+132
+00:05:38,270 --> 00:05:39,706
+daje pewność,
+
+133
+00:05:39,706 --> 00:05:41,856
+więc nie będziemy musieli się zmuszać
+
+134
+00:05:41,880 --> 00:05:43,816
+do powstrzymania się od zachowań.
+
+135
+00:05:43,816 --> 00:05:46,416
+Stracimy nimi zainteresowanie.
+
+136
+00:05:46,440 --> 00:05:48,976
+Na tym polega świadoma uwaga:
+
+137
+00:05:49,000 --> 00:05:52,680
+na zdaniu sobie sprawy, co się dzieje,
+kiedy poddajemy się nawykom,
+
+138
+00:05:53,560 --> 00:05:57,136
+na emocjonalnym zniechęceniu się do nich
+
+139
+00:05:57,160 --> 00:06:00,280
+i naturalnym ich zaniechaniu.
+
+140
+00:06:00,920 --> 00:06:04,360
+To nie znaczy,
+że magicznie rzucimy palenie.
+
+141
+00:06:04,360 --> 00:06:07,056
+Z biegiem czasu, 
+gdy wyraźniej będziemy widzieć
+
+142
+00:06:07,080 --> 00:06:08,416
+rezultaty naszych działań,
+
+143
+00:06:08,440 --> 00:06:11,080
+porzucimy stare nawyki
+i ukształtujemy nowe.
+
+144
+00:06:12,120 --> 00:06:13,456
+Paradoks w tym,
+
+145
+00:06:13,480 --> 00:06:16,296
+że świadoma uwaga polega
+na zainteresowaniu się
+
+146
+00:06:16,320 --> 00:06:17,736
+i poznaniu z bliska tego,
+
+147
+00:06:17,760 --> 00:06:20,120
+co dzieje się z naszym ciałem i umysłem
+
+148
+00:06:20,120 --> 00:06:21,976
+w danej chwili.
+
+149
+00:06:22,000 --> 00:06:24,296
+Chcemy przyjrzeć się doświadczeniom,
+
+150
+00:06:24,320 --> 00:06:28,000
+nie próbujemy odsuwać
+nieprzyjemnych pragnień jak najszybciej.
+
+151
+00:06:28,760 --> 00:06:31,336
+Chęć przyjrzenia się doświadczeniom
+
+152
+00:06:31,360 --> 00:06:33,216
+kierowana jest ciekawością,
+
+153
+00:06:33,240 --> 00:06:34,976
+która daje nam satysfakcję.
+
+154
+00:06:35,000 --> 00:06:36,736
+Jakie uczucie daje ciekawość?
+
+155
+00:06:36,760 --> 00:06:37,960
+Dobre.
+
+156
+00:06:39,040 --> 00:06:41,346
+Co się dzieje, kiedy jesteśmy ciekawi?
+
+157
+00:06:41,370 --> 00:06:44,816
+Zauważamy, że zachcianki
+to efekt impulsów wysyłanych przez ciało,
+
+158
+00:06:44,840 --> 00:06:47,096
+ucisku, napięcia,
+
+159
+00:06:47,120 --> 00:06:48,776
+niepokoju,
+
+160
+00:06:48,800 --> 00:06:51,240
+i że one mijają.
+
+161
+00:06:51,880 --> 00:06:54,856
+Są do przełknięcia
+
+162
+00:06:54,880 --> 00:06:56,896
+i możemy sobie z nimi poradzić
+
+163
+00:06:56,920 --> 00:07:01,056
+bez zmagania się z wielkim,
+przerażającym pragnieniem,
+
+164
+00:07:01,080 --> 00:07:02,456
+które nas dopadło.
+
+165
+00:07:02,480 --> 00:07:04,976
+Innymi słowy, ciekawość sprawia,
+
+166
+00:07:05,000 --> 00:07:09,736
+że wyzwalamy się ze starych,
+opartych na lęku, reaktywnych nawyków
+
+167
+00:07:09,760 --> 00:07:11,976
+i zaczynamy żyć.
+
+168
+00:07:12,000 --> 00:07:14,896
+Jesteśmy jak naukowiec,
+
+169
+00:07:14,920 --> 00:07:18,136
+który z niecierpliwością czeka
+na kolejne dane.
+
+170
+00:07:18,160 --> 00:07:22,696
+Może to zdawać się zbyt prostym zabiegiem,
+
+171
+00:07:22,720 --> 00:07:25,176
+ale badanie pokazało,
+że ćwiczenie świadomej uwagi
+
+172
+00:07:25,200 --> 00:07:29,096
+daje dwukrotnie lepsze wyniki
+w rzucaniu palenia niż najlepsze terapie.
+
+173
+00:07:29,120 --> 00:07:30,560
+Działa.
+
+174
+00:07:31,800 --> 00:07:34,490
+Przebadaliśmy mózgi osób
+doświadczonych w medytacji
+
+175
+00:07:34,490 --> 00:07:37,010
+i odkryliśmy, że część sieci neuronowej
+
+176
+00:07:37,010 --> 00:07:39,036
+odpowiadająca za procesy autoreferencyjne,
+
+177
+00:07:39,036 --> 00:07:41,256
+sieć wzbudzeń podstawowych, odgrywa rolę.
+
+178
+00:07:41,256 --> 00:07:44,286
+Jedna z hipotez zakłada,
+że obszar tej sieci,
+
+179
+00:07:44,286 --> 00:07:46,496
+tylna kora zakrętu obręczy,
+
+180
+00:07:46,520 --> 00:07:49,256
+zostaje pobudzony nie przez łaknienie,
+
+181
+00:07:49,280 --> 00:07:50,700
+ale kiedy się mu poddamy
+
+182
+00:07:50,700 --> 00:07:53,616
+i zostaniemy przez nie wciągnięci.
+
+183
+00:07:53,640 --> 00:07:55,736
+Dla kontrastu,
+jeśli się od niego wyzwolimy,
+
+184
+00:07:55,760 --> 00:07:57,136
+wyjdziemy poza proces,
+
+185
+00:07:57,160 --> 00:07:59,656
+poprzez samą ciekawość jego działania,
+
+186
+00:07:59,680 --> 00:08:01,800
+ten sam obszar mózgu się wycisza.
+
+187
+00:08:03,320 --> 00:08:07,416
+Obecnie testujemy aplikację i internetowy
+program ćwiczenia świadomej uwagi,
+
+188
+00:08:07,440 --> 00:08:10,576
+który skupia się na tych mechanizmach.
+
+189
+00:08:10,600 --> 00:08:15,040
+Jak na ironię, używamy technologii,
+rozpraszającej naszą uwagę,
+
+190
+00:08:15,040 --> 00:08:17,656
+żeby pomóc wyzwolić się 
+od niezdrowych nawyków palenia,
+
+191
+00:08:17,680 --> 00:08:21,696
+zajadania stresu i innych uzależnień.
+
+192
+00:08:21,720 --> 00:08:24,346
+Pamiętacie, jak mówiłem o pamięci
+zależnej od kontekstu?
+
+193
+00:08:24,346 --> 00:08:27,216
+Możemy dostarczyć ludziom te narzędzia
+
+194
+00:08:27,240 --> 00:08:29,496
+na wyciągnięcie ręki
+
+195
+00:08:29,520 --> 00:08:30,736
+i wspomóc
+
+196
+00:08:30,760 --> 00:08:33,736
+ich wrodzoną ciekawość,
+żeby mieli świadomość,
+
+197
+00:08:33,760 --> 00:08:37,680
+kiedy pojawi się potrzeba zapalenia
+albo zjedzenia czegoś w stresie.
+
+198
+00:08:38,420 --> 00:08:40,456
+Jeśli nie palicie
+ani nie zajadacie stresu,
+
+199
+00:08:40,480 --> 00:08:44,135
+może, kiedy poczujecie potrzebę
+sprawdzenia z nudów skrzynki e-mail,
+
+200
+00:08:44,159 --> 00:08:46,399
+albo gdy zechcecie oderwać myśli od pracy,
+
+201
+00:08:46,423 --> 00:08:50,222
+albo instynktownie odpowiedzieć
+na SMS prowadząc samochód,
+
+202
+00:08:51,080 --> 00:08:54,936
+sprawdźcie, czy potraficie uruchomić
+wrodzoną ciekawość,
+
+203
+00:08:54,960 --> 00:08:56,216
+żeby zrozumieć,
+
+204
+00:08:56,240 --> 00:08:59,176
+co w tej chwili dzieje się
+z waszym ciałem i umysłem.
+
+205
+00:08:59,200 --> 00:09:00,656
+To jeden z tych momentów,
+
+206
+00:09:00,680 --> 00:09:04,336
+w których możecie albo podtrzymać
+błędne koło wyczerpującego nawyku,
+
+207
+00:09:04,360 --> 00:09:05,600
+albo je przerwać.
+
+208
+00:09:06,080 --> 00:09:08,976
+Zamiast przeczytać SMS,
+mechanicznie na niego odpisać
+
+209
+00:09:09,000 --> 00:09:10,736
+i poczuć się trochę lepiej,
+
+210
+00:09:10,760 --> 00:09:12,216
+zauważcie pragnienie,
+
+211
+00:09:12,240 --> 00:09:13,696
+zainteresujcie się nim
+
+212
+00:09:13,720 --> 00:09:15,886
+i poczujcie radość, że się wyzwoliliście,
+
+213
+00:09:15,886 --> 00:09:17,090
+potem powtórzcie.
+
+214
+00:09:17,440 --> 00:09:18,656
+Dziękuję.
+
+215
+00:09:18,680 --> 00:09:21,040
+(Brawa)
+

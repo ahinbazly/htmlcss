@@ -1,0 +1,1073 @@
+1
+00:00:00,000 --> 00:00:07,000
+Korekta: Martyna Selke
+
+2
+00:00:04,333 --> 00:00:08,625
+Co, gdybym powiedziała wam,
+że możecie teraz zrobić coś,
+
+3
+00:00:08,667 --> 00:00:12,333
+co od razu pozytywnie
+wpłynie na wasz mózg,
+
+4
+00:00:12,375 --> 00:00:15,042
+w tym nastrój i koncentrację?
+
+5
+00:00:15,667 --> 00:00:21,042
+A co, gdybym powiedziała wam,
+że może to być długotrwałe
+
+6
+00:00:21,083 --> 00:00:23,750
+i chronić mózg
+przed różnymi przypadłościami,
+
+7
+00:00:23,833 --> 00:00:27,667
+takimi jak depresja,
+choroba Alzheimera czy demencja?
+
+8
+00:00:27,792 --> 00:00:29,000
+Zrobilibyście to?
+
+9
+00:00:29,417 --> 00:00:30,417
+Tak!
+
+10
+00:00:30,458 --> 00:00:35,042
+Mówię o niezwykłych właściwościach
+aktywności fizycznej.
+
+11
+00:00:35,083 --> 00:00:37,500
+Zwykłe poruszanie ciałem
+
+12
+00:00:37,666 --> 00:00:43,083
+ma natychmiastowy, trwały
+i ochronny wpływ na mózg,
+
+13
+00:00:43,458 --> 00:00:45,416
+który może utrzymywać się do końca życia.
+
+14
+00:00:45,625 --> 00:00:48,000
+Chciałabym wam opowiedzieć o tym,
+
+15
+00:00:48,041 --> 00:00:52,666
+jak będąc profesorką neuronauki,
+wykorzystałam swoją wiedzę
+
+16
+00:00:52,708 --> 00:00:54,208
+w tej dziedzinie
+
+17
+00:00:54,458 --> 00:00:57,125
+do przeprowadzenia na sobie eksperymentu,
+
+18
+00:00:57,208 --> 00:01:00,083
+dzięki któremu odkryłam
+naukowe podstawy tego,
+
+19
+00:01:00,125 --> 00:01:04,125
+dlaczego ćwiczenia są
+najbardziej wpływową rzeczą,
+
+20
+00:01:04,250 --> 00:01:06,250
+jaką możecie zrobić dla swojego mózgu.
+
+21
+00:01:06,833 --> 00:01:10,542
+Jako osoba zajmująca się neuronauką
+wiem, że nasze mózgi,
+
+22
+00:01:10,583 --> 00:01:13,458
+czyli to coś w naszych głowach,
+
+23
+00:01:13,625 --> 00:01:18,708
+są najbardziej złożoną strukturą
+znaną ludzkości.
+
+24
+00:01:18,792 --> 00:01:21,417
+Ale czym innym jest mówić o mózgu,
+
+25
+00:01:21,458 --> 00:01:22,917
+a czym innym jest go widzieć.
+
+26
+00:01:23,375 --> 00:01:26,042
+Tutaj widzimy prawdziwy,
+zakonserwowany ludzki mózg.
+
+27
+00:01:26,250 --> 00:01:30,125
+Zilustruje on dwa kluczowe obszary,
+o których będę dziś mówiła.
+
+28
+00:01:30,167 --> 00:01:34,250
+Pierwszy to znajdująca się tuż za czołem
+kora przedczołowa,
+
+29
+00:01:34,292 --> 00:01:40,458
+kluczowa w kwestii podejmowania decyzji,
+skupienia, uwagi czy waszej osobowości.
+
+30
+00:01:40,875 --> 00:01:44,917
+Drugim istotnym obszarem
+jest płat skroniowy, widoczny tutaj.
+
+31
+00:01:45,125 --> 00:01:47,875
+W mózgu mamy prawy i lewy płat skroniowy.
+
+32
+00:01:47,917 --> 00:01:50,708
+W głębi płata skroniowego
+znajduje się kluczowa struktura
+
+33
+00:01:50,750 --> 00:01:53,250
+niezbędna do tworzenia
+
+34
+00:01:53,292 --> 00:01:57,000
+i przechowywania faktów i zdarzeń
+w pamięci długotrwałej.
+
+35
+00:01:57,042 --> 00:01:59,958
+Struktura ta nazywana jest hipokampem.
+
+36
+00:02:00,292 --> 00:02:03,667
+Hipokamp zawsze mnie fascynował.
+
+37
+00:02:04,125 --> 00:02:08,958
+Jak to możliwe, że moment,
+który trwa zaledwie chwilę,
+
+38
+00:02:09,000 --> 00:02:10,958
+na przykład pierwszy pocałunek
+
+39
+00:02:11,208 --> 00:02:14,458
+lub narodziny pierwszego dziecka,
+
+40
+00:02:14,708 --> 00:02:17,750
+może stworzyć wspomnienie,
+które zmienia twój mózg
+
+41
+00:02:17,792 --> 00:02:20,000
+i trwa całe życie?
+
+42
+00:02:20,125 --> 00:02:21,958
+Właśnie to chcę zrozumieć.
+
+43
+00:02:22,167 --> 00:02:27,250
+Chciałam zainicjować i zarejestrować
+aktywność poszczególnych komórek mózgowych
+
+44
+00:02:27,292 --> 00:02:28,750
+w hipokampie,
+
+45
+00:02:28,792 --> 00:02:31,042
+gdy badani tworzyli nowe wspomnienia.
+
+46
+00:02:31,083 --> 00:02:36,417
+Starałam się odkodować,
+jak krótkie wyładowania elektryczne
+
+47
+00:02:36,458 --> 00:02:39,250
+odpowiadające za komunikację
+pomiędzy neuronami,
+
+48
+00:02:39,375 --> 00:02:44,000
+wpływają na możliwość
+tworzenia nowych wspomnień.
+
+49
+00:02:44,417 --> 00:02:47,750
+Kilka lat temu zrobiłam
+coś nietypowego w świecie nauki.
+
+50
+00:02:47,833 --> 00:02:49,958
+Jako profesorka neuronauki
+
+51
+00:02:50,000 --> 00:02:53,875
+postanowiłam całkowicie zmienić
+program moich badań.
+
+52
+00:02:54,333 --> 00:02:58,500
+Napotkałam coś niezwykłego,
+
+53
+00:02:58,667 --> 00:03:01,708
+coś, co potencjalnie
+mogło odmienić wiele żyć
+
+54
+00:03:01,750 --> 00:03:02,958
+i musiałam to zbadać.
+
+55
+00:03:03,000 --> 00:03:09,625
+Odkryłam i doświadczyłam tego,
+jak ćwiczenia wpływają na mózg.
+
+56
+00:03:09,833 --> 00:03:12,875
+Zupełnie przypadkiem.
+
+57
+00:03:13,042 --> 00:03:16,875
+Byłam u szczytu badań nad pamięcią,
+
+58
+00:03:16,917 --> 00:03:18,500
+spływał ogrom danych,
+
+59
+00:03:18,542 --> 00:03:23,042
+byłam coraz bardziej
+rozpoznawalna w środowisku.
+
+60
+00:03:23,083 --> 00:03:25,083
+Wydawałoby się, że wszystko szło świetnie.
+
+61
+00:03:25,125 --> 00:03:26,708
+I tak było, pod kątem naukowym.
+
+62
+00:03:27,208 --> 00:03:30,875
+Ale gdy wychodziłam z laboratorium,
+
+63
+00:03:31,167 --> 00:03:32,417
+coś było nie tak.
+
+64
+00:03:33,375 --> 00:03:35,125
+Moje życie towarzyskie nie istniało.
+
+65
+00:03:35,167 --> 00:03:37,625
+Zbyt wiele czasu spędzałam
+z komórkami mózgowymi,
+
+66
+00:03:37,667 --> 00:03:39,292
+samotnie, w ciemnym pomieszczeniu.
+
+67
+00:03:39,333 --> 00:03:40,333
+(Śmiech)
+
+68
+00:03:40,375 --> 00:03:43,000
+W ogóle się nie ruszałam.
+
+69
+00:03:43,042 --> 00:03:45,792
+Przytyłam 11 kilogramów.
+
+70
+00:03:45,833 --> 00:03:48,375
+A po wielu latach uświadomiłam sobie,
+
+71
+00:03:48,667 --> 00:03:49,958
+że jestem nieszczęśliwa.
+
+72
+00:03:50,125 --> 00:03:51,625
+Nie tak powinno być.
+
+73
+00:03:51,833 --> 00:03:56,292
+Wybrałam się na spływ rzeką, sama,
+bo nie miałam znajomych.
+
+74
+00:03:56,333 --> 00:03:57,375
+Po powrocie…
+
+75
+00:03:57,417 --> 00:03:58,417
+(Śmiech)
+
+76
+00:03:58,458 --> 00:04:01,958
+myślałam: “O Boże, byłam najsłabsza
+ze wszystkich uczestników”.
+
+77
+00:04:02,000 --> 00:04:03,458
+Wróciłam z nowym celem.
+
+78
+00:04:03,500 --> 00:04:06,417
+Stwierdziłam, że to ostatni raz,
+kiedy byłam tą najsłabszą
+
+79
+00:04:06,458 --> 00:04:07,875
+podczas raftingu.
+
+80
+00:04:07,917 --> 00:04:09,875
+Zmusiło mnie to do pójścia na siłownię.
+
+81
+00:04:09,917 --> 00:04:13,333
+Jako że mam osobowość typu A,
+
+82
+00:04:13,417 --> 00:04:16,333
+poszłam na wszystkie dostępne
+zajęcia sportowe.
+
+83
+00:04:16,375 --> 00:04:18,208
+Spróbowałam wszystkiego.
+
+84
+00:04:18,292 --> 00:04:22,042
+Ćwiczyłam kickboxing, taniec, jogę, step
+
+85
+00:04:22,250 --> 00:04:24,208
+i z początku było mi bardzo ciężko.
+
+86
+00:04:24,417 --> 00:04:29,375
+Zauważyłam jednak,
+że po każdym męczącym treningu
+
+87
+00:04:29,417 --> 00:04:33,125
+miałam świetny nastrój i ogrom energii.
+
+88
+00:04:33,167 --> 00:04:35,917
+To mnie motywowało
+do chodzenia na siłownię.
+
+89
+00:04:36,083 --> 00:04:38,667
+Czułam się coraz silniejsza.
+
+90
+00:04:38,708 --> 00:04:42,000
+Miałam lepsze samopoczucie
+i nawet zrzuciłam te 11 kilogramów.
+
+91
+00:04:42,333 --> 00:04:47,458
+Teraz, po półtora roku regularnych ćwiczeń
+
+92
+00:04:48,292 --> 00:04:51,500
+stało się coś, co mnie zaskoczyło.
+
+93
+00:04:51,542 --> 00:04:54,500
+Siedziałam przy biurku
+pisząc wniosek o grant badawczy,
+
+94
+00:04:54,542 --> 00:04:56,583
+a w mojej głowie
+
+95
+00:04:56,625 --> 00:04:59,167
+po raz pierwszy w życiu
+pojawiła się pewna myśl.
+
+96
+00:04:59,292 --> 00:05:00,708
+Mianowicie:
+
+97
+00:05:01,167 --> 00:05:04,167
+"Nieźle mi idzie to pisanie".
+
+98
+00:05:04,500 --> 00:05:05,500
+Wszyscy naukowcy…
+
+99
+00:05:05,542 --> 00:05:06,542
+(Śmiech)
+
+100
+00:05:06,583 --> 00:05:08,958
+wszyscy naukowcy śmieją się, gdy to mówię,
+
+101
+00:05:09,000 --> 00:05:11,375
+bo pisanie tego wniosku
+nigdy nie idzie dobrze.
+
+102
+00:05:11,542 --> 00:05:14,167
+Jest to bardzo trudne;
+ciągle dwoisz się i troisz,
+
+103
+00:05:14,208 --> 00:05:17,542
+żeby wpaść na pomysł wart miliony.
+
+104
+00:05:17,625 --> 00:05:20,708
+Uświadomiłam sobie,
+że pisanie szło mi dobrze,
+
+105
+00:05:20,750 --> 00:05:25,208
+bo mogłam się skupić
+i utrzymać koncentrację
+
+106
+00:05:25,250 --> 00:05:27,167
+dłużej niż zwykle.
+
+107
+00:05:27,208 --> 00:05:32,292
+Moja pamięć długotrwała,
+czyli to, co pierwotnie badałam,
+
+108
+00:05:32,333 --> 00:05:34,333
+też się poprawiła.
+
+109
+00:05:35,042 --> 00:05:36,875
+Właśnie wtedy to poskładałam w całość.
+
+110
+00:05:37,125 --> 00:05:42,125
+Może to te wszystkie ćwiczenia,
+które wprowadziłam do życia,
+
+111
+00:05:42,375 --> 00:05:43,375
+wpływały na mój mózg.
+
+112
+00:05:43,417 --> 00:05:46,583
+Może przeprowadziłam na sobie eksperyment,
+nawet o tym nie wiedząc.
+
+113
+00:05:46,667 --> 00:05:48,292
+Jako ciekawska neuronaukowczyni
+
+114
+00:05:48,333 --> 00:05:51,958
+postanowiłam sprawdzić,
+co o wpływie aktywności fizycznej na mózg
+
+115
+00:05:52,000 --> 00:05:54,083
+mówi literatura.
+
+116
+00:05:54,125 --> 00:05:58,250
+Znalazłam intrygujące teksty,
+
+117
+00:05:58,292 --> 00:06:02,042
+które potwierdzały wszystko to,
+co sama u siebie zauważyłam.
+
+118
+00:06:02,500 --> 00:06:06,667
+Lepszy nastrój, więcej energii,
+lepsza pamięć, lepsze skupienie.
+
+119
+00:06:07,083 --> 00:06:09,167
+Im więcej się dowiadywałam,
+
+120
+00:06:09,292 --> 00:06:12,458
+tym bardziej uświadamiałam sobie
+skuteczność ćwiczeń.
+
+121
+00:06:12,708 --> 00:06:15,875
+Z czasem podjęłam odważną decyzję
+
+122
+00:06:15,917 --> 00:06:19,375
+i zmieniłam przedmiot moich badań.
+
+123
+00:06:19,667 --> 00:06:24,458
+Po kilku latach skrupulatnych analiz,
+
+124
+00:06:24,542 --> 00:06:27,167
+doszłam do następującego wniosku:
+
+125
+00:06:27,500 --> 00:06:30,958
+ćwiczenia są najbardziej wpływową rzeczą,
+
+126
+00:06:31,000 --> 00:06:33,208
+jaką możecie zrobić dla swojego mózgu.
+
+127
+00:06:33,292 --> 00:06:35,167
+A to trzy powody:
+
+128
+00:06:35,417 --> 00:06:39,167
+po pierwsze, od razu wpływają na mózg.
+
+129
+00:06:39,208 --> 00:06:41,208
+Każda aktywność fizyczna
+
+130
+00:06:41,250 --> 00:06:44,833
+zwiększa ilość neuroprzekaźników,
+
+131
+00:06:44,875 --> 00:06:48,417
+takich jak dopamina,
+serotonina czy noradrenalina.
+
+132
+00:06:48,458 --> 00:06:51,708
+Zaraz po ćwiczeniach poprawia się nastrój,
+
+133
+00:06:51,750 --> 00:06:53,333
+czego sama zresztą doświadczyłam.
+
+134
+00:06:53,375 --> 00:06:55,792
+Moje badania udowodniły,
+że jednorazowa aktywność
+
+135
+00:06:55,833 --> 00:06:59,375
+może polepszyć umiejętność
+przenoszenia i skupiania uwagi
+
+136
+00:06:59,417 --> 00:07:03,083
+o co najmniej dwie godziny.
+
+137
+00:07:03,250 --> 00:07:04,958
+Co więcej, badania pokazały,
+
+138
+00:07:05,000 --> 00:07:08,375
+że jednorazowa aktywność
+poprawia czas reakcji,
+
+139
+00:07:08,417 --> 00:07:09,667
+dzięki czemu
+
+140
+00:07:09,708 --> 00:07:13,000
+szybciej złapiesz kubek kawy
+
+141
+00:07:13,042 --> 00:07:14,792
+spadający z lady w Starbucksie,
+
+142
+00:07:14,833 --> 00:07:16,375
+co jest przecież bardzo ważne.
+
+143
+00:07:16,417 --> 00:07:17,417
+(Śmiech)
+
+144
+00:07:17,458 --> 00:07:21,583
+Te natychmiastowe efekty są krótkotrwałe
+i pomocne tuż po aktywności.
+
+145
+00:07:22,208 --> 00:07:23,708
+Dlatego musicie wpleść do planu
+
+146
+00:07:23,750 --> 00:07:28,000
+więcej ćwiczeń zwiększających
+wydolność oddechowo-krążeniową,
+
+147
+00:07:28,042 --> 00:07:30,208
+co zapewni długotrwałe efekty.
+
+148
+00:07:30,458 --> 00:07:32,708
+Są one długotrwałe,
+
+149
+00:07:32,750 --> 00:07:37,042
+bo aktywność fizyczna zmienia anatomię,
+
+150
+00:07:37,167 --> 00:07:39,333
+fizjologię i wydolność mózgu.
+
+151
+00:07:39,875 --> 00:07:43,083
+Zacznijmy więc od mojego
+ulubionego obszaru mózgu.
+
+152
+00:07:43,875 --> 00:07:45,208
+Hipokamp,
+
+153
+00:07:45,250 --> 00:07:49,708
+a właściwie aktywność fizyczna,
+produkuje nowe komórki mózgowe.
+
+154
+00:07:49,750 --> 00:07:54,250
+Komórki w hipokampie,
+które rzeczywiście go powiększają
+
+155
+00:07:54,333 --> 00:07:58,750
+oraz poprawiają pamięć długotrwałą.
+
+156
+00:07:58,792 --> 00:08:01,208
+Zarówno moją, jak i waszą.
+
+157
+00:08:01,917 --> 00:08:05,458
+Po drugie, najczęstszym wnioskiem
+z badań neuronaukowych
+
+158
+00:08:05,500 --> 00:08:08,208
+w kwestii efektywności
+długotrwałej aktywności fizycznej,
+
+159
+00:08:08,250 --> 00:08:12,542
+jest poprawa koncentracji
+zależnej od kory przedczołowej.
+
+160
+00:08:12,583 --> 00:08:15,000
+Nie tylko lepiej się skupiamy,
+
+161
+00:08:15,042 --> 00:08:18,417
+ale i powiększamy nasz hipokamp.
+
+162
+00:08:18,667 --> 00:08:23,333
+Po trzecie, wpływ ćwiczeń na nastrój
+jest nie tylko natychmiastowy,
+
+163
+00:08:23,375 --> 00:08:25,167
+ale i długotrwały.
+
+164
+00:08:25,208 --> 00:08:30,667
+Zwiększa się liczba neuroprzekaźników
+odpowiedzialnych za dobry nastrój.
+
+165
+00:08:31,417 --> 00:08:35,750
+Niewątpliwie najbardziej
+nieocenionym efektem ćwiczeń
+
+166
+00:08:36,000 --> 00:08:39,166
+jest lepsza ochrona mózgu.
+
+167
+00:08:39,208 --> 00:08:42,041
+Pomyślcie o mózgu jak o mięśniu.
+
+168
+00:08:42,083 --> 00:08:43,750
+Im bardziej go ćwiczycie,
+
+169
+00:08:43,791 --> 00:08:48,750
+tym większy i silniejszy
+będzie wasz hipokamp i kora przedczołowa.
+
+170
+00:08:49,125 --> 00:08:50,416
+Dlaczego jest to ważne?
+
+171
+00:08:50,458 --> 00:08:53,208
+Ponieważ kora przedczołowa i hipokamp
+
+172
+00:08:53,250 --> 00:08:59,000
+są obszarami najbardziej narażonymi
+na choroby neurodegeneracyjne
+
+173
+00:08:59,041 --> 00:09:02,000
+i pogorszenie funkcji poznawczych
+spowodowane starzeniem.
+
+174
+00:09:02,458 --> 00:09:05,625
+Zwiększając aktywność fizyczną,
+
+175
+00:09:05,666 --> 00:09:08,791
+nie uleczysz Alzheimera czy demencji,
+
+176
+00:09:08,833 --> 00:09:13,708
+ale wzmocnisz hipokamp
+i korę przedczołową,
+
+177
+00:09:13,791 --> 00:09:18,541
+co spowolni rozwój tych chorób.
+
+178
+00:09:19,041 --> 00:09:21,833
+Dlatego myślcie o ćwiczeniach,
+
+179
+00:09:21,875 --> 00:09:27,250
+jak o bardzo opłacalnym
+funduszu emerytalnym dla mózgu.
+
+180
+00:09:27,291 --> 00:09:30,166
+Tym bardziej, że jest on darmowy.
+
+181
+00:09:31,375 --> 00:09:34,250
+W tym momencie zwykle wszyscy mówią:
+
+182
+00:09:34,291 --> 00:09:36,208
+"Brzmi to bardzo ciekawie,
+
+183
+00:09:36,416 --> 00:09:38,958
+ale chcę wiedzieć tylko jedno.
+
+184
+00:09:39,000 --> 00:09:42,916
+Zakładając najmniejszy wysiłek,
+ile muszę ćwiczyć,
+
+185
+00:09:42,958 --> 00:09:44,625
+żeby to wszystko osiągnąć?".
+
+186
+00:09:44,666 --> 00:09:45,666
+(Śmiech)
+
+187
+00:09:45,708 --> 00:09:48,625
+Oto odpowiedź na to pytanie.
+
+188
+00:09:48,708 --> 00:09:52,791
+Dobra wiadomość jest taka,
+że nie musicie być triathlonistami.
+
+189
+00:09:53,000 --> 00:09:57,541
+Zasadniczo należy ćwiczyć
+trzy do czterech razy w tygodniu
+
+190
+00:09:57,583 --> 00:10:00,791
+przez minimum 30 minut,
+
+191
+00:10:00,833 --> 00:10:03,666
+uwzględniając ćwiczenia aerobowe.
+
+192
+00:10:03,708 --> 00:10:05,666
+Innymi słowy, podnosimy tętno.
+
+193
+00:10:05,708 --> 00:10:07,958
+Nie musicie nawet iść na siłownię
+
+194
+00:10:08,000 --> 00:10:10,083
+i kupować bardzo drogiego karnetu.
+
+195
+00:10:10,250 --> 00:10:13,958
+Podczas marszu wystarczy zrobić
+dodatkową rundkę wokół bloku.
+
+196
+00:10:14,000 --> 00:10:15,875
+Jeśli możecie, wybierzcie schody.
+
+197
+00:10:16,291 --> 00:10:20,458
+A żwawe odkurzenie może być
+równie skuteczne jak aerobik,
+
+198
+00:10:20,500 --> 00:10:22,291
+na który poszlibyście na siłownię.
+
+199
+00:10:23,291 --> 00:10:27,166
+Ze specjalistki od pamięci,
+
+200
+00:10:27,208 --> 00:10:29,166
+stałam się badaczką aktywności fizycznej.
+
+201
+00:10:29,208 --> 00:10:32,958
+Od skupiania się
+na najskrytszych funkcjach mózgu
+
+202
+00:10:33,000 --> 00:10:37,208
+do próby zrozumienia, jak ćwiczenia
+mogą poprawić jego funkcjonowanie,
+
+203
+00:10:37,250 --> 00:10:40,041
+celem moich badań
+
+204
+00:10:40,083 --> 00:10:43,083
+jest wyjście poza schemat,
+który wam przedstawiłam,
+
+205
+00:10:43,125 --> 00:10:45,208
+czyli trzy do czterech razy,
+po pół godziny.
+
+206
+00:10:45,250 --> 00:10:50,250
+Chcę poznać optymalny rodzaj ćwiczeń
+
+207
+00:10:50,416 --> 00:10:54,375
+dla każdego, niezależnie od wieku,
+poziomu wysportowania
+
+208
+00:10:54,416 --> 00:10:56,166
+i podłoża genetycznego,
+
+209
+00:10:56,333 --> 00:11:00,041
+żeby zmaksymalizować
+efektywność ćwiczeń już dziś,
+
+210
+00:11:00,125 --> 00:11:05,416
+a ponadto jak najbardziej
+wzmocnić i chronić mózg
+
+211
+00:11:05,458 --> 00:11:06,791
+do końca twojego życia.
+
+212
+00:11:07,250 --> 00:11:11,291
+Mówić o ćwiczeniu to jedno,
+co innego rzeczywiście to robić.
+
+213
+00:11:11,333 --> 00:11:15,041
+Wykorzystam więc teraz
+swoje kwalifikacje instruktorskie,
+
+214
+00:11:15,083 --> 00:11:16,666
+prosząc was, żebyście wstali.
+
+215
+00:11:16,708 --> 00:11:18,541
+(Śmiech)
+
+216
+00:11:18,583 --> 00:11:20,833
+Poćwiczymy sobie przez minutę.
+
+217
+00:11:20,875 --> 00:11:24,333
+Akcja-reakcja, róbcie i mówcie to, co ja,
+
+218
+00:11:24,375 --> 00:11:27,333
+byle by nie uderzyć sąsiada.
+
+219
+00:11:27,458 --> 00:11:28,666
+Muzyka!
+
+220
+00:11:28,791 --> 00:11:30,375
+(Wesoła muzyka)
+
+221
+00:11:30,416 --> 00:11:34,875
+Pięć, sześć, siedem, osiem,
+prawa, lewa, prawa, lewa.
+
+222
+00:11:34,958 --> 00:11:39,625
+Mówię: Jestem silna.
+
+223
+00:11:39,666 --> 00:11:40,666
+A teraz wy.
+
+224
+00:11:40,708 --> 00:11:43,875
+Widownia: jesteśmy silni.
+
+225
+00:11:43,958 --> 00:11:47,583
+Wendy Suzuki: Panie mówią,
+jestem silna jak Wonder Woman.
+
+226
+00:11:47,625 --> 00:11:48,625
+Teraz wy!
+
+227
+00:11:48,666 --> 00:11:51,625
+Widownia: Jestem silna jak Wonder Woman.
+
+228
+00:11:51,666 --> 00:11:54,333
+WS: Wyprowadzamy cios, prawa, lewa.
+
+229
+00:11:54,416 --> 00:11:58,291
+Pełnia inspiracji! Powtórzcie.
+
+230
+00:11:58,333 --> 00:12:01,666
+Widownia: Pełnia inspiracji.
+
+231
+00:12:01,708 --> 00:12:05,583
+WS: A teraz do dołu,
+prawa, lewa, prawa, lewa.
+
+232
+00:12:05,625 --> 00:12:10,375
+Świetnie się czuję! Powtórzcie.
+
+233
+00:12:10,416 --> 00:12:13,708
+Widownia: Świetnie się czuję.
+
+234
+00:12:13,750 --> 00:12:16,208
+WS: I koniec! Dobra robota!
+
+235
+00:12:16,250 --> 00:12:21,458
+(Brawa)
+
+236
+00:12:21,500 --> 00:12:22,500
+Dziękuję.
+
+237
+00:12:23,125 --> 00:12:25,916
+Na zakończenie powiem jedno:
+
+238
+00:12:25,958 --> 00:12:29,375
+dzięki ćwiczeniom
+
+239
+00:12:29,416 --> 00:12:34,125
+będziecie zdrowsi i szczęśliwsi,
+
+240
+00:12:34,375 --> 00:12:38,958
+a wasze mózgi będą odporne
+na nieuleczalne choroby.
+
+241
+00:12:39,000 --> 00:12:43,833
+Tym sposobem jakość waszego życia
+
+242
+00:12:44,166 --> 00:12:45,333
+zmieni się na lepsze.
+
+243
+00:12:45,375 --> 00:12:46,625
+Bardzo dziękuję.
+
+244
+00:12:46,666 --> 00:12:49,916
+(Brawa)
+
+245
+00:12:49,958 --> 00:12:51,166
+Dziękuję.
+
+246
+00:12:51,208 --> 00:12:53,333
+(Brawa)
+

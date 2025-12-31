@@ -1,0 +1,1342 @@
+1
+00:00:00,000 --> 00:00:07,000
+Çeviri: Cihan Ekmekçi
+Gözden geçirme: Figen Ergürbüz Ekmekçi
+
+2
+00:00:04,333 --> 00:00:05,833
+Çok teşekkür ederim.
+
+3
+00:00:05,875 --> 00:00:09,875
+Konuya testislerle başlamak istiyorum.
+
+4
+00:00:10,167 --> 00:00:11,792
+(Gülme sesleri)
+
+5
+00:00:12,708 --> 00:00:15,458
+Beş saat uyuyan erkeklerin
+
+6
+00:00:15,458 --> 00:00:20,708
+en az yedi saat uyuyan erkeklere göre
+bariz oranda daha küçük testisleri var.
+
+7
+00:00:20,750 --> 00:00:23,542
+(Gülme sesleri)
+
+8
+00:00:23,583 --> 00:00:28,667
+Ayrıca rutin olarak sadece
+dört ile beş saat uyuyan erkeklerin
+
+9
+00:00:28,667 --> 00:00:31,208
+testosteron düzeyleri
+
+10
+00:00:31,208 --> 00:00:34,542
+kendilerinden 10 yaş
+daha olgun biriyle aynı.
+
+11
+00:00:36,583 --> 00:00:40,333
+Yani az uyku, bir erkeği
+bu önemli sağlık açısından
+
+12
+00:00:40,375 --> 00:00:43,166
+tam 10 yıl yaşlandırıyor.
+
+13
+00:00:45,458 --> 00:00:49,416
+Az uyku nedeniyle meydana gelen
+benzer bozuklukları
+
+14
+00:00:49,416 --> 00:00:51,458
+kadın üreme sağlığında da görüyoruz.
+
+15
+00:00:54,583 --> 00:00:57,250
+Bugün size vereceğim
+en iyi haberler bunlar.
+
+16
+00:00:57,250 --> 00:00:59,916
+(Gülme sesleri)
+
+17
+00:00:59,958 --> 00:01:02,333
+Bu noktadan sonra, sadece kötüye gidiyor.
+
+18
+00:01:02,375 --> 00:01:07,000
+Sadece uyuduğunuz zaman meydana gelen
+harika şeyleri değil
+
+19
+00:01:07,041 --> 00:01:11,500
+uyumadığınızda meydana gelen
+endişe verici şeyleri de anlatacağım,
+
+20
+00:01:11,542 --> 00:01:14,042
+hem beyin hem de vücudunuz üzerinde.
+
+21
+00:01:14,875 --> 00:01:17,292
+Beyinle başlayacağım
+
+22
+00:01:17,333 --> 00:01:20,333
+ve öğrenme ve hafıza fonksiyonlarıyla
+
+23
+00:01:20,375 --> 00:01:23,625
+çünkü yaklaşık son 10 yıldır
+şunu keşfettik:
+
+24
+00:01:23,667 --> 00:01:26,542
+Öğrenmenin ardından
+
+25
+00:01:26,583 --> 00:01:29,875
+o yeni anıları kaydetmek için
+uykuya ihtiyacımız var,
+
+26
+00:01:29,875 --> 00:01:31,167
+sonra unutmamak için.
+
+27
+00:01:32,458 --> 00:01:37,958
+Ancak son zamanlarda öğrenme
+öncesinde de uyku gerektiğini keşfettik,
+
+28
+00:01:38,000 --> 00:01:41,042
+beyninizi hazırlamak için,
+
+29
+00:01:41,083 --> 00:01:45,708
+tıpkı kuru bir sünger gibi
+yeni bilgiyi emmeye hazır.
+
+30
+00:01:46,667 --> 00:01:52,458
+Uyku olmadan beynin hafıza devreleri
+adeta suyla tıkanıyor
+
+31
+00:01:52,500 --> 00:01:54,750
+ve yeni anılar emilemiyor.
+
+32
+00:01:55,667 --> 00:01:57,583
+Size verileri göstereyim.
+
+33
+00:01:57,583 --> 00:02:01,833
+Bu çalışmada
+test etmek istediğimiz hipotez
+
+34
+00:02:01,875 --> 00:02:04,417
+tüm gece uyumanın iyi fikir olduğuydu.
+
+35
+00:02:05,750 --> 00:02:08,083
+Bir grup birey seçtik
+
+36
+00:02:08,125 --> 00:02:11,667
+ve onları iki deney grubuna ayırdık:
+
+37
+00:02:11,708 --> 00:02:15,167
+Uyku grubu ve uyku yoksunu grubu.
+
+38
+00:02:15,167 --> 00:02:19,792
+Buna göre, uyku grubu
+sekiz saatlik gece uykusunu alacak
+
+39
+00:02:19,833 --> 00:02:22,500
+ama uyku yoksunu grubu
+laboratuvarda uyanık tutacağız,
+
+40
+00:02:22,500 --> 00:02:24,667
+tamamen gözlem altında.
+
+41
+00:02:25,167 --> 00:02:29,542
+Şekerleme veya kafein yok bu arada,
+yani katılımcıların hâli perişan.
+
+42
+00:02:30,083 --> 00:02:31,625
+Sonraki gün ise
+
+43
+00:02:31,625 --> 00:02:35,958
+katılımcıları MRI tarama
+makinesine yerleştirip
+
+44
+00:02:35,958 --> 00:02:39,750
+onlara bir dizi yeni şey
+öğretmeye çalışacağız
+
+45
+00:02:39,792 --> 00:02:43,083
+ve bu esnada beyin aktivitesini
+görüntüleyeceğiz.
+
+46
+00:02:43,083 --> 00:02:45,083
+Sonra da onları test ederek
+
+47
+00:02:45,083 --> 00:02:47,583
+öğrenmenin ne kadar
+etkili olduğunu göreceğiz.
+
+48
+00:02:48,458 --> 00:02:51,375
+Burada dikey eksende gördüğünüz şey bu.
+
+49
+00:02:52,000 --> 00:02:57,542
+İki grubu birlikte değerlendirdiğinizde
+inanılmaz önemli bulgular ediniyorsunuz;
+
+50
+00:02:57,542 --> 00:03:03,500
+uykusuz yeni hafıza oluşturmada
+beynin yeteneğinde yüzde 40 düşüş.
+
+51
+00:03:04,542 --> 00:03:06,375
+Bence bu konuda endişelenmemiz lazım,
+
+52
+00:03:06,417 --> 00:03:11,083
+özellikle de şu anki eğitim nüfusumuzda
+uykunun yerini düşünürsek.
+
+53
+00:03:12,042 --> 00:03:13,875
+Hatta bunu biraz daha açalım,
+
+54
+00:03:13,875 --> 00:03:17,375
+bir çocuğun sınavını başarıyla geçmesi
+
+55
+00:03:17,417 --> 00:03:20,292
+ve yüzde 40 oranla başarısız olması
+arasındaki fark bu.
+
+56
+00:03:21,792 --> 00:03:26,000
+Beyinde daha nelerin yanlış giderek
+
+57
+00:03:26,000 --> 00:03:29,125
+bu tür öğrenme bozukluklarına
+yol açtığını keşfetmeye devam ettik.
+
+58
+00:03:30,250 --> 00:03:34,208
+Beyninizin sol ve sağ tarafında
+bir yapı var,
+
+59
+00:03:34,208 --> 00:03:36,500
+buna hipokampüs deniyor.
+
+60
+00:03:36,500 --> 00:03:38,292
+Hipokampüsün işlevini
+
+61
+00:03:38,333 --> 00:03:41,542
+beyninizin gelen kutusu
+gibi düşünebilirsiniz.
+
+62
+00:03:42,125 --> 00:03:46,750
+Yeni hafıza dosyaları almada
+ve onları saklamada çok iyi.
+
+63
+00:03:48,417 --> 00:03:53,167
+Tam gece uykusunu alan insanlarda
+bu yapıyı incelediğimiz zaman
+
+64
+00:03:53,250 --> 00:03:56,792
+çok sayıda sağlıklı,
+öğrenme ile ilişkili faaliyet gördük.
+
+65
+00:03:58,125 --> 00:04:01,083
+Uyku yoksunu insanlarda ise
+
+66
+00:04:01,125 --> 00:04:04,750
+hiçbir önemli sinyal bulamadık.
+
+67
+00:04:06,250 --> 00:04:11,208
+Yani adeta uyku yoksunluğu
+hafıza gelen kutunuzu kapatmış
+
+68
+00:04:11,250 --> 00:04:14,208
+ve gelen dosyalar -- geri çevriliyorlar.
+
+69
+00:04:15,417 --> 00:04:19,000
+Hafızanıza yeni deneyimler
+ekleyemiyorsunuz.
+
+70
+00:04:21,542 --> 00:04:26,042
+Uykuyu alıp hayatınızdan çıkarsam
+olacak olan kötü şey bu,
+
+71
+00:04:26,083 --> 00:04:29,167
+ama şu kontrol grubuna
+bir saniye geri döneyim.
+
+72
+00:04:29,958 --> 00:04:33,292
+Sekiz saatlik tam uyku uyuyan
+o insanlar var ya?
+
+73
+00:04:33,917 --> 00:04:36,375
+Şimdi çok farklı bir soru sorabiliriz:
+
+74
+00:04:36,417 --> 00:04:40,042
+Uykunun fizyolojik
+kalitesiyle ilgili bu şey ne ki
+
+75
+00:04:40,042 --> 00:04:41,583
+tam olarak aldığınız zaman
+
+76
+00:04:41,625 --> 00:04:46,542
+hafızanızı ve öğrenme yeteneğinizi
+her gün yeniden hazır hâle getiriyor?
+
+77
+00:04:47,500 --> 00:04:50,500
+Başın her bir yanına
+elektrotlar yerleştirerek
+
+78
+00:04:50,500 --> 00:04:54,542
+uykunun en derin evreleri
+esnasında meydana gelen
+
+79
+00:04:54,583 --> 00:04:58,208
+büyük, güçlü beyin dalgaları
+olduğunu keşfettik,
+
+80
+00:04:58,208 --> 00:05:00,500
+onların da üzerinde
+
+81
+00:05:00,542 --> 00:05:03,792
+inanılmaz elektrik aktivite atışları var,
+
+82
+00:05:03,833 --> 00:05:05,583
+bunlara uyku makarası diyoruz.
+
+83
+00:05:06,583 --> 00:05:11,000
+Bu derin uyku beyin dalgalarının
+kombine kalitesi
+
+84
+00:05:11,000 --> 00:05:15,458
+geceleri dosya transfer
+mekanizması gibi çalışıyor,
+
+85
+00:05:15,500 --> 00:05:19,583
+hafızaları, kısa süreli hassas bir depodan
+
+86
+00:05:19,583 --> 00:05:23,917
+beynin içindeki uzun süreli
+daha kalıcı bir depoya taşıyor
+
+87
+00:05:23,958 --> 00:05:27,333
+ve böylelikle onları korumuş,
+güvene almış oluyor.
+
+88
+00:05:28,958 --> 00:05:31,000
+Ayrıca bu hafıza faydalarını
+
+89
+00:05:31,042 --> 00:05:36,083
+uyku esnasında neyin sağladığını
+anlamamız da önemli
+
+90
+00:05:36,125 --> 00:05:40,250
+çünkü gerçekten
+tıbbi ve sosyal sonuçlar doğuruyor.
+
+91
+00:05:40,292 --> 00:05:42,292
+Bir de tıbbı açıdan bu konuyu bağladığımız
+
+92
+00:05:42,292 --> 00:05:45,750
+bir alandan bahsetmek istiyorum;
+
+93
+00:05:45,792 --> 00:05:49,000
+yaşlanma ve demans.
+
+94
+00:05:50,375 --> 00:05:53,792
+Çünkü herkes biliyor ki
+yaşımız ilerledikçe
+
+95
+00:05:53,833 --> 00:05:57,083
+öğrenme ve hafıza yetilerimiz
+körelmeye ve düşmeye başlar.
+
+96
+00:05:58,542 --> 00:06:00,167
+Ancak şunu da keşfettik ki
+
+97
+00:06:00,208 --> 00:06:06,958
+yaşlanmanın fizyolojik göstergesi
+uykunun kötüye gitmesi,
+
+98
+00:06:07,000 --> 00:06:10,792
+özellikle de az önce bahsettiğim
+uykunun derin evresi.
+
+99
+00:06:12,125 --> 00:06:15,250
+Geçen yıl sonunda kanıtlar yayınladık,
+
+100
+00:06:15,250 --> 00:06:18,208
+bu iki şey aslında
+birlikte meydana gelmiyor,
+
+101
+00:06:18,250 --> 00:06:21,042
+belirgin şekilde birbiriyle ilgili.
+
+102
+00:06:22,333 --> 00:06:25,625
+Ve buna göre derin uykunun bozulması
+
+103
+00:06:25,667 --> 00:06:29,708
+yaşlanmada bilişsel körelme
+ve hafıza körelmesinde
+
+104
+00:06:29,708 --> 00:06:31,875
+henüz tanınmayan bir etken,
+
+105
+00:06:31,917 --> 00:06:35,500
+en son olarak ortaya çıkardığımız şey,
+
+106
+00:06:35,500 --> 00:06:37,708
+Alzheimer hastalığında da öyle.
+
+107
+00:06:39,833 --> 00:06:43,583
+Bunlar çok üzücü haberler, biliyorum.
+
+108
+00:06:43,583 --> 00:06:45,875
+Ama bu sorunlar yolda, bize doğru geliyor.
+
+109
+00:06:45,917 --> 00:06:48,208
+Ancak burada bir umut ışığı var.
+
+110
+00:06:49,250 --> 00:06:54,125
+Yaşlanmayla ilişkili bildiğimiz
+diğer etkenlerin aksine,
+
+111
+00:06:54,125 --> 00:06:57,792
+beynin fiziksel yapısındaki
+değişiklikler gibi
+
+112
+00:06:57,833 --> 00:07:00,875
+tedavisi aşırı zor şeyler.
+
+113
+00:07:00,917 --> 00:07:05,458
+Yaşlanma ve Alzheimer's konusunda
+uyku, yapbozun kayıp bir parçası
+
+114
+00:07:05,500 --> 00:07:08,083
+ve bu heyecan verici
+
+115
+00:07:08,125 --> 00:07:10,833
+çünkü belki bu konuda
+bir şeyler yapabiliriz.
+
+116
+00:07:12,042 --> 00:07:15,958
+Uyku merkezimde bunu inceliyoruz,
+
+117
+00:07:16,000 --> 00:07:19,000
+bu arada uyku hapı kullanmıyoruz.
+
+118
+00:07:19,000 --> 00:07:23,958
+Ne yazık ki doğal uyku sağlamayan
+riskli araçlar mevcut.
+
+119
+00:07:25,042 --> 00:07:28,292
+Bunun yerine, bu temelde
+bir yöntem geliştiriyoruz.
+
+120
+00:07:28,292 --> 00:07:31,500
+Adı doğrudan akımlı beyin stimulasyonu.
+
+121
+00:07:31,542 --> 00:07:34,833
+Beyne az bir miktar voltaj veriyorsunuz,
+
+122
+00:07:34,833 --> 00:07:37,083
+o kadar az ki hissetmiyorsunuz bile
+
+123
+00:07:37,125 --> 00:07:39,000
+ama gözlemlenebilen bir etkisi var.
+
+124
+00:07:40,333 --> 00:07:46,667
+Bu stimülasyonu uyku esnasında
+genç, sağlıklı yetişkinlerde uygularsanız,
+
+125
+00:07:46,708 --> 00:07:51,417
+bir nevi o derin uyku beyin dalgalarıyla
+şarkı söylemek gibi,
+
+126
+00:07:51,417 --> 00:07:55,958
+sadece o derin uyku beyin dalgalarının
+boyutunu büyütmekle kalmıyor,
+
+127
+00:07:56,000 --> 00:08:00,542
+ayrıca uykudan edineceğiniz
+hafıza faydalarını
+
+128
+00:08:00,583 --> 00:08:02,583
+neredeyse ikiye katlayabiliyorsunuz.
+
+129
+00:08:02,625 --> 00:08:05,417
+Geriye kalan soru da
+
+130
+00:08:05,458 --> 00:08:09,750
+bu hesaplı, muhtemelen
+taşınabilir teknolojiyi
+
+131
+00:08:09,792 --> 00:08:12,667
+yaşlılara ve demans mağdurlarına
+uygulayabilmek.
+
+132
+00:08:14,208 --> 00:08:18,792
+Sağlıklı derin uyku kalitesini
+geri getirebilir miyiz
+
+133
+00:08:18,833 --> 00:08:24,875
+ve bu şekilde öğrenme
+ve hafıza fonskiyonunu kurtarabilir miyiz?
+
+134
+00:08:25,000 --> 00:08:27,167
+Umudum bu yönde.
+
+135
+00:08:27,875 --> 00:08:30,875
+Zor hedeflerimizden biri bu.
+
+136
+00:08:32,833 --> 00:08:36,208
+Bu beyin için uykunun bir örneği
+
+137
+00:08:36,208 --> 00:08:39,416
+ama uyku da bedeniniz için
+aynı öneme sahip.
+
+138
+00:08:40,791 --> 00:08:44,458
+Uyku yoksunluğu ve üreme sistemi
+hakkında zaten konuştuk.
+
+139
+00:08:45,375 --> 00:08:50,208
+Ama uyku yoksunluğu ve kardiyovasküler
+sistem hakkında da konuşabiliriz
+
+140
+00:08:50,250 --> 00:08:53,416
+ve tüm gereken bir saat.
+
+141
+00:08:53,458 --> 00:08:58,958
+Çünkü 1,6 milyar insan üzerinde
+uygulanan küresel bir deney var,
+
+142
+00:08:58,958 --> 00:09:03,250
+yılda iki kez 70 ülkede uygulanıyor
+
+143
+00:09:03,291 --> 00:09:05,166
+ve buna yaz saati uygulaması deniyor.
+
+144
+00:09:06,416 --> 00:09:09,875
+İlkbaharda bir saat uyku kaybettiğimizde
+
+145
+00:09:09,875 --> 00:09:15,500
+hemen ertesi gün kalp krizi vakalarında
+yüzde 24'lük önemli bir artış oluyor.
+
+146
+00:09:18,458 --> 00:09:21,625
+Sonbaharda bir saat uyku kazandığımızda
+
+147
+00:09:21,666 --> 00:09:25,500
+kalp krizi vakalarında
+yüzde 21 düşüş görüyoruz.
+
+148
+00:09:27,250 --> 00:09:28,916
+Bu inanılmaz değil mi?
+
+149
+00:09:30,416 --> 00:09:36,125
+Aynı oranları araba kazaları
+ve trafik kazalarında da görüyoruz,
+
+150
+00:09:36,125 --> 00:09:38,041
+hatta intihar vakalarında.
+
+151
+00:09:40,416 --> 00:09:43,333
+Ama daha derinden
+odaklanmak istediğim şey
+
+152
+00:09:43,375 --> 00:09:45,833
+uyku kaybı ve bağışıklık sisteminiz.
+
+153
+00:09:46,666 --> 00:09:51,500
+Burada bu güzel
+mavi elementleri görüyorsunuz.
+
+154
+00:09:51,500 --> 00:09:54,708
+Onlara doğal öldürücü hücreler deniyor.
+
+155
+00:09:54,708 --> 00:09:57,166
+Doğal öldürücü hücrelerini
+
+156
+00:09:57,166 --> 00:10:01,208
+bağışıklık sisteminizin gizli
+istihbarat ajanları gibi düşünebilirsiniz.
+
+157
+00:10:01,208 --> 00:10:04,458
+Tehlikeli, istenmeyen
+elementleri belirlemede
+
+158
+00:10:04,458 --> 00:10:07,625
+ve onları yok etmede çok iyiler.
+
+159
+00:10:08,750 --> 00:10:12,708
+Burada yaptıkları şey
+kanserli bir tümörü yok etmek.
+
+160
+00:10:14,083 --> 00:10:18,250
+Bu bağışıklık katillerinden iyi bir gruba
+
+161
+00:10:18,250 --> 00:10:22,083
+her zaman sahip olmak istersiniz
+
+162
+00:10:22,125 --> 00:10:25,916
+ama ne yazık ki yeterince uyumadığınızda
+bunlara sahip olamıyorsunuz.
+
+163
+00:10:27,333 --> 00:10:28,958
+Bu deneyde,
+
+164
+00:10:29,000 --> 00:10:32,833
+tüm bir gece boyunca uykunuzdan
+yoksun kalmayacaksınız,
+
+165
+00:10:32,833 --> 00:10:38,125
+sadece bir gece için
+uykunuz dört saatle kısıtlanacak,
+
+166
+00:10:38,166 --> 00:10:43,375
+sonra bağışıklık hücresi aktivitesindeki
+yüzdelik düşüşü gözlemleyeceğiz.
+
+167
+00:10:44,291 --> 00:10:47,083
+Küçük bir oran değil -- yüzde 10 değil.
+
+168
+00:10:47,125 --> 00:10:49,125
+Yüzde 20 de değil.
+
+169
+00:10:49,166 --> 00:10:53,708
+Doğal öldürücü hücre aktivitesinde
+yüzde 70 oranında düşüş var.
+
+170
+00:10:55,291 --> 00:10:59,333
+İşte bu endişe verici
+bir bağışıklık yetersizliği
+
+171
+00:11:00,875 --> 00:11:07,541
+ve muhtemelen kısa süreli uyku
+ve sayısız kanser çeşidi arasında
+
+172
+00:11:07,583 --> 00:11:11,500
+artık neden önemli bağlantılar
+bulmaya başladığımızı anlıyorsunuzdur.
+
+173
+00:11:13,375 --> 00:11:16,166
+Şu an için bu listede bağırsak kanseri,
+
+174
+00:11:16,208 --> 00:11:19,458
+prostat kanseri ve göğüs kanseri var.
+
+175
+00:11:21,333 --> 00:11:26,708
+Aslında az uyku ve kanser arasındaki
+bağlantı o kadar güçlü ki
+
+176
+00:11:26,750 --> 00:11:29,125
+Dünya Sağlık Örgütü
+
+177
+00:11:29,125 --> 00:11:33,333
+gece vardiyalı tüm meslek türlerini
+
+178
+00:11:33,333 --> 00:11:36,541
+uyku ve uyanma ritimlerindeki
+kesintiler sebebiyle
+
+179
+00:11:36,541 --> 00:11:39,333
+muhtemel kanserojen olarak sınıfladı.
+
+180
+00:11:41,333 --> 00:11:44,041
+O eski lafı duymuşsunuzdur,
+
+181
+00:11:44,083 --> 00:11:46,208
+öldüğünüz zaman uyuyabilirsiniz.
+
+182
+00:11:46,208 --> 00:11:48,291
+Şu an çok ciddiyim,
+
+183
+00:11:48,333 --> 00:11:50,916
+bu ölümcül bir tavsiye.
+
+184
+00:11:51,875 --> 00:11:56,916
+Milyonlarca bireyle yaptığımız
+epidemiyolojik çalışmalardan biliyoruz.
+
+185
+00:11:56,916 --> 00:11:58,916
+Basit bir gerçek var:
+
+186
+00:11:58,958 --> 00:12:02,333
+uykunuz ne kadar kısaysa
+hayatınız da o kadar kısa olur.
+
+187
+00:12:02,375 --> 00:12:05,916
+Az uyku tüm ölüm sebepleriyle
+ilişkilendirilebilir.
+
+188
+00:12:08,458 --> 00:12:12,625
+Ve eğer kanser hastası
+olma riskinizin artması
+
+189
+00:12:12,625 --> 00:12:14,875
+ve hatta Alzheimer riskinizin artması
+
+190
+00:12:14,916 --> 00:12:19,083
+yeterince boğazınızı düğümlemediyse
+
+191
+00:12:19,083 --> 00:12:22,791
+keşfettiğimiz bir diğer şey de
+
+192
+00:12:22,833 --> 00:12:26,916
+yetersiz uykunun biyolojik hayatı sildiği,
+
+193
+00:12:28,166 --> 00:12:30,166
+yani DNA genetik kodunuzu.
+
+194
+00:12:31,541 --> 00:12:35,458
+Bu çalışmada bir grup sağlıklı yetişkin
+
+195
+00:12:35,500 --> 00:12:40,875
+bir hafta boyunca altı saat
+uykuyla kısıtlandı.
+
+196
+00:12:40,916 --> 00:12:44,750
+Sonra da gen aktivitesi
+profillerindeki değişiklikler
+
+197
+00:12:44,750 --> 00:12:47,208
+aynı deney grubunun
+
+198
+00:12:47,208 --> 00:12:50,166
+sekiz saat gece uykusu aldıkları
+zamanla karşılaştırıldı.
+
+199
+00:12:50,958 --> 00:12:52,750
+İki önemli şey tespit edildi.
+
+200
+00:12:53,708 --> 00:12:58,791
+Birincisi, büyük ve önemli 711 gen
+
+201
+00:12:58,791 --> 00:13:02,625
+yetersiz uyku yüzünden
+aktiviteleri esnasında sapmalar yaşadı,
+
+202
+00:13:03,416 --> 00:13:08,958
+İkincisi ise bu genlerin yaklaşık yarısı
+aktivitelerinde artış göstermişti.
+
+203
+00:13:09,333 --> 00:13:11,291
+Diğer yarısı ise azalmıştı.
+
+204
+00:13:11,958 --> 00:13:15,208
+Yetersiz uyku nedeniyle çalışmayan genler
+
+205
+00:13:15,250 --> 00:13:18,750
+bağışıklık sisteminizle alakalı genler,
+
+206
+00:13:18,750 --> 00:13:21,625
+yani yine bağışıklık yetersizliğini
+gözlemleyebilirsiniz.
+
+207
+00:13:22,833 --> 00:13:25,916
+Buna karşın, yetersiz uyku sebebiyle
+
+208
+00:13:25,958 --> 00:13:28,333
+sayısı veya aktivitesi artan genler
+
+209
+00:13:28,333 --> 00:13:32,250
+tümörlerin tutunmasıyla
+ilişkilendirilen genler,
+
+210
+00:13:32,250 --> 00:13:37,416
+vücutta uzun vadeli kronik inflamasyon
+ile ilişkilendirilen genler
+
+211
+00:13:37,458 --> 00:13:40,250
+ve de strestle ilgili genler.
+
+212
+00:13:40,250 --> 00:13:43,291
+Bunun bir sonucu da
+karsiyovasküler hastalık.
+
+213
+00:13:44,666 --> 00:13:48,333
+Uyku yoksunluğu sonucu gerileyecek
+
+214
+00:13:48,375 --> 00:13:53,708
+ve size acı çektirmeden kaybolacak
+hiçbir sağlık sorunu yok.
+
+215
+00:13:54,416 --> 00:13:57,416
+Tıpkı evinizdeki kırık bir su borusu gibi.
+
+216
+00:13:57,458 --> 00:14:02,791
+Yetersiz uyku fizyolojinizin
+tüm delik ve çatlaklarından dışarı akacak,
+
+217
+00:14:03,541 --> 00:14:07,416
+hatta DNA nükleik alfabenizi değiştirecek,
+
+218
+00:14:07,458 --> 00:14:10,291
+günlük sağlık rutininizi belirleyecek.
+
+219
+00:14:13,375 --> 00:14:16,041
+Bu aşamada şöyle düşünebilirsiniz,
+
+220
+00:14:16,083 --> 00:14:18,625
+"Aman Tanrım, daha iyi uyumaya
+nasıl başlayabilirim?
+
+221
+00:14:18,625 --> 00:14:20,875
+İyi uyku için tavsiyeleriniz neler?"
+
+222
+00:14:21,583 --> 00:14:28,958
+Alkol ve kafeinin uyku üzerindeki
+zararlı etkisinden kaçınmak dışında
+
+223
+00:14:29,041 --> 00:14:31,458
+gece uyumakta zorluk çekiyorsanız,
+
+224
+00:14:31,500 --> 00:14:33,666
+gün içinde şekerleme yapmıyorsanız
+
+225
+00:14:33,708 --> 00:14:36,041
+sizin için iki tavsiyem var.
+
+226
+00:14:36,583 --> 00:14:39,416
+Birincisi düzenli olmak.
+
+227
+00:14:39,458 --> 00:14:42,833
+Aynı saatte uyumaya
+ve aynı saatte uyanmaya özen gösterin,
+
+228
+00:14:42,875 --> 00:14:45,916
+ister hafta içi ister hafta sonu olsun.
+
+229
+00:14:45,958 --> 00:14:48,708
+Düzenlilik bu işin sırrı
+
+230
+00:14:48,708 --> 00:14:50,666
+ve uykunuzu düzene sokarak
+
+231
+00:14:50,708 --> 00:14:54,000
+uykunuzun hem miktarını
+hem de kalitesini artıracak.
+
+232
+00:14:55,875 --> 00:14:58,541
+İkincisi odayı serin tutun.
+
+233
+00:14:59,583 --> 00:15:02,000
+Uykuya geçiş ve uykuda kalabilmek için
+
+234
+00:15:02,041 --> 00:15:07,875
+vücut ısısının iki ile üç derece
+düşmesi lazım.
+
+235
+00:15:08,375 --> 00:15:10,875
+Bu yüzden sıcak bir odaya kıyasla
+
+236
+00:15:10,916 --> 00:15:14,541
+soğuk bir odada
+daha rahat uykuya dalarsınız.
+
+237
+00:15:15,500 --> 00:15:21,000
+O yüzden oda ısısını
+18 derece tutmaya çalışın.
+
+238
+00:15:21,041 --> 00:15:23,791
+Pek çok insanın uykusu için
+bu optimal olacaktır.
+
+239
+00:15:25,958 --> 00:15:29,458
+Ve nihayet bir adım geri adım atıyoruz,
+
+240
+00:15:29,458 --> 00:15:32,666
+burada en önemli şey neydi?
+
+241
+00:15:34,291 --> 00:15:36,500
+Sanırım şu olabilir:
+
+242
+00:15:36,500 --> 00:15:41,791
+Ne yazık ki uyku seçmeli
+bir hayat tarzı lüksü değil.
+
+243
+00:15:42,625 --> 00:15:47,166
+Uyku, tartışması yapılamayacak
+biyolojik bir gereklilik.
+
+244
+00:15:48,375 --> 00:15:52,000
+Sizin yaşam destek sisteminiz
+
+245
+00:15:52,000 --> 00:15:56,625
+ve doğanın ölümsüzlük adına
+yapabildiği en iyi şey.
+
+246
+00:15:58,208 --> 00:16:02,708
+Sanayileşen ülkelerde uykunun mahvedilmesi
+
+247
+00:16:02,750 --> 00:16:07,958
+sağlık ve refahımızın hatta çocuklarımızın
+güvenliği ve eğitimi üzerinde
+
+248
+00:16:08,000 --> 00:16:10,666
+felakete yol açabilecek etkiler doğuruyor.
+
+249
+00:16:11,833 --> 00:16:14,833
+Bu sessiz bir uyku kaybı salgını
+
+250
+00:16:14,875 --> 00:16:18,208
+ve hızla 21. yüzyılda karşılaştığımız
+
+251
+00:16:18,250 --> 00:16:20,958
+en büyük kamu sağlığı
+sorunlarından birine dönüşüyor.
+
+252
+00:16:23,791 --> 00:16:30,291
+Bence artık tam bir gece uykusu
+hakkımızı geri almamızın zamanı geldi,
+
+253
+00:16:31,500 --> 00:16:33,666
+utanmadan
+
+254
+00:16:33,708 --> 00:16:37,083
+veya tembellik yargılamasından korkmadan.
+
+255
+00:16:38,125 --> 00:16:44,125
+Bu şekilde en güçlü hayat iksiriyle
+yeniden buluşabiliriz,
+
+256
+00:16:45,541 --> 00:16:48,250
+sağlığın çok amaçlı İsviçre çakısı gibi.
+
+257
+00:16:50,166 --> 00:16:52,791
+Bu konuşmamı da sonlandırırken
+
+258
+00:16:52,833 --> 00:16:54,916
+sadece iyi geceler, iyi şanslar diyeceğim
+
+259
+00:16:54,958 --> 00:16:56,083
+ve hepsinden ötesi...
+
+260
+00:16:58,375 --> 00:17:00,166
+Umarım iyi uyursunuz.
+
+261
+00:17:00,166 --> 00:17:01,541
+Çok teşekkür ederim.
+
+262
+00:17:01,541 --> 00:17:06,083
+(Alkışlar)
+
+263
+00:17:06,125 --> 00:17:07,250
+Teşekkürler.
+
+264
+00:17:07,291 --> 00:17:10,125
+(Alkışlar)
+
+265
+00:17:10,167 --> 00:17:11,708
+Çok teşekkürler.
+
+266
+00:17:11,708 --> 00:17:14,458
+David Biello: Hayır, hayır.
+Orada bir dakika bekle.
+
+267
+00:17:14,500 --> 00:17:17,042
+Kaçmamakla iyi ettin, teşekkürler.
+
+268
+00:17:17,083 --> 00:17:18,333
+Bu dehşet vericiydi.
+
+269
+00:17:18,333 --> 00:17:21,417
+Matt Walker: Ben teşekkür ederim.
+DB: Evet, teşekkürler.
+
+270
+00:17:21,833 --> 00:17:27,000
+Uykumuzu alamadığımıza göre
+ne yapmamız gerekiyor?
+
+271
+00:17:27,000 --> 00:17:30,542
+Mesela gecenin bir vakti
+yatakta dönüp duruyorsak
+
+272
+00:17:30,583 --> 00:17:33,625
+veya vardiyalı bir iş falan yapıyorsak?
+
+273
+00:17:33,667 --> 00:17:36,000
+MW: Doğru söylüyorsun,
+uykumuzu alamıyoruz.
+
+274
+00:17:36,042 --> 00:17:37,333
+Uyku bir banka gibi değil.
+
+275
+00:17:37,375 --> 00:17:42,125
+Kredi alıp daha sonra ödeyemiyorsunuz.
+
+276
+00:17:42,167 --> 00:17:48,375
+Bu kadar dehşet verici olan şey
+sağlığımızı hızla bozuyor olması,
+
+277
+00:17:48,417 --> 00:17:51,125
+bunun birinci sebebi, biz insanlar
+bilinçli bir şekilde
+
+278
+00:17:51,167 --> 00:17:56,042
+bir sebep yokken kendini uykudan
+yoksun bırakan tek türüz.
+
+279
+00:17:56,083 --> 00:17:57,208
+DB: Çünkü zekiyiz.
+
+280
+00:17:57,250 --> 00:18:02,083
+MW: Bunu özellikle belirtiyorum,
+çünkü doğa
+
+281
+00:18:02,083 --> 00:18:03,792
+evrim tarihi boyunca
+
+282
+00:18:03,792 --> 00:18:08,125
+uyku yoksunluğu denen bu şeyle
+uğraşmak zorunda kalmadı.
+
+283
+00:18:08,792 --> 00:18:12,208
+O yüzden doğa uykuya karşı bir
+güvenlik önlemi oluşturmadı
+
+284
+00:18:12,250 --> 00:18:14,375
+ve bu yüzden de yetersiz uyuduğunuzda
+
+285
+00:18:14,375 --> 00:18:18,708
+her şey çok çabuk ortaya çıkıyor,
+hem beyinde hem de vücutta.
+
+286
+00:18:18,750 --> 00:18:21,500
+O yüzden bunu öncelik yapmanız lazım.
+
+287
+00:18:21,542 --> 00:18:26,250
+DB: Pekâlâ, ama yatakta dönüp durmak
+konusunda ne yapmalı?
+
+288
+00:18:26,292 --> 00:18:30,917
+MW: Yatakta çok uzun süre
+uyanık kalıyorsanız
+
+289
+00:18:30,958 --> 00:18:34,042
+yataktan çıkıp başka bir odaya gitmeli
+
+290
+00:18:34,042 --> 00:18:35,542
+ve başka bir şey yapmalısınız.
+
+291
+00:18:35,542 --> 00:18:42,208
+Çünkü beyniniz yatak odanızı hemen
+uyanıklık merkezi olarak algılayacak
+
+292
+00:18:42,250 --> 00:18:44,917
+ve sizin de bu algıyı kırmanız lazım.
+
+293
+00:18:44,958 --> 00:18:47,833
+Sadece uykunuz geldiğinde yatağa dönün,
+
+294
+00:18:47,875 --> 00:18:51,417
+bu şekilde yatakla olan algınızı
+yeniden öğrenebilirsiniz;
+
+295
+00:18:51,458 --> 00:18:53,958
+uyuma yeri olarak.
+
+296
+00:18:53,958 --> 00:18:55,625
+Buna bir benzetme şöyle olurdu;
+
+297
+00:18:55,667 --> 00:18:59,250
+yemek masasında oturup
+acıkmayı beklemezsiniz,
+
+298
+00:18:59,250 --> 00:19:02,208
+o zaman yatağın içinde yatıp
+uykunuzun gelmesini de beklemeyin.
+
+299
+00:19:03,042 --> 00:19:05,042
+DB: Bizi uyandırdığın için teşekkürler.
+
+300
+00:19:05,083 --> 00:19:06,250
+Harika işti, Matt.
+
+301
+00:19:06,250 --> 00:19:08,458
+MW: Ben teşekkür ederim.
+

@@ -1,42 +1,22 @@
 {
   "version": 2,
-  "updated_at": "2025-12-24",
+  "schema_version": 1,
+  "status": 1,
+  "updated_at": "2025-12-31",
   "videos": [
     {
       "id": "yt_-moW9jvvMr4",
       "youtube_id": "-moW9jvvMr4",
       "title": "A Simple Way to Break a Bad Habit | Judson Brewer | TED",
       "channel": "TED",
-      "duration": "9:24",
-      "duration_sec": 564,
+      "duration": "9:25",
+      "duration_sec": 565,
       "category": "TED Talks",
       "language": "English",
-      "level": "C1",
-      "tags": ["habits", "mindfulness","psychology","neuroscience","addiction","attention","stress"],
-      "subtitles": [
-        {
-          "id": "sub_-moW9jvvMr4_en",
-          "video_id": "yt_-moW9jvvMr4",
-          "language": "en",
-          "label": "English",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/-moW9jvvMr4/en.srt"
-          }
-        },
-        {
-          "id": "sub_-moW9jvvMr4_ar",
-          "video_id": "yt_-moW9jvvMr4",
-          "language": "ar",
-          "label": "Arabic",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/-moW9jvvMr4/ar.srt"
-          }
-        }
-      ]
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/-moW9jvvMr4/subs.json"
     },
-     {
+    {
       "id": "yt_5MuIMqhT8DM",
       "youtube_id": "5MuIMqhT8DM",
       "title": "Sleep Is Your Superpower | Matt Walker | TED",
@@ -44,65 +24,21 @@
       "duration": "19:18",
       "duration_sec": 1158,
       "category": "TED Talks",
-      "language": "arabic",
-      "level": "C1",
-      "tags": ["health", "dementia","psychology","neuroscience","learning","memory","brain"],
-      "subtitles": [
-        {
-          "id": "sub_5MuIMqhT8DM_en",
-          "video_id": "yt_5MuIMqhT8DM",
-          "language": "en",
-          "label": "English",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/5MuIMqhT8DM/en.srt"
-          }
-        },
-        {
-          "id": "sub_5MuIMqhT8DM_ar",
-          "video_id": "yt_5MuIMqhT8DM",
-          "language": "ar",
-          "label": "Arabic",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/5MuIMqhT8DM/ar.srt"
-          }
-        }
-      ]
+      "language": "English",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/5MuIMqhT8DM/subs.json"
     },
     {
       "id": "yt_o_XVt5rdpFY",
       "youtube_id": "o_XVt5rdpFY",
       "title": "The secrets of learning a new language | Lýdia Machová | TED",
       "channel": "TED",
-      "duration": "10:45",
-      "duration_sec": 645,
+      "duration": "10:46",
+      "duration_sec": 646,
       "category": "TED Talks",
-      "language": "turkish",
-      "level": "B2",
-      "tags": ["languages", "polyglots","fluency","pronunciation","speaking","memory","motivation"],
-      "subtitles": [
-        {
-          "id": "sub_o_XVt5rdpFY_en",
-          "video_id": "yt_o_XVt5rdpFY",
-          "language": "en",
-          "label": "English",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/o_XVt5rdpFY/en.srt"
-          }
-        },
-        {
-          "id": "sub_o_XVt5rdpFY_ar",
-          "video_id": "yt_o_XVt5rdpFY",
-          "language": "ar",
-          "label": "Arabic",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/o_XVt5rdpFY/ar.srt"
-          }
-        }
-      ]
+      "language": "English",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/o_XVt5rdpFY/subs.json"
     },
     {
       "id": "yt_8jPQjjsBbIc",
@@ -112,31 +48,33 @@
       "duration": "12:20",
       "duration_sec": 740,
       "category": "TED Talks",
-      "language": "korean",
-      "level": "C1",
-      "tags": ["decision making", "habits","critical thinking","psychology","neuroscience","cognition","planning"],
-      "subtitles": [
-        {
-          "id": "sub_8jPQjjsBbIc_en",
-          "video_id": "yt_8jPQjjsBbIc",
-          "language": "en",
-          "label": "English",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/8jPQjjsBbIc/en.srt"
-          }
-        },
-        {
-          "id": "sub_8jPQjjsBbIc_ar",
-          "video_id": "yt_8jPQjjsBbIc",
-          "language": "ar",
-          "label": "Arabic",
-          "format": "srt",
-          "source": {
-            "url": "https://www.subx.app/subs/8jPQjjsBbIc/ar.srt"
-          }
-        }
-      ]
+      "language": "English",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/8jPQjjsBbIc/subs.json"
+    },
+    {
+      "id": "yt_PY9DcIMGxMs",
+      "youtube_id": "PY9DcIMGxMs",
+      "title": "Everything you think you know about addiction is wrong | Johann Hari | TED",
+      "channel": "TED",
+      "duration": "14:42",
+      "duration_sec": 882,
+      "category": "TED Talks",
+      "language": "English",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/PY9DcIMGxMs/subs.json"
+    },
+    {
+      "id": "yt_BHY0FxzoKZE",
+      "youtube_id": "BHY0FxzoKZE",
+      "title": "The Brain-Changing Benefits of Exercise | Wendy Suzuki | TED",
+      "channel": "TED",
+      "duration": "13:03",
+      "duration_sec": 783,
+      "category": "TED Talks",
+      "language": "English",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/BHY0FxzoKZE/subs.json"
     }
   ]
 }
