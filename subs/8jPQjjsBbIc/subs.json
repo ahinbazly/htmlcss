@@ -254,6 +254,17 @@
       "source": {
         "url": "https://www.subx.app/subs/8jPQjjsBbIc/id.srt"
       }
+    },
+    {
+      "id": "sub_8jPQjjsBbIc_sv",
+      "video_id": "yt_8jPQjjsBbIc",
+      "language": "sv",
+      "label": "Swedish",
+      "format": "srt",
+      "auto": 0,
+      "source": {
+        "url": "https://www.subx.app/subs/8jPQjjsBbIc/sv.srt"
+      }
     }
   ]
 }
