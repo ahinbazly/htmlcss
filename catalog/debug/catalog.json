@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "schema_version": 1,
   "status": 1,
   "updated_at": "2025-12-31",
@@ -17,18 +17,6 @@
       "subtitle_url": "https://www.subx.app/subs/-moW9jvvMr4/subs.json"
     },
     {
-      "id": "yt_5MuIMqhT8DM",
-      "youtube_id": "5MuIMqhT8DM",
-      "title": "Sleep Is Your Superpower | Matt Walker | TED",
-      "channel": "TED",
-      "duration": "19:18",
-      "duration_sec": 1158,
-      "category": "TED Talks",
-      "language": "English",
-      "level": 1,
-      "subtitle_url": "https://www.subx.app/subs/5MuIMqhT8DM/subs.json"
-    },
-    {
       "id": "yt_o_XVt5rdpFY",
       "youtube_id": "o_XVt5rdpFY",
       "title": "The secrets of learning a new language | Lýdia Machová | TED",
@@ -37,7 +25,7 @@
       "duration_sec": 646,
       "category": "TED Talks",
       "language": "English",
-      "level": 1,
+      "level": 0,
       "subtitle_url": "https://www.subx.app/subs/o_XVt5rdpFY/subs.json"
     },
     {
@@ -61,34 +49,10 @@
       "duration_sec": 882,
       "category": "TED Talks",
       "language": "English",
-      "level": 1,
+      "level": 2,
       "subtitle_url": "https://www.subx.app/subs/PY9DcIMGxMs/subs.json"
     },
     {
-      "id": "yt_BHY0FxzoKZE",
-      "youtube_id": "BHY0FxzoKZE",
-      "title": "The Brain-Changing Benefits of Exercise | Wendy Suzuki | TED",
-      "channel": "TED",
-      "duration": "13:03",
-      "duration_sec": 783,
-      "category": "TED Talks",
-      "language": "English",
-      "level": 1,
-      "subtitle_url": "https://www.subx.app/subs/BHY0FxzoKZE/subs.json"
-    },
-     {
-      "id": "yt_BHY0FxzoKZE",
-      "youtube_id": "BHY0FxzoKZE",
-      "title": "The Brain-Changing Benefits of Exercise | Wendy Suzuki | TED",
-      "channel": "TED",
-      "duration": "13:03",
-      "duration_sec": 783,
-      "category": "TED Talks",
-      "language": "English",
-      "level": 1,
-      "subtitle_url": "https://www.subx.app/subs/BHY0FxzoKZE/subs.json"
-    },
-     {
       "id": "yt_BHY0FxzoKZE",
       "youtube_id": "BHY0FxzoKZE",
       "title": "The Brain-Changing Benefits of Exercise | Wendy Suzuki | TED",
