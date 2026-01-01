@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "schema_version": 1,
   "status": 1,
   "updated_at": "2025-12-31",
@@ -65,6 +65,18 @@
       "subtitle_url": "https://www.subx.app/subs/PY9DcIMGxMs/subs.json"
     },
     {
+      "id": "yt_BHY0FxzoKZE",
+      "youtube_id": "BHY0FxzoKZE",
+      "title": "The Brain-Changing Benefits of Exercise | Wendy Suzuki | TED",
+      "channel": "TED",
+      "duration": "13:03",
+      "duration_sec": 783,
+      "category": "TED Talks",
+      "language": "English",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/BHY0FxzoKZE/subs.json"
+    },
+     {
       "id": "yt_BHY0FxzoKZE",
       "youtube_id": "BHY0FxzoKZE",
       "title": "The Brain-Changing Benefits of Exercise | Wendy Suzuki | TED",
