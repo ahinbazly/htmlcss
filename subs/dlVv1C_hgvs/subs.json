@@ -1,0 +1,270 @@
+{
+  "subtitles_id": "sub_dlVv1C_hgvs",
+  "video_id": "yt_dlVv1C_hgvs",
+  "subtitles": [
+    {
+      "id": "sub_dlVv1C_hgvs_en",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "en",
+      "label": "English",
+      "format": "srt",
+      "auto": 0,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/en.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_ar",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "ar",
+      "label": "Arabic",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/ar.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_bn",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "bn",
+      "label": "Bengali",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/bn.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_de",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "de",
+      "label": "German",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/de.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_es",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "es",
+      "label": "Spanish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/es.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_fa",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "fa",
+      "label": "Farsi",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/fa.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_fr",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "fr",
+      "label": "French",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/fr.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_hi",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "hi",
+      "label": "Hindi",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/hi.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_id",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "id",
+      "label": "Indonesian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/id.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_it",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "it",
+      "label": "Italian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/it.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_ja",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "ja",
+      "label": "Japanese",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/ja.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_ko",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "ko",
+      "label": "Korean",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/ko.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_nl",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "nl",
+      "label": "Dutch",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/nl.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_pl",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "pl",
+      "label": "Polish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/pl.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_pt",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "pt",
+      "label": "Portuguese",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/pt.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_ru",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "ru",
+      "label": "Russian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/ru.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_sv",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "sv",
+      "label": "Swedish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/sv.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_th",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "th",
+      "label": "Thai",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/th.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_tr",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "tr",
+      "label": "Turkish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/tr.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_uk",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "uk",
+      "label": "Ukrainian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/uk.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_ur",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "ur",
+      "label": "Urdu",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/ur.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_vi",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "vi",
+      "label": "Vietnamese",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/vi.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_zh-CN",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "zh-CN",
+      "label": "Chinese (Simplified)",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/zh-CN.srt"
+      }
+    },
+    {
+      "id": "sub_dlVv1C_hgvs_zh-TW",
+      "video_id": "yt_dlVv1C_hgvs",
+      "language": "zh-TW",
+      "label": "Chinese (Traditional)",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/dlVv1C_hgvs/zh-TW.srt"
+      }
+    }
+  ]
+}
