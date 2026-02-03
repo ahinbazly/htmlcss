@@ -1,0 +1,270 @@
+{
+  "subtitles_id": "sub_on_1sS6Ii8M",
+  "video_id": "yt_on_1sS6Ii8M",
+  "subtitles": [
+    {
+      "id": "sub_on_1sS6Ii8M_en",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "en",
+      "label": "English",
+      "format": "srt",
+      "auto": 0,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/en.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_es",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "es",
+      "label": "Spanish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/es.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_fr",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "fr",
+      "label": "French",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/fr.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_zh-CN",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "zh-CN",
+      "label": "Chinese (Simplified)",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/zh-CN.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_zh-TW",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "zh-TW",
+      "label": "Chinese (Traditional)",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/zh-TW.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_ar",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "ar",
+      "label": "Arabic",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/ar.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_ru",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "ru",
+      "label": "Russian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/ru.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_pt",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "pt",
+      "label": "Portuguese",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/pt.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_de",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "de",
+      "label": "German",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/de.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_ja",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "ja",
+      "label": "Japanese",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/ja.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_ko",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "ko",
+      "label": "Korean",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/ko.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_it",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "it",
+      "label": "Italian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/it.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_tr",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "tr",
+      "label": "Turkish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/tr.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_vi",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "vi",
+      "label": "Vietnamese",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/vi.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_fa",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "fa",
+      "label": "Persian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/fa.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_pl",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "pl",
+      "label": "Polish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/pl.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_uk",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "uk",
+      "label": "Ukrainian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/uk.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_nl",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "nl",
+      "label": "Dutch",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/nl.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_th",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "th",
+      "label": "Thai",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/th.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_hi",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "hi",
+      "label": "Hindi",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/hi.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_ur",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "ur",
+      "label": "Urdu",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/ur.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_bn",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "bn",
+      "label": "Bangla",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/bn.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_id",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "id",
+      "label": "Indonesian",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/id.srt"
+      }
+    },
+    {
+      "id": "sub_on_1sS6Ii8M_sv",
+      "video_id": "yt_on_1sS6Ii8M",
+      "language": "sv",
+      "label": "Swedish",
+      "format": "srt",
+      "auto": 1,
+      "source": {
+        "url": "https://www.subx.app/subs/on_1sS6Ii8M/sv.srt"
+      }
+    }
+  ]
+}

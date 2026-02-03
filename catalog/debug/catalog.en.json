@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "schema_version": 1,
   "status": 1,
-  "updated_at": "2026-01-08",
+  "updated_at": "2026-02-03",
   "videos": [
     {
       "id": "yt_-moW9jvvMr4",
@@ -1971,6 +1971,162 @@
       "language": "en",
       "level": 0,
       "subtitle_url": "https://www.subx.app/subs/SSIpq-ny9Kc/subs.json"
+    },
+    {
+      "id": "yt_I_tRSrPru94",
+      "youtube_id": "I_tRSrPru94",
+      "title": "Hello, what's your name? Easy English Conversations 💬 Episode 1",
+      "channel": "BBC Learning English",
+      "duration": "2:37",
+      "duration_sec": 157,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/I_tRSrPru94/subs.json"
+    },
+    {
+      "id": "yt_on_1sS6Ii8M",
+      "youtube_id": "on_1sS6Ii8M",
+      "title": "What is in your town? Easy English Conversations 💬 Episode 3",
+      "channel": "BBC Learning English",
+      "duration": "5:06",
+      "duration_sec": 306,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/on_1sS6Ii8M/subs.json"
+    },
+    {
+      "id": "yt_bq6GBbh3uhU",
+      "youtube_id": "bq6GBbh3uhU",
+      "title": "What do you do every day? Easy English Conversations 💬 Episode 4",
+      "channel": "BBC Learning English",
+      "duration": "4:57",
+      "duration_sec": 297,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/bq6GBbh3uhU/subs.json"
+    },
+    {
+      "id": "yt_SHXPpsIJTb0",
+      "youtube_id": "SHXPpsIJTb0",
+      "title": "Where is the train station? Easy English Conversations 💬 Episode 5",
+      "channel": "BBC Learning English",
+      "duration": "3:57",
+      "duration_sec": 237,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/SHXPpsIJTb0/subs.json"
+    },
+    {
+      "id": "yt_aiUGN3TDvw4",
+      "youtube_id": "aiUGN3TDvw4",
+      "title": "What are you doing? Easy English Conversations 💬 Episode 6",
+      "channel": "BBC Learning English",
+      "duration": "2:45",
+      "duration_sec": 165,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/aiUGN3TDvw4/subs.json"
+    },
+    {
+      "id": "yt_wUF33157hYI",
+      "youtube_id": "wUF33157hYI",
+      "title": "What do you like? Easy English Conversations 💬 Episode 7",
+      "channel": "BBC Learning English",
+      "duration": "4:11",
+      "duration_sec": 251,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/wUF33157hYI/subs.json"
+    },
+    {
+      "id": "yt_sMg4vj6ugSs",
+      "youtube_id": "sMg4vj6ugSs",
+      "title": "How's the weather? Easy English Conversations 💬 Episode 8",
+      "channel": "BBC Learning English",
+      "duration": "3:18",
+      "duration_sec": 198,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/sMg4vj6ugSs/subs.json"
+    },
+    {
+      "id": "yt_1vUTq-Pd4Vs",
+      "youtube_id": "1vUTq-Pd4Vs",
+      "title": "What can you do? Easy English Conversations 💬 Episode 9",
+      "channel": "BBC Learning English",
+      "duration": "3:48",
+      "duration_sec": 228,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/1vUTq-Pd4Vs/subs.json"
+    },
+    {
+      "id": "yt_ceOhxZjDt-g",
+      "youtube_id": "ceOhxZjDt-g",
+      "title": "What's this? Easy English Conversations 💬 Episode 10",
+      "channel": "BBC Learning English",
+      "duration": "5:50",
+      "duration_sec": 350,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/ceOhxZjDt-g/subs.json"
+    },
+    {
+      "id": "yt_81MmK177K_c",
+      "youtube_id": "81MmK177K_c",
+      "title": "What time is it? Easy English Conversations 💬 Episode 11",
+      "channel": "BBC Learning English",
+      "duration": "5:58",
+      "duration_sec": 358,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/81MmK177K_c/subs.json"
+    },
+    {
+      "id": "yt_gCs4knrlnD4",
+      "youtube_id": "gCs4knrlnD4",
+      "title": "How often do you...? Easy English Conversations 💬 Episode 12",
+      "channel": "BBC Learning English",
+      "duration": "5:23",
+      "duration_sec": 323,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/gCs4knrlnD4/subs.json"
+    },
+    {
+      "id": "yt_kTf0V4HyFtM",
+      "youtube_id": "kTf0V4HyFtM",
+      "title": "What did you do at the weekend? Easy English Conversations 💬 Episode 13",
+      "channel": "BBC Learning English",
+      "duration": "4:52",
+      "duration_sec": 292,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/kTf0V4HyFtM/subs.json"
+    },
+    {
+      "id": "yt_31y2Bq1RYQA",
+      "youtube_id": "31y2Bq1RYQA",
+      "title": "Where are you from? Easy English Conversations 💬 Episode 2",
+      "channel": "BBC Learning English",
+      "duration": "5:02",
+      "duration_sec": 302,
+      "category": "Easy English Conversations",
+      "language": "en-GB",
+      "level": 0,
+      "subtitle_url": "https://www.subx.app/subs/31y2Bq1RYQA/subs.json"
     }
   ]
 }
