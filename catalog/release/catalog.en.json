@@ -1,8 +1,8 @@
 {
-  "version": 5,
+  "version": 6,
   "schema_version": 1,
   "status": 1,
-  "updated_at": "2026-03-16",
+  "updated_at": "2026-04-07",
   "videos": [
     {
       "id": "yt_-moW9jvvMr4",
@@ -2415,6 +2415,162 @@
       "language": "en",
       "level": 1,
       "subtitle_url": "https://www.subx.app/subs/r1Kl5YywD-4/subs.json"
+    },
+    {
+      "id": "yt_gt-_arwihuA",
+      "youtube_id": "gt-_arwihuA",
+      "title": "The Accidental Majesty of Coffee | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "18:06",
+      "duration_sec": 1086,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/gt-_arwihuA/subs.json"
+    },
+    {
+      "id": "yt_myrq-b8v9A4",
+      "youtube_id": "myrq-b8v9A4",
+      "title": "The Heartbreaking Secret Behind the Taj Mahal | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "19:41",
+      "duration_sec": 1181,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/myrq-b8v9A4/subs.json"
+    },
+    {
+      "id": "yt_abg0RXDb2Yw",
+      "youtube_id": "abg0RXDb2Yw",
+      "title": "The Deadly Secret Behind Ancient Beauty | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "14:07",
+      "duration_sec": 847,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/abg0RXDb2Yw/subs.json"
+    },
+    {
+      "id": "yt_41XWGv0h4NA",
+      "youtube_id": "41XWGv0h4NA",
+      "title": "The Dark Secret Behind Valentine's Day | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "21:28",
+      "duration_sec": 1288,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/41XWGv0h4NA/subs.json"
+    },
+    {
+      "id": "yt_Z1wWMbAgEWo",
+      "youtube_id": "Z1wWMbAgEWo",
+      "title": "The First Thanksgiving: 400 Years Of Gratitude And History | B2 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "26:20",
+      "duration_sec": 1580,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/Z1wWMbAgEWo/subs.json"
+    },
+    {
+      "id": "yt_OHGlBTmmu28",
+      "youtube_id": "OHGlBTmmu28",
+      "title": "The Secret Behind London's Most Famous Landmark | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "18:05",
+      "duration_sec": 1085,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/OHGlBTmmu28/subs.json"
+    },
+    {
+      "id": "yt_sw5TPtYD5Y4",
+      "youtube_id": "sw5TPtYD5Y4",
+      "title": "The Secret Behind Why English Makes No Sense | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "22:56",
+      "duration_sec": 1376,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/sw5TPtYD5Y4/subs.json"
+    },
+    {
+      "id": "yt_0Abq0_zaRc4",
+      "youtube_id": "0Abq0_zaRc4",
+      "title": "The Epic Journey of Tea From Ancient China to Britain | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "20:25",
+      "duration_sec": 1225,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/0Abq0_zaRc4/subs.json"
+    },
+    {
+      "id": "yt_CMzn_8kuJYs",
+      "youtube_id": "CMzn_8kuJYs",
+      "title": "How IELTS Changed the World | B2 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "19:48",
+      "duration_sec": 1188,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/CMzn_8kuJYs/subs.json"
+    },
+    {
+      "id": "yt_xrN328y2MZQ",
+      "youtube_id": "xrN328y2MZQ",
+      "title": "The Secret Behind Vietnam's Biggest Holiday | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "22:44",
+      "duration_sec": 1364,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/xrN328y2MZQ/subs.json"
+    },
+    {
+      "id": "yt_Njq0UNJw2cA",
+      "youtube_id": "Njq0UNJw2cA",
+      "title": "The Journey of White Gold | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "20:13",
+      "duration_sec": 1213,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/Njq0UNJw2cA/subs.json"
+    },
+    {
+      "id": "yt_ETW0bD2tZiQ",
+      "youtube_id": "ETW0bD2tZiQ",
+      "title": "The Dark Secret Behind the Great Wall of China | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "19:42",
+      "duration_sec": 1182,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/ETW0bD2tZiQ/subs.json"
+    },
+    {
+      "id": "yt_HDdDjzUBzkU",
+      "youtube_id": "HDdDjzUBzkU",
+      "title": "The Secret Reason Paris Hated the Eiffel Tower | B1 English Story ✅️",
+      "channel": "English Mindcast",
+      "duration": "17:02",
+      "duration_sec": 1022,
+      "category": "English Listening",
+      "language": "en",
+      "level": 1,
+      "subtitle_url": "https://www.subx.app/subs/HDdDjzUBzkU/subs.json"
     }
   ]
 }
