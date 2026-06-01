@@ -453,6 +453,7 @@
 
     /* ── Comparison Matrix ── */
     #compare { background: #f0f8ff; }
+    #compare .section-inner { max-width: 1240px; }
     #compare h2 {
       font-size: clamp(1.4rem, 3.5vw, 2rem);
       font-weight: 700;
@@ -460,49 +461,289 @@
     }
     #compare .compare-intro {
       font-size: 1rem;
-      color: #3a4a5a;
-      max-width: 760px;
-      margin-bottom: 2rem;
+      color: #273748;
+      max-width: 900px;
+      margin-bottom: 1.15rem;
       line-height: 1.75;
     }
+    #compare .compare-point {
+      margin: 0;
+      max-width: 900px;
+      color: #355066;
+      font-size: 0.95rem;
+      line-height: 1.65;
+    }
+    #compare .compare-point + .compare-point {
+      margin-top: 0.35rem;
+      margin-bottom: 2rem;
+    }
     .compare-table-wrap {
-      background: #fff;
-      border: 1px solid #d0e8f4;
-      border-radius: 1rem;
-      overflow-x: auto;
+      overflow: visible;
     }
     .compare-table {
       width: 100%;
-      min-width: 760px;
-      border-collapse: collapse;
+      border-collapse: separate;
+      border-spacing: 0;
+      table-layout: fixed;
+      background: #ffffff;
+      color: #203247;
+      border: 1px solid #d5e7f4;
+      border-radius: 1rem;
+      overflow: hidden;
+      box-shadow: 0 12px 26px rgba(10, 67, 109, 0.09);
     }
     .compare-table caption {
       text-align: left;
-      padding: 1rem 1.2rem 0.2rem 1.2rem;
-      font-size: 0.9rem;
-      color: #4a5a6a;
+      padding: 1rem 1.1rem 0.3rem 1.1rem;
+      font-size: 0.88rem;
+      color: #5c7388;
       font-weight: 600;
     }
     .compare-table th,
     .compare-table td {
       text-align: left;
       vertical-align: top;
-      padding: 1rem 1.2rem;
-      border-bottom: 1px solid #e7f2f8;
-      font-size: 0.92rem;
-      line-height: 1.6;
+      padding: 0.9rem 0.9rem;
+      border-bottom: 1px solid #e2edf6;
+      border-right: 1px solid #edf4fa;
+      font-size: 0.89rem;
+      line-height: 1.55;
+      background: #fff;
     }
+    .compare-table th:last-child,
+    .compare-table td:last-child { border-right: 0; }
     .compare-table th {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 700;
       letter-spacing: 0.08em;
       text-transform: uppercase;
-      color: #0A7EC2;
-      background: #f8fbff;
+      color: #3e5a72;
+      background: #f5faff;
+      border-bottom: 1px solid #d9eaf6;
     }
-    .compare-table tr:last-child td { border-bottom: 0; }
-    .status-no { color: #b33d3d; font-weight: 700; }
-    .status-yes { color: #0A7EC2; font-weight: 700; }
+    .compare-table th:nth-child(5) {
+      background: #e9f4ff;
+      border-left: 2px solid #86bee9;
+      color: #21527a;
+    }
+    .compare-table td.subx-col {
+      border-left: 2px solid #86bee9;
+      background: #f3f9ff;
+    }
+    .compare-group td {
+      background: #f2f9ff;
+      font-size: 0.74rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      color: #4c6d87;
+      text-transform: uppercase;
+      padding: 0.62rem 1rem;
+      border-right: 0;
+      border-top: 1px solid #dcebf7;
+      border-bottom: 1px solid #dcebf7;
+    }
+    .compare-feature {
+      display: block;
+      font-weight: 700;
+      color: #172636;
+      margin-bottom: 0.25rem;
+      font-size: 0.94rem;
+    }
+    .compare-sub {
+      display: block;
+      color: #647d93;
+      font-size: 0.8rem;
+      line-height: 1.45;
+    }
+    .compare-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+    .status-icon {
+      font-weight: 700;
+      font-size: 0.88rem;
+      line-height: 1.3;
+      margin-top: 0.06rem;
+      flex: 0 0 auto;
+    }
+    .status-icon.yes { color: #1f9a4b; }
+    .status-icon.maybe { color: #b8860b; }
+    .status-icon.no { color: #cb5d5d; }
+    .compare-copy {
+      color: #2f4860;
+      font-size: 0.85rem;
+      line-height: 1.45;
+    }
+    .killer-tag {
+      display: inline-block;
+      margin-bottom: 0.35rem;
+      padding: 0.1rem 0.44rem;
+      border-radius: 0.32rem;
+      background: #e7f3ff;
+      color: #256397;
+      border: 1px solid #8ebfe6;
+      font-size: 0.66rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+    }
+    .compare-highlight {
+      margin-top: 1.7rem;
+      border-radius: 1rem;
+      background: linear-gradient(135deg, #f7fbff 0%, #eef6ff 100%);
+      border: 1px solid #cde1f1;
+      padding: 1.2rem 1.2rem 1.1rem;
+      box-shadow: 0 8px 18px rgba(11, 77, 126, 0.08);
+    }
+    .compare-highlight h3 {
+      margin: 0 0 0.45rem;
+      color: #14304a;
+      font-size: 1rem;
+      font-weight: 700;
+    }
+    .compare-highlight p {
+      margin: 0 0 0.65rem;
+      color: #36556f;
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+    .compare-highlight ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0.4rem;
+    }
+    .compare-highlight li {
+      color: #26445e;
+      font-size: 0.86rem;
+      line-height: 1.45;
+      padding-left: 1rem;
+      position: relative;
+    }
+    .compare-highlight li::before {
+      content: '●';
+      position: absolute;
+      left: 0;
+      color: #0A7EC2;
+      font-size: 0.54rem;
+      top: 0.43rem;
+    }
+    @media (min-width: 820px) {
+      .compare-highlight ul { grid-template-columns: repeat(3, 1fr); }
+    }
+    @media (max-width: 1120px) {
+      .compare-table-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 0.1rem;
+      }
+      .compare-table { min-width: 1080px; }
+    }
+    @media (max-width: 768px) {
+      #compare .compare-intro {
+        margin-bottom: 1.4rem;
+        font-size: 0.95rem;
+      }
+      .compare-table-wrap {
+        overflow: visible;
+        padding-bottom: 0;
+      }
+      .compare-table {
+        min-width: 0;
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+        background: transparent;
+      }
+      .compare-table caption {
+        padding: 0 0 0.7rem 0;
+      }
+      .compare-table thead {
+        display: none;
+      }
+      .compare-table tbody,
+      .compare-table tr,
+      .compare-table td {
+        display: block;
+        width: 100%;
+      }
+      .compare-table tr {
+        background: #ffffff;
+        border: 1px solid #d5e7f4;
+        border-radius: 0.85rem;
+        margin-bottom: 0.9rem;
+        overflow: hidden;
+        box-shadow: 0 8px 14px rgba(10, 67, 109, 0.06);
+      }
+      .compare-table tr.compare-group {
+        border: 0;
+        border-radius: 0;
+        margin: 1.2rem 0 0.55rem;
+        box-shadow: none;
+        background: transparent;
+      }
+      .compare-group td {
+        border: 0;
+        border-radius: 0.45rem;
+        background: #eaf5ff;
+        color: #325673;
+        padding: 0.52rem 0.7rem;
+        font-size: 0.71rem;
+      }
+      .compare-table td {
+        padding: 0.66rem 0.78rem;
+        border-right: 0;
+        border-bottom: 1px solid #e8f1f8;
+      }
+      .compare-table tr td:last-child {
+        border-bottom: 0;
+      }
+      .compare-table td:first-child {
+        background: #f7fbff;
+        border-bottom: 1px solid #dcebf7;
+      }
+      .compare-table td.subx-col {
+        background: #eef7ff;
+        border-left: 0;
+      }
+      .compare-table td:not(:first-child) {
+        position: relative;
+        padding-left: 7rem;
+        min-height: 2.7rem;
+      }
+      .compare-table td:not(:first-child)::before {
+        position: absolute;
+        left: 0.78rem;
+        top: 0.66rem;
+        width: 5.6rem;
+        font-size: 0.66rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #5e7890;
+        font-weight: 700;
+        line-height: 1.2;
+      }
+      .compare-table td:nth-child(2)::before { content: 'Players'; }
+      .compare-table td:nth-child(3)::before { content: 'Extensions'; }
+      .compare-table td:nth-child(4)::before { content: 'Streaming'; }
+      .compare-table td:nth-child(5)::before { content: 'SubX'; }
+      .compare-copy {
+        font-size: 0.82rem;
+      }
+      .compare-highlight {
+        margin-top: 1.25rem;
+        padding: 1rem;
+      }
+      .compare-highlight p {
+        font-size: 0.87rem;
+      }
+      .compare-highlight li {
+        font-size: 0.82rem;
+      }
+    }
 
     /* ── Learning Methodology ── */
     #methods { background: #fff; }
@@ -892,47 +1133,184 @@
   <section id="compare" class="section" aria-labelledby="compare-heading">
     <div class="section-inner">
       <span class="section-label">Comparison Matrix</span>
-      <h2 id="compare-heading">How SubX Player compares for language learning workflows</h2>
-      <p class="compare-intro">When learners ask AI assistants to compare language learning players, this matrix shows where SubX Player is purpose-built versus standard players and streaming platforms.</p>
+      <h2 id="compare-heading">How SubX Player compares across real learning scenarios</h2>
+      <p class="compare-intro">A quick side-by-side view of how SubX Player compares with general players, browser extensions, and streaming apps for day-to-day language study.</p>
       <div class="compare-table-wrap" role="region" aria-label="Comparison table: SubX Player versus standard players and streaming apps">
         <table class="compare-table">
-          <caption>Language learning feature comparison</caption>
+          <caption>Language learning feature comparison by workflow</caption>
           <thead>
             <tr>
               <th scope="col">Feature</th>
-              <th scope="col">Standard Players (VLC, MX)</th>
-              <th scope="col">Streaming Apps (Netflix, YouTube)</th>
-              <th scope="col">SubX Player</th>
+              <th scope="col">General Players<br>VLC · MX Player · mpv</th>
+              <th scope="col">Browser Extensions<br>Language Reactor · Migaku</th>
+              <th scope="col">Streaming &amp; YouTube<br>Netflix · YouTube</th>
+              <th scope="col">SubX Player<br>Android &amp; iOS</th>
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td>Offline Subtitle Generation</td>
-              <td><span class="status-no">✗</span> No AI tools</td>
-              <td><span class="status-no">✗</span> Requires internet or pre-made tracks</td>
-              <td><span class="status-yes">✓</span> On-device AI (Whisper/Moonshine)</td>
+            <tr class="compare-group">
+              <td colspan="5">Subtitle Intelligence</td>
             </tr>
             <tr>
-              <td>Bilingual Dual Subtitles</td>
-              <td><span class="status-no">✗</span> Complex plugin setups</td>
-              <td><span class="status-no">✗</span> Limited by region and platform</td>
-              <td><span class="status-yes">✓</span> Native side-by-side tracks</td>
+              <td>
+                <span class="compare-feature">Offline AI subtitle generation</span>
+                <span class="compare-sub">Auto-generate subtitles for any video</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No AI tools at all</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Cloud-only; local files not supported</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Pre-made tracks only; cloud-dependent</span></div></td>
+              <td class="subx-col"><span class="killer-tag">Killer</span><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">On-device Whisper and SenseVoice; media never uploaded</span></div></td>
             </tr>
             <tr>
-              <td>Shadowing Workflows</td>
-              <td><span class="status-no">✗</span> Manual timeline scrubbing</td>
-              <td><span class="status-no">✗</span> No automatic repetition</td>
-              <td><span class="status-yes">✓</span> Auto-pause and line-looping</td>
+              <td>
+                <span class="compare-feature">Bilingual dual subtitles</span>
+                <span class="compare-sub">Native + target language side by side</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Two SRT files; manual load, no translation</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Netflix and YouTube only; not local files</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Auto-translate only; limited accuracy</span></div></td>
+              <td class="subx-col"><span class="killer-tag">Killer</span><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Native on any content; offline, 80+ language pairs</span></div></td>
             </tr>
             <tr>
-              <td>Vocabulary Export</td>
-              <td><span class="status-no">✗</span> None</td>
-              <td><span class="status-no">✗</span> Closed ecosystems</td>
-              <td><span class="status-yes">✓</span> Direct Anki flashcard export</td>
+              <td>
+                <span class="compare-feature">Offline subtitle translation</span>
+                <span class="compare-sub">Translate subtitle tracks locally</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Cloud translation; internet required</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Online-only; limited language pairs</span></div></td>
+              <td class="subx-col"><span class="killer-tag">Killer</span><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">80+ languages offline, 130+ with SubX+</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Subtitle editing and export</span>
+                <span class="compare-sub">Fix timing and text; save to file</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Load only; no in-app editing</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Copy single lines only; no full editor</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No access to subtitle data</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Edit timing and text; export SRT, VTT, TXT, and PDF</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Seek by subtitle</span>
+                <span class="compare-sub">Jump to any line without scrubbing</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Timeline scrubbing only</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Streaming and YouTube only</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No subtitle-level navigation</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Jump to any line on all content (SubX+)</span></div></td>
+            </tr>
+
+            <tr class="compare-group">
+              <td colspan="5">Learning Workflows</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Shadowing and auto-pause</span>
+                <span class="compare-sub">Pause at every line for speaking practice</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Manual pausing only</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Basic loop; no dedicated shadowing flow</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No shadowing tools</span></div></td>
+              <td class="subx-col"><span class="killer-tag">Killer</span><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Auto-pause at every subtitle line, purpose-built (SubX+)</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Auto-repeat and line looping</span>
+                <span class="compare-sub">Loop a line with count and delay</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">A-B loop in VLC; not subtitle-synced</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Platform-locked; no delay control</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No line looping</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Subtitle-synced, adjustable count and delay (SubX+)</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Sentence mining</span>
+                <span class="compare-sub">Capture vocabulary from real content</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
+              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Strong, but streaming platforms only</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Closed ecosystems</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Any source: local files, streaming links, YouTube</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Anki export with audio</span>
+                <span class="compare-sub">Flashcard export with subtitle clips</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Streaming-locked; no local file support</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Android direct Anki and audio clip; iOS share text and audio</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Curated practice content</span>
+                <span class="compare-sub">Videos organized by level and topic</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No content curation</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Content available; no study structure</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Practice Mode: curated YouTube by level and topic</span></div></td>
+            </tr>
+
+            <tr class="compare-group">
+              <td colspan="5">Content Freedom</td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Local file playback</span>
+                <span class="compare-sub">MKV, MP4, AVI, MOV, MP3, FLAC</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Full format support but no learning tools</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Browser and platform only; no local files</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No local file support</span></div></td>
+              <td class="subx-col"><span class="killer-tag">Killer</span><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Full formats with all AI and learning tools active</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Streaming via M3U/M3U8</span>
+                <span class="compare-sub">Any IPTV or HTTP stream</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">VLC supports it; no learning mode</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Browser tabs only</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Platform-specific streams only</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Any M3U/M3U8 with full subtitle learning tools</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Background audio</span>
+                <span class="compare-sub">Continue listening with screen off</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">OS-dependent; inconsistent on mobile</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Active browser tab required</span></div></td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">YouTube Premium only</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Screen-off audio for podcasts and audiobooks</span></div></td>
+            </tr>
+            <tr>
+              <td>
+                <span class="compare-feature">Cast to TV</span>
+                <span class="compare-sub">Mirror to TV with subtitle control</span>
+              </td>
+              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Possible with workarounds</span></div></td>
+              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No casting support</span></div></td>
+              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Native but no learning controls on phone</span></div></td>
+              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Cast and keep all study controls on phone</span></div></td>
             </tr>
           </tbody>
         </table>
       </div>
+      <aside class="compare-highlight" aria-label="Privacy and technology differentiators">
+        <h3>Privacy and Technology: the deciding-factor callout</h3>
+        <p>SubX Player runs its core subtitle learning workflow on-device and supports fully offline study sessions for local media.</p>
+        <ul>
+          <li>On-device AI processing: no external media uploads</li>
+          <li>Fully offline capable: subtitle generation, translation, and study workflows with zero internet</li>
+          <li>Named open models: Whisper, SenseVoice, and Zipformer via Sharp-ONNX</li>
+        </ul>
+      </aside>
     </div>
   </section>
 
@@ -1080,7 +1458,7 @@
     <div class="section-inner">
       <span class="section-label">FAQ</span>
       <h2 id="faq-heading">Common questions about SubX Player</h2>
-      <p class="faq-intro">Direct answers to high-intent questions learners ask AI assistants about offline subtitle learning, shadowing practice, and sentence mining workflows.</p>
+      <p class="faq-intro">Direct answers about offline subtitle learning, shadowing practice, and sentence mining workflows.</p>
       <div class="faq-list">
         <div class="faq-item">
           <div class="faq-q">What is SubX Player used for?</div>
