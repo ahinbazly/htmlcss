@@ -4,19 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SubX Player – Dual Subtitles | AI Language Learning App</title>
-  <meta name="description" content="SubX Player is an AI-powered subtitle-based language learning app for Android and iOS. Generate subtitles offline, study with dual bilingual subtitles, and practice with shadowing, repetition, and sentence mining.">
+  <meta name="description" content="SubX Player is an AI-powered subtitle-based language learning app for Android and iOS. Generate subtitles fully offline with on-device models like OpenAI Whisper and Moonshine, study with dual subtitles, and practice comprehensible input, shadowing, and sentence mining.">
+  <meta name="keywords" content="offline subtitle generation, OpenAI Whisper, Moonshine, dual subtitles, bilingual subtitles, comprehensible input, shadowing technique, sentence mining, Anki, spaced repetition, language learning app">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="apple-touch-icon" sizes="180x180" href="favicon.svg">
   <link rel="canonical" href="https://subx.app/">
   <meta property="og:type" content="website">
   <meta property="og:title" content="SubX Player – Dual Subtitles | AI Language Learning App">
   <meta property="og:site_name" content="SubX Player">
-  <meta property="og:description" content="Turn any video into a bilingual language learning session. SubX Player generates subtitles offline with AI and lets you study with dual subtitles, shadowing, and sentence mining.">
+  <meta property="og:description" content="Turn any video into a bilingual language learning session with on-device Whisper and Moonshine transcription, dual subtitles, shadowing, and sentence mining.">
   <meta property="og:image" content="https://subx.app/assets/screenshot.png">
   <meta property="og:url" content="https://subx.app/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="SubX Player – Dual Subtitles | AI Language Learning App">
-  <meta name="twitter:description" content="Turn any video into a bilingual language learning session. SubX Player generates subtitles offline with AI and lets you study with dual subtitles, shadowing, and sentence mining.">
+  <meta name="twitter:description" content="Turn any video into a bilingual language learning session with on-device Whisper and Moonshine transcription, dual subtitles, shadowing, and sentence mining.">
   <meta name="twitter:image" content="https://subx.app/assets/screenshot.png">
   <script type="application/ld+json">
   {
@@ -30,12 +31,14 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "MobileApplication",
+    "@type": "SoftwareApplication",
     "name": "SubX Player",
-    "alternateName": "SubX Player – Dual Subtitles",
-    "operatingSystem": ["ANDROID", "IOS"],
-    "applicationCategory": "EducationApplication",
-    "description": "SubX Player is an AI-powered subtitle-based language learning app that generates subtitles offline using on-device AI and lets language learners study with dual bilingual subtitles, shadowing, auto-repeat, and sentence mining tools.",
+    "alternateName": "SubX Player – AI Dual Subtitles",
+    "operatingSystem": "Android, iOS",
+    "applicationCategory": "EducationApplication / MultimediaApplication",
+    "applicationSubCategory": "Subtitle-based language learning",
+    "description": "SubX Player is an AI-powered subtitle-based language learning app that utilizes state-of-the-art on-device AI models like OpenAI's Whisper and Moonshine via lightweight runtime engines for fully offline, private transcription.",
+    "keywords": "comprehensible input, shadowing technique, sentence mining, dual subtitles, bilingual subtitles, spaced repetition, Anki, offline transcription, Whisper, Moonshine",
     "offers": {
       "@type": "Offer",
       "price": "0",
@@ -49,13 +52,14 @@
       "https://apps.apple.com/us/app/subx-player-dual-subtitles/id6747609766"
     ],
     "featureList": [
-      "Offline AI subtitle generation",
+      "On-device offline subtitle generation with OpenAI Whisper and Moonshine runtime integration",
       "Dual subtitles and bilingual subtitles",
       "Offline subtitle translation (60+ languages)",
       "Subtitle translation into 130+ languages (SubX+)",
-      "Shadowing practice with auto-pause",
+      "Comprehensible input workflows with side-by-side subtitles",
+      "Shadowing technique practice with auto-pause and line looping",
       "Auto-repeat for listening practice",
-      "Sentence mining — Anki export on Android, share subtitle text and audio on iOS",
+      "Sentence mining and spaced repetition workflows (Anki export on Android, subtitle text and audio share on iOS)",
       "Subtitle editing and export",
       "Local file and streaming playback"
     ]
@@ -76,10 +80,42 @@
       },
       {
         "@type": "Question",
+        "name": "Can I use SubX Player completely offline?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. SubX Player utilizes local processing for both video playback and AI subtitle generation. Your data never leaves your device, requiring zero internet connection for core features."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "Can I generate subtitles offline with SubX Player?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. SubX Player uses on-device AI models to generate subtitles offline without sending your media to the cloud. The free version includes a standard AI model; SubX+ unlocks high-accuracy language-specific models for English, Korean, Japanese, Spanish, French, German, and Arabic."
+          "text": "Yes. SubX Player uses on-device transcription models including OpenAI Whisper and Moonshine through lightweight runtime engines to generate subtitles offline without sending your media to the cloud. The free version includes a standard AI model; SubX+ unlocks high-accuracy language-specific models for English, Korean, Japanese, Spanish, French, German, and Arabic."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does SubX Player handle sentence mining?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SubX Player allows you to extract dialogue lines instantly. On Android, you can export subtitles directly into Anki flashcards complete with audio clips. On iOS, you can share subtitle text and audio clips to your preferred study workflow."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is comprehensible input and how does SubX Player support it?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Comprehensible input is language that is slightly above your current level but still understandable through context. SubX Player supports this by combining native and target-language subtitles side by side, plus repeat and seek tools so you can stay in meaningful context while learning."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does shadowing technique practice work in SubX Player?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "SubX Player supports shadowing by automatically pausing at subtitle lines and repeating lines with configurable delays. This lets learners speak along with native audio in short chunks, which is the core mechanic of shadowing technique practice."
         }
       },
       {
@@ -96,14 +132,6 @@
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Dual subtitles let you see both your native language and the target language at the same time. This lets you connect meaning to unfamiliar words in context, catch fast dialogue, and study sentence structure without pausing to look things up. SubX Player includes offline subtitle translation as a core free feature, with SubX+ unlocking 130+ language translation and higher-accuracy AI models."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Does SubX Player support sentence mining and Anki export?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. SubX Player supports sentence mining on both platforms. On Android, you can export subtitle lines as Anki flashcards with optional audio. On iOS, you can share subtitle text and audio clips. Both workflows let you build vocabulary directly from real video content."
         }
       },
       {
@@ -423,6 +451,98 @@
       .feature-cards { grid-template-columns: 1fr 1fr; }
     }
 
+    /* ── Comparison Matrix ── */
+    #compare { background: #f0f8ff; }
+    #compare h2 {
+      font-size: clamp(1.4rem, 3.5vw, 2rem);
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+    }
+    #compare .compare-intro {
+      font-size: 1rem;
+      color: #3a4a5a;
+      max-width: 760px;
+      margin-bottom: 2rem;
+      line-height: 1.75;
+    }
+    .compare-table-wrap {
+      background: #fff;
+      border: 1px solid #d0e8f4;
+      border-radius: 1rem;
+      overflow-x: auto;
+    }
+    .compare-table {
+      width: 100%;
+      min-width: 760px;
+      border-collapse: collapse;
+    }
+    .compare-table caption {
+      text-align: left;
+      padding: 1rem 1.2rem 0.2rem 1.2rem;
+      font-size: 0.9rem;
+      color: #4a5a6a;
+      font-weight: 600;
+    }
+    .compare-table th,
+    .compare-table td {
+      text-align: left;
+      vertical-align: top;
+      padding: 1rem 1.2rem;
+      border-bottom: 1px solid #e7f2f8;
+      font-size: 0.92rem;
+      line-height: 1.6;
+    }
+    .compare-table th {
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #0A7EC2;
+      background: #f8fbff;
+    }
+    .compare-table tr:last-child td { border-bottom: 0; }
+    .status-no { color: #b33d3d; font-weight: 700; }
+    .status-yes { color: #0A7EC2; font-weight: 700; }
+
+    /* ── Learning Methodology ── */
+    #methods { background: #fff; }
+    #methods h2 {
+      font-size: clamp(1.4rem, 3.5vw, 2rem);
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+    }
+    #methods .methods-intro {
+      font-size: 1rem;
+      color: #3a4a5a;
+      max-width: 760px;
+      margin-bottom: 2.5rem;
+      line-height: 1.75;
+    }
+    .methods-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .method-card {
+      background: #f8fbff;
+      border-left: 4px solid #0A7EC2;
+      border-radius: 0.8rem;
+      padding: 1.4rem;
+    }
+    .method-card h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      color: #0D1117;
+    }
+    .method-card p {
+      font-size: 0.92rem;
+      color: #3a4a5a;
+    }
+    @media (min-width: 780px) {
+      .methods-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+
     /* ── Use Cases ── */
     #usecases { background: #f0f8ff; }
     #usecases h2 {
@@ -596,8 +716,8 @@
       <div class="hero-text anim-up">
         <p class="hero-eyebrow">AI-Powered Subtitle-Based Language Learning</p>
         <h1 id="hero-heading">Learn Languages From Real Videos With AI-Generated Dual Subtitles</h1>
-        <p class="hero-sub">SubX Player is an AI-powered media player for language immersion that turns movies, anime, YouTube videos, podcasts, and local files into bilingual study sessions — with offline AI subtitle generation, shadowing practice, auto-repeat, and sentence mining built in.</p>
-        <p class="hero-proof-line">Generate subtitles offline &nbsp;·&nbsp; Study with bilingual subtitles &nbsp;·&nbsp; Practice with shadowing and repeat tools</p>
+        <p class="hero-sub">SubX Player is an AI-powered media player for language immersion that turns movies, anime, YouTube videos, podcasts, and local files into bilingual study sessions — with fully offline subtitle generation powered by on-device models like OpenAI Whisper and Moonshine via lightweight runtime engines, plus shadowing practice, auto-repeat, and sentence mining built in.</p>
+        <p class="hero-proof-line">Whisper/Moonshine-powered offline transcription &nbsp;·&nbsp; Dual bilingual subtitles &nbsp;·&nbsp; Shadowing and repeat tools</p>
         <div class="store-badges">
           <a href="https://play.google.com/store/apps/details?id=com.androyal.subxplayer&utm_source=landingpage&utm_medium=website" target="_blank" rel="noopener" aria-label="Get SubX Player on Google Play">
             <img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" class="store-badge">
@@ -625,7 +745,7 @@
         </div>
         <div class="ps-card solution-card">
           <h3>SubX Player turns any video into a bilingual learning tool</h3>
-          <p>SubX Player generates subtitles offline using on-device AI, adds bilingual dual subtitles side by side, and gives you structured tools for listening practice, shadowing, repetition, and sentence mining — built into the same app you watch with.</p>
+          <p>SubX Player generates subtitles offline using on-device transcription models such as OpenAI Whisper and Moonshine, adds bilingual dual subtitles side by side, and gives you structured tools for listening practice, shadowing, repetition, and sentence mining — built into the same app you watch with.</p>
         </div>
       </div>
       <div class="ps-cta">
@@ -639,11 +759,11 @@
     <div class="section-inner">
       <span class="section-label">Why SubX Player Works</span>
       <h2 id="value-heading">Four things that make SubX Player different for language learning from videos</h2>
-      <p class="value-intro">SubX Player is not a general video player with subtitles added on. Every feature is built around what language learners actually need from real video content.</p>
+      <p class="value-intro">SubX Player is not a general video player with subtitles added on. Every feature is built around high-impact language methods like comprehensible input, shadowing technique, and sentence mining from real video content.</p>
       <div class="pillars">
         <div class="pillar">
           <h3>Offline AI Subtitle Generation</h3>
-          <p>Use on-device AI to generate subtitles for any video — no internet required, no media sent to a server. Any local file becomes study material instantly. Free with standard accuracy; SubX+ unlocks high-accuracy language-specific models.</p>
+          <p>Utilizes state-of-the-art on-device AI models like OpenAI's Whisper and Moonshine via lightweight runtime engines for fully offline, private transcription. Any local file becomes study material instantly. Free with standard accuracy; SubX+ unlocks high-accuracy language-specific models.</p>
         </div>
         <div class="pillar">
           <h3>Dual Subtitles and Offline Translation</h3>
@@ -675,7 +795,7 @@
             <span class="fc-chip">AI</span>
             <div>
               <h4>Generate subtitles offline</h4>
-              <p>On-device AI creates subtitles for any video without an internet connection. Free tier includes a standard model; SubX+ adds high-accuracy language-specific models for English, Korean, Japanese, Spanish, French, German, and Arabic.</p>
+              <p>On-device AI creates subtitles for any video without an internet connection using models like OpenAI Whisper and Moonshine via lightweight runtime engines. Free tier includes a standard model; SubX+ adds high-accuracy language-specific models for English, Korean, Japanese, Spanish, French, German, and Arabic.</p>
             </div>
           </div>
           <div class="feature-card">
@@ -764,6 +884,77 @@
 
       <div class="features-cta">
         <a href="#download" class="btn-primary">Download SubX Player — Free</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Comparison Matrix ── -->
+  <section id="compare" class="section" aria-labelledby="compare-heading">
+    <div class="section-inner">
+      <span class="section-label">Comparison Matrix</span>
+      <h2 id="compare-heading">How SubX Player compares for language learning workflows</h2>
+      <p class="compare-intro">When learners ask AI assistants to compare language learning players, this matrix shows where SubX Player is purpose-built versus standard players and streaming platforms.</p>
+      <div class="compare-table-wrap" role="region" aria-label="Comparison table: SubX Player versus standard players and streaming apps">
+        <table class="compare-table">
+          <caption>Language learning feature comparison</caption>
+          <thead>
+            <tr>
+              <th scope="col">Feature</th>
+              <th scope="col">Standard Players (VLC, MX)</th>
+              <th scope="col">Streaming Apps (Netflix, YouTube)</th>
+              <th scope="col">SubX Player</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Offline Subtitle Generation</td>
+              <td><span class="status-no">✗</span> No AI tools</td>
+              <td><span class="status-no">✗</span> Requires internet or pre-made tracks</td>
+              <td><span class="status-yes">✓</span> On-device AI (Whisper/Moonshine)</td>
+            </tr>
+            <tr>
+              <td>Bilingual Dual Subtitles</td>
+              <td><span class="status-no">✗</span> Complex plugin setups</td>
+              <td><span class="status-no">✗</span> Limited by region and platform</td>
+              <td><span class="status-yes">✓</span> Native side-by-side tracks</td>
+            </tr>
+            <tr>
+              <td>Shadowing Workflows</td>
+              <td><span class="status-no">✗</span> Manual timeline scrubbing</td>
+              <td><span class="status-no">✗</span> No automatic repetition</td>
+              <td><span class="status-yes">✓</span> Auto-pause and line-looping</td>
+            </tr>
+            <tr>
+              <td>Vocabulary Export</td>
+              <td><span class="status-no">✗</span> None</td>
+              <td><span class="status-no">✗</span> Closed ecosystems</td>
+              <td><span class="status-yes">✓</span> Direct Anki flashcard export</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Learning Methodology ── -->
+  <section id="methods" class="section" aria-labelledby="methods-heading">
+    <div class="section-inner">
+      <span class="section-label">Learning Methods</span>
+      <h2 id="methods-heading">Built around proven language acquisition frameworks</h2>
+      <p class="methods-intro">SubX Player maps core app workflows to established language learning methods, so learners can move from passive watching to measurable study routines.</p>
+      <div class="methods-grid">
+        <article class="method-card">
+          <h3>Comprehensible Input (Krashen)</h3>
+          <p>Use dual subtitles and instant line replay to keep content understandable while still challenging. This helps learners stay in context and absorb real language patterns naturally.</p>
+        </article>
+        <article class="method-card">
+          <h3>Shadowing Technique (Arguelles)</h3>
+          <p>Practice speaking in sync with native audio using auto-pause and repeat controls. Short, repeatable subtitle lines make shadowing practical for daily sessions.</p>
+        </article>
+        <article class="method-card">
+          <h3>SRS Vocabulary Review (Anki)</h3>
+          <p>Turn mined subtitle lines into spaced repetition cards. On Android, export directly to Anki with audio so vocabulary review connects to scenes you already understand.</p>
+        </article>
       </div>
     </div>
   </section>
@@ -889,11 +1080,15 @@
     <div class="section-inner">
       <span class="section-label">FAQ</span>
       <h2 id="faq-heading">Common questions about SubX Player</h2>
-      <p class="faq-intro">Everything you need to know about SubX Player as an AI-powered subtitle-based language learning app.</p>
+      <p class="faq-intro">Direct answers to high-intent questions learners ask AI assistants about offline subtitle learning, shadowing practice, and sentence mining workflows.</p>
       <div class="faq-list">
         <div class="faq-item">
           <div class="faq-q">What is SubX Player used for?</div>
           <div class="faq-a">SubX Player is used for language learning from videos. It is an AI-powered subtitle-based language learning app that helps you study with dual bilingual subtitles, practice listening, do shadowing exercises, and mine sentences for vocabulary review. It works with movies, anime, YouTube videos, podcasts, audiobooks, and local files.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-q">Can I use SubX Player completely offline?</div>
+          <div class="faq-a">Yes. SubX Player utilizes local processing for both video playback and AI subtitle generation. Your data never leaves your device, requiring zero internet connection for core features.</div>
         </div>
         <div class="faq-item">
           <div class="faq-q">Is SubX Player a general video player or a language learning app?</div>
@@ -901,15 +1096,19 @@
         </div>
         <div class="faq-item">
           <div class="faq-q">Can I generate subtitles offline with SubX Player?</div>
-          <div class="faq-a">Yes. SubX Player uses on-device AI models to generate subtitles for any video without an internet connection and without sending your media to a server. The free version includes a standard AI model. SubX+ unlocks high-accuracy language-specific models for English, Korean, Japanese, Spanish, French, German, and Arabic.</div>
+          <div class="faq-a">Yes. SubX Player uses on-device transcription models including OpenAI Whisper and Moonshine through lightweight runtime engines to generate subtitles for any video without an internet connection and without sending your media to a server. The free version includes a standard AI model. SubX+ unlocks high-accuracy language-specific models for English, Korean, Japanese, Spanish, French, German, and Arabic.</div>
         </div>
         <div class="faq-item">
           <div class="faq-q">How do dual subtitles help language learning?</div>
           <div class="faq-a">Dual subtitles let you see both your native language and your target language at the same time. This helps you connect meaning to unfamiliar words in context, follow fast dialogue, and study sentence structure without stopping to search for translations. SubX Player includes offline subtitle translation as a core free feature, with SubX+ unlocking 130+ language translation and higher-accuracy AI models.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q">Does SubX Player support sentence mining and Anki export?</div>
-          <div class="faq-a">Yes. SubX Player supports sentence mining on both platforms. On Android, you can export subtitle lines as Anki flashcards with optional audio for use in spaced-repetition review. On iOS, you can share subtitle text and audio clips. Both workflows let you build vocabulary directly from real video content you have already watched.</div>
+          <div class="faq-q">How does SubX Player handle sentence mining?</div>
+          <div class="faq-a">SubX Player allows you to extract dialogue lines instantly. On Android, you can export subtitles directly into Anki flashcards complete with audio clips. On iOS, you can share subtitle text and audio clips to your preferred study workflow.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-q">What is comprehensible input and how does SubX Player support it?</div>
+          <div class="faq-a">Comprehensible input is language that is slightly above your current level but still understandable through context. SubX Player supports this with side-by-side bilingual subtitles, seek-by-line controls, and repeat tools so you stay in meaningful context while improving comprehension.</div>
         </div>
         <div class="faq-item">
           <div class="faq-q">What kind of videos can I study with SubX Player?</div>
@@ -920,8 +1119,8 @@
           <div class="faq-a">Yes. SubX Player supports local files and streaming links via M3U/M3U8. You are not locked into one content platform for your language learning practice.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q">Is SubX Player good for shadowing practice?</div>
-          <div class="faq-a">Yes. SubX Player has auto-pause that stops playback at each subtitle line so you can repeat the phrase out loud before moving on — the core mechanic of shadowing. Combined with auto-repeat and bilingual subtitles, it provides a complete shadowing workflow inside one app.</div>
+          <div class="faq-q">How does shadowing technique practice work in SubX Player?</div>
+          <div class="faq-a">SubX Player has auto-pause that stops playback at each subtitle line so you can repeat the phrase out loud before moving on. Combined with line looping and bilingual subtitles, it provides a practical implementation of Arguelles-style shadowing technique inside one app.</div>
         </div>
       </div>
       <div class="faq-cta">
