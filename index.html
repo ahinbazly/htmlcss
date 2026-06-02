@@ -163,6 +163,13 @@
   </script>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
+    /* ── Design Tokens ── */
+    :root {
+      --brand: #0A7EC2;          /* accent fills, icons, borders */
+      --brand-text: #0560A0;     /* brand-colored text on light surfaces — WCAG AA compliant */
+      --brand-dark: #0866a0;     /* hover state */
+    }
+
     /* ── Reset & Base ── */
     *, *::before, *::after { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
@@ -185,7 +192,7 @@
       font-family: 'Manrope', Arial, sans-serif;
       letter-spacing: 0.12em;
       text-transform: uppercase;
-      color: #0A7EC2;
+      color: #0560A0;
       margin-bottom: 1rem;
     }
     h1, h2, h3, h4 { margin: 0; line-height: 1.2; font-family: 'Manrope', Arial, sans-serif; }
@@ -201,9 +208,9 @@
       padding: 0.85rem 2rem;
       border-radius: 0.6rem;
       text-decoration: none;
-      transition: background 0.2s, transform 0.15s;
+      transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
     }
-    .btn-primary:hover { background: #0866a0; transform: translateY(-1px); }
+    .btn-primary:hover { background: #0866a0; transform: translateY(-2px); box-shadow: 0 8px 24px rgba(6, 72, 128, 0.28); }
     /* ── Icon Chips ── */
     .fc-chip {
       display: flex;
@@ -250,7 +257,14 @@
     /* ── Nav ── */
     .nav-wrap {
       width: 100%;
-      background: linear-gradient(150deg, #bde6f4 0%, #d8f0fb 100%);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: rgba(207, 233, 246, 0.88);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border-bottom: 1px solid rgba(10, 126, 194, 0.14);
+      box-shadow: 0 2px 18px rgba(10, 80, 140, 0.07);
     }
     nav {
       max-width: 1100px;
@@ -299,7 +313,7 @@
       font-family: 'Manrope', Arial, sans-serif;
       letter-spacing: 0.14em;
       text-transform: uppercase;
-      color: #0A7EC2;
+      color: #0560A0;
       margin-bottom: 1.1rem;
     }
     #hero h1 {
@@ -313,11 +327,12 @@
       font-size: 1.05rem;
       color: #3a4a5a;
       line-height: 1.6;
+      max-width: 60ch;
       margin-bottom: 0.75rem;
     }
     #hero .hero-proof-line {
       font-size: 0.9rem;
-      color: #0A7EC2;
+      color: #0560A0;
       font-weight: 700;
       letter-spacing: 0.03em;
     }
@@ -325,12 +340,24 @@
       width: 100%;
       display: flex;
       justify-content: center;
+      position: relative;
+    }
+    #hero .hero-img-wrap::before {
+      content: '';
+      position: absolute;
+      inset: -8% -8%;
+      background: radial-gradient(ellipse at 50% 55%, rgba(10, 126, 194, 0.18) 0%, transparent 68%);
+      pointer-events: none;
+      z-index: 0;
     }
     #hero .hero-screenshot {
       width: 100%;
       max-width: 34rem;
       border-radius: 1.2rem;
       display: block;
+      position: relative;
+      z-index: 1;
+      box-shadow: 0 32px 64px -16px rgba(0, 0, 0, 0.18), 0 16px 28px -16px rgba(0, 0, 0, 0.1);
     }
     @media (min-width: 900px) {
       #hero .hero-inner {
@@ -340,7 +367,7 @@
       }
       #hero .hero-text { text-align: left; max-width: 520px; flex-shrink: 0; }
       #hero .store-badges { justify-content: flex-start; }
-      #hero .hero-img-wrap { flex: 1; }
+      #hero .hero-img-wrap { flex: 1; position: relative; }
       #hero .hero-screenshot { max-width: 30rem; }
     }
 
@@ -360,12 +387,14 @@
       padding: 2rem;
     }
     #problem .ps-card.problem-card {
-      background: #fff4f4;
-      border-left: 4px solid #e05555;
+      background: #faf5f5;
+      border: 1px solid #f2dede;
+      border-left: 4px solid #d95e5e;
     }
     #problem .ps-card.solution-card {
-      background: #f0f9ff;
-      border-left: 4px solid #0A7EC2;
+      background: #f5faff;
+      border: 1px solid #dfeef9;
+      border-left: 4px solid #0560A0;
     }
     #problem .ps-card h3 {
       font-size: 1.05rem;
@@ -398,10 +427,15 @@
       border-radius: 1rem;
       padding: 1.75rem;
       border-top: 3px solid #0A7EC2;
+      transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+    #value .pillar:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 14px 36px rgba(10, 80, 140, 0.12);
     }
     #value .pillar h3 {
       font-size: 1.05rem; font-weight: 700;
-      color: #0A7EC2; margin-bottom: 0.5rem;
+      color: #0560A0; margin-bottom: 0.5rem;
     }
     #value .pillar p { color: #3a4a5a; font-size: 0.95rem; }
     @media (min-width: 600px) {
@@ -426,10 +460,10 @@
       font-family: 'Manrope', Arial, sans-serif;
       letter-spacing: 0.12em;
       text-transform: uppercase;
-      color: #0A7EC2;
+      color: #0560A0;
       margin-bottom: 1.25rem;
       padding-bottom: 0.5rem;
-      border-bottom: 2px solid #e0f0ff;
+      border-bottom: 2px solid #d8ecf9;
     }
     .feature-cards {
       display: grid;
@@ -438,17 +472,23 @@
     }
     .feature-card {
       background: #f8fbff;
+      border: 1px solid rgba(10, 126, 194, 0.1);
       border-radius: 0.75rem;
       padding: 1.25rem 1.5rem;
       display: flex;
       gap: 1rem;
       align-items: flex-start;
+      transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+    .feature-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
     }
     .feature-card h4 { font-size: 0.97rem; font-weight: 700; color: #0D1117; margin: 0 0 0.3rem 0; }
     .feature-card p { font-size: 0.9rem; color: #4a5a6a; margin: 0; }
     .features-cta { margin-top: 3rem; text-align: center; }
     @media (min-width: 640px) {
-      .feature-cards { grid-template-columns: 1fr 1fr; }
+      .feature-cards { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
     }
 
     /* ── Comparison Matrix ── */
@@ -769,6 +809,11 @@
       border-left: 4px solid #0A7EC2;
       border-radius: 0.8rem;
       padding: 1.4rem;
+      transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+    .method-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
     }
     .method-card h3 {
       font-size: 1rem;
@@ -801,8 +846,14 @@
     }
     .uc-card {
       background: #fff;
+      border: 1px solid rgba(10, 126, 194, 0.09);
       border-radius: 0.75rem;
       padding: 1.5rem;
+      transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+    .uc-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
     }
     .uc-card h3 { font-size: 1rem; font-weight: 700; color: #0D1117; margin-bottom: 0.35rem; }
     .uc-card p { font-size: 0.9rem; color: #4a5a6a; }
@@ -826,8 +877,14 @@
     }
     .review-card {
       background: #f8fbff;
+      border: 1px solid rgba(10, 126, 194, 0.09);
       border-radius: 1rem;
       padding: 1.5rem;
+      transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+    .review-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
     }
     .review-stars { color: #F5A623; font-size: 1rem; margin-bottom: 0.5rem; letter-spacing: 0.05em; }
     .review-title { font-size: 0.97rem; font-weight: 700; color: #0D1117; margin-bottom: 0.4rem; }
@@ -838,7 +895,7 @@
 
     /* ── Premium ── */
     #premium {
-      background: linear-gradient(135deg, #0A7EC2 0%, #0b5e93 100%);
+      background: radial-gradient(circle at 15% 20%, #0e5a8a 0%, #073d62 55%, #051e35 100%);
       color: #fff;
     }
     #premium .section-label { color: rgba(255,255,255,0.75); }
@@ -860,8 +917,9 @@
       border: 1.5px solid rgba(255,255,255,0.2);
     }
     .tier-card.featured {
-      background: rgba(255,255,255,0.2);
-      border-color: rgba(255,255,255,0.5);
+      background: rgba(255,255,255,0.17);
+      border-color: rgba(255,255,255,0.45);
+      box-shadow: 0 0 0 1px rgba(255,255,255,0.1), 0 20px 48px rgba(0,0,0,0.22);
     }
     .tier-label {
       font-size: 0.72rem; font-weight: 700;
@@ -918,7 +976,7 @@
       display: flex; align-items: center; gap: 0.5em;
       font-size: 0.9rem;
     }
-    footer .footer-links a { color: rgba(255,255,255,0.55); text-decoration: underline; transition: color 0.2s; }
+    footer .footer-links a { color: rgba(255,255,255,0.72); text-decoration: underline; transition: color 0.2s; padding: 0.45rem 0.3rem; }
     footer .footer-links a:hover { color: #fff; }
     footer .footer-links span { color: rgba(255,255,255,0.25); }
     footer .footer-copy { color: rgba(255,255,255,0.3); font-size: 0.8rem; }
