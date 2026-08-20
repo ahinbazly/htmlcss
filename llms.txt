@@ -1,0 +1,51 @@
+# SubX Player
+
+> A full-featured video player where subtitles and language learning are first-class.
+
+SubX Player is a full-featured video player for Android and iOS with first-class subtitles and language-learning tools. Watch movies, anime, local files, and streams normally — use dual subtitles, on-device transcription, and practice tools when you want. Watch normally. Learn whenever you want.
+
+Publisher: Abdulhameed ALHINBAZLY
+Website: https://www.subx.app/
+Contact: ahanbazly@gmail.com
+
+## Platforms
+
+- Android
+- iOS
+- App UI available in 30+ languages
+
+## Formats
+
+MKV, MP4, AVI, MOV, MP3, FLAC, M3U/M3U8 streaming
+
+## Free (SubX Player)
+
+- Full video and audio playback (local files, folders, playlists, streaming)
+- Dual subtitle display
+- Offline subtitle translation (60+ languages)
+- On-device AI subtitle generation (standard model)
+- Background playback, picture-in-picture, casting, gestures
+
+## SubX+ (premium; pricing varies by platform and region)
+
+- High-accuracy AI subtitle models (English, Korean, Japanese, Spanish, French, German, Arabic)
+- Subtitle translation into 130+ languages
+- Seek by subtitle, auto-pause, auto-repeat
+- Sentence mining and subtitle export (SRT, VTT, TXT, PDF)
+- Anki export on Android; share subtitle text and audio on iOS
+- Ad-free experience
+
+## Technology
+
+- On-device transcription: OpenAI Whisper and Moonshine via sherpa-onnx
+- Supported workflows run on your device; your video is not uploaded to generate subtitles
+
+## Download
+
+- Google Play: https://play.google.com/store/apps/details?id=com.androyal.subxplayer
+- App Store: https://apps.apple.com/us/app/subx-player-dual-subtitles/id6747609766
+
+## Legal
+
+- Privacy: https://www.subx.app/privacy/
+- Terms: https://www.subx.app/terms/
