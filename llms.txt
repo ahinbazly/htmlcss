@@ -6,7 +6,7 @@ SubX Player is a full-featured video player for Android and iOS with first-class
 
 Publisher: Abdulhameed ALHINBAZLY
 Website: https://www.subx.app/
-Contact: ahanbazly@gmail.com
+Contact: https://www.subx.app/privacy/#contact-us
 
 ## Platforms
 

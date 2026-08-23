@@ -3,12 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>SubX Player – Video Player with First-Class Subtitles and Language Learning</title>
   <meta name="description" content="SubX Player is a full-featured video player for Android and iOS with first-class subtitles and language-learning tools. Watch movies, anime, and local files normally — use dual subtitles, on-device transcription, and practice tools when you want.">
   <meta name="keywords" content="video player, dual subtitles, offline playback, offline subtitle generation, OpenAI Whisper, Moonshine, bilingual subtitles, shadowing, sentence mining, Anki, language learning from video">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="apple-touch-icon" sizes="180x180" href="favicon.svg">
   <link rel="canonical" href="https://www.subx.app/">
+  <meta name="theme-color" content="#f5f6f8">
   <meta property="og:type" content="website">
   <meta property="og:title" content="SubX Player – Video Player with First-Class Subtitles and Language Learning">
   <meta property="og:site_name" content="SubX Player">
@@ -36,7 +38,6 @@
     "@id": "https://www.subx.app/#organization",
     "name": "Abdulhameed ALHINBAZLY",
     "url": "https://www.subx.app/",
-    "email": "ahanbazly@gmail.com",
     "sameAs": [
       "https://play.google.com/store/apps/details?id=com.androyal.subxplayer",
       "https://apps.apple.com/us/app/subx-player-dual-subtitles/id6747609766"
@@ -51,7 +52,7 @@
     "publisher": { "@id": "https://www.subx.app/#organization" },
     "alternateName": "SubX Player – Dual Subtitles",
     "operatingSystem": "Android, iOS",
-    "applicationCategory": "EducationalApplication",
+    "applicationCategory": "MultimediaApplication",
     "applicationSubCategory": "Video player with subtitle and language-learning tools",
     "description": "SubX Player is a full-featured video player built equally for watching and learning from video. Unlike traditional media players, it treats subtitles as a first-class experience with dual subtitles, translation, synchronization, and AI-generated subtitles. Unlike specialized language-learning players, it is designed to be a capable everyday media player with broad playback features. SubX brings both worlds together, allowing users to watch normally and move into active language learning whenever they want.",
     "keywords": "video player, dual subtitles, offline playback, shadowing, sentence mining, bilingual subtitles, Anki, offline transcription, Whisper, Moonshine",
@@ -84,6 +85,31 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "SubX Player",
+        "item": "https://www.subx.app/"
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": "SubX Player product demonstration",
+    "description": "A demonstration of SubX Player showing dual subtitles, AI subtitle generation, practice tools, and language-learning workflows in the same video player.",
+    "thumbnailUrl": "https://img.youtube.com/vi/Ec8hUvZJU_s/hqdefault.jpg",
+    "contentUrl": "https://www.youtube.com/watch?v=Ec8hUvZJU_s",
+    "embedUrl": "https://www.youtube.com/embed/Ec8hUvZJU_s"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
       {
@@ -96,7 +122,7 @@
       },
       {
         "@type": "Question",
-        "name": "Is SubX Player a video player or a language-learning app?",
+        "name": "Is SubX a video player or a language-learning app?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Both — and both are first-class. SubX is a capable everyday video player with serious subtitle tools and meaningful language-learning workflows built into the same experience. It is not a language course, and it is not a generic player with learning features bolted on."
@@ -104,23 +130,31 @@
       },
       {
         "@type": "Question",
-        "name": "Can I use SubX Player as my everyday player?",
+        "name": "Does SubX support dual subtitles?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. SubX supports local video and audio files (MKV, MP4, AVI, MOV, MP3, FLAC), URL streaming via M3U/M3U8, background playback, picture-in-picture, casting, gestures, folders, and playlists — the playback features you expect from a serious media player."
+          "text": "Yes. Dual subtitles put two languages on screen at once so you can follow foreign-language movies and shows without losing context, and connect meaning to unfamiliar words when you want to learn. Offline subtitle translation into 60+ languages is included free; SubX+ expands to 130+ languages."
         }
       },
       {
         "@type": "Question",
-        "name": "What if subtitles are missing or don't match the audio?",
+        "name": "Can SubX generate subtitles?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "SubX can generate subtitles from the actual audio on your device using on-device transcription models including OpenAI Whisper and Moonshine (for supported languages and models). You can also display dual subtitles, translate tracks offline, and sync timing — useful when dubs, fan subs, or official tracks do not match what you hear."
+          "text": "Yes. When subtitles are missing or don't match the audio, SubX can generate them on your device using on-device transcription models including OpenAI Whisper and Moonshine (for supported languages and models)."
         }
       },
       {
         "@type": "Question",
-        "name": "Can I use SubX Player fully offline?",
+        "name": "Can SubX translate subtitles?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. SubX can translate subtitle tracks on-device. Offline subtitle translation into 60+ languages is included free; SubX+ expands to 130+ languages."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does subtitle generation work offline?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Core playback works offline. For supported workflows, subtitle generation and translation also run on-device without uploading your media. Some features may require an internet connection depending on content source and model availability."
@@ -128,34 +162,26 @@
       },
       {
         "@type": "Question",
-        "name": "How do dual subtitles help?",
+        "name": "What languages are supported?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Dual subtitles put two languages on screen at once so you can follow foreign-language movies and shows without losing context, and connect meaning to unfamiliar words when you want to learn. Offline subtitle translation into 60+ languages is included free; SubX+ expands to 130+ languages."
+          "text": "Offline subtitle translation covers 60+ languages free and 130+ with SubX+. On-device subtitle generation uses OpenAI Whisper and Moonshine for supported languages and models. SubX+ adds high-accuracy models for English, Korean, Japanese, Spanish, French, German, and Arabic. The app UI is available in 30+ languages."
         }
       },
       {
         "@type": "Question",
-        "name": "How do I move from watching to practice?",
+        "name": "Can I use my own video files?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Watch normally, then use seek-by-subtitle, auto-pause, and auto-repeat when a line deserves a closer look. SubX+ adds purpose-built shadowing and line-looping controls synced to subtitle lines — you choose when viewing becomes practice."
+          "text": "Yes. SubX supports local video and audio files (MKV, MP4, AVI, MOV, MP3, FLAC), folders, playlists, and URL streaming via M3U/M3U8 — your own library, not a locked catalog."
         }
       },
       {
         "@type": "Question",
-        "name": "How does sentence mining and Anki export work?",
+        "name": "Can I use SubX with YouTube?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Extract dialogue lines from the subtitles you are watching. On Android, export directly to Anki flashcards with optional audio clips. On iOS, share subtitle text and audio to your preferred study workflow."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What videos can I use with SubX Player?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Your own movies, TV series, anime, podcasts, audiobooks, local files, and streams — not only curated educational content. Supported videos in supported languages can become learning material. Practice Mode also offers optional curated YouTube videos by level and topic if you want a starting point."
+          "text": "Practice Mode offers optional curated YouTube videos by level and topic if you want a starting point. Your own movies, TV series, anime, podcasts, audiobooks, local files, and streams remain the main experience."
         }
       },
       {
@@ -165,1109 +191,606 @@
           "@type": "Answer",
           "text": "SubX+ expands advanced capability: high-accuracy AI subtitle models for English, Korean, Japanese, Spanish, French, German, and Arabic; translation into 130+ languages; seek-by-subtitle; auto-pause and auto-repeat; sentence mining and subtitle export; and an ad-free experience. The free app remains a full video player with core playback, dual subtitles, standard on-device generation, and 60+ language translation."
         }
+      },
+      {
+        "@type": "Question",
+        "name": "Is SubX available on Android and iOS?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. SubX Player is available on Android and iOS. Anki export with optional audio clips is available on Android; on iOS you can share subtitle text and audio to your preferred study workflow."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does SubX help with language learning?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use SubX as your everyday video player, then turn the videos you already watch into language-learning material when you want. Dual subtitles and translation help you understand; seek-by-subtitle, auto-pause, auto-repeat, and shadowing support listening practice; sentence mining and Anki export help you remember useful lines from authentic content."
+        }
       }
     ]
   }
   </script>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <style>
-    /* ── Design Tokens ── */
-    :root {
-      --brand: #0A7EC2;          /* accent fills, icons, borders */
-      --brand-text: #0560A0;     /* brand-colored text on light surfaces — WCAG AA compliant */
-      --brand-dark: #0866a0;     /* hover state */
-    }
-
-    /* ── Reset & Base ── */
-    *, *::before, *::after { box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
-    body {
-      margin: 0; padding: 0;
-      font-family: 'Manrope', Arial, sans-serif;
-      background: #f0f8ff;
-      color: #0D1117;
-      overflow-x: hidden;
-      line-height: 1.75;
-    }
-
-    /* ── Shared Layout ── */
-    .section { width: 100%; padding: 5rem 1.5rem; }
-    .section-inner { max-width: 1100px; margin: 0 auto; }
-    .section-label {
-      display: inline-block;
-      font-size: 0.82rem;
-      font-weight: 700;
-      font-family: 'Manrope', Arial, sans-serif;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: #0560A0;
-      margin-bottom: 1rem;
-    }
-    h1, h2, h3, h4 { margin: 0; line-height: 1.2; font-family: 'Manrope', Arial, sans-serif; }
-    p { margin: 0; line-height: 1.75; }
-
-    .btn-primary {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      background: #0A7EC2;
-      color: #fff;
-      font-family: 'Manrope', Arial, sans-serif;
-      font-size: 1rem;
-      font-weight: 700;
-      padding: 0.85rem 2rem;
-      border-radius: 0.6rem;
-      text-decoration: none;
-      transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
-    }
-    .btn-primary:hover { background: #0866a0; transform: translateY(-2px); box-shadow: 0 8px 24px rgba(6, 72, 128, 0.28); }
-    /* ── Icon Chips ── */
-    .fc-chip {
-      display: flex;
-      width: 2.2rem;
-      height: 2.2rem;
-      border-radius: 0.45rem;
-      background: #e0f0ff;
-      color: #0A7EC2;
-      font-size: 0.7rem;
-      font-weight: 700;
-      font-family: 'Manrope', Arial, sans-serif;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-      letter-spacing: 0;
-    }
-    .uc-chip {
-      width: 2.4rem;
-      height: 2.4rem;
-      border-radius: 0.45rem;
-      background: #e0f0ff;
-      color: #0A7EC2;
-      font-size: 0.7rem;
-      font-weight: 700;
-      font-family: 'Manrope', Arial, sans-serif;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 0.6rem;
-    }
-    .store-badges {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 0.85rem;
-      margin-top: 2rem;
-    }
-    .store-badges a { display: block; line-height: 0; }
-    .store-badge { width: 11rem; height: auto; display: block; }
-    @media (min-width: 480px) {
-      .store-badges { flex-direction: row; justify-content: center; }
-    }
-
-    /* ── Nav ── */
-    .nav-wrap {
-      width: 100%;
-      position: sticky;
-      top: 0;
-      z-index: 1000;
-      background: rgba(207, 233, 246, 0.88);
-      backdrop-filter: blur(14px);
-      -webkit-backdrop-filter: blur(14px);
-      border-bottom: 1px solid rgba(10, 126, 194, 0.14);
-      box-shadow: 0 2px 18px rgba(10, 80, 140, 0.07);
-    }
-    nav {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 1.2rem 1.5rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-    nav .nav-logo {
-      display: flex; align-items: center; gap: 1.0rem;
-      text-decoration: none;
-    }
-    nav .nav-logo img { width: 4.0rem; height: 4.0rem; }
-    nav .nav-logo .nav-title {
-      display: block;
-      max-height: 1.75rem;
-      width: auto;
-      object-fit: contain;
-      margin-top: -0.15rem;
-    }
-
-    @media (max-width: 768px) {
-      nav .btn-primary {
-        display: none;
-      }
-    }
-
-    /* ── Hero ── */
-    #hero {
-      background: linear-gradient(150deg, #bde6f4 0%, #e8f6fd 55%, #f0f8ff 100%);
-      padding: 3rem 1.5rem 5rem 1.5rem;
-    }
-    #hero .hero-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 3.5rem;
-    }
-    #hero .hero-text { text-align: center; max-width: 700px; }
-    #hero .hero-eyebrow {
-      font-size: 0.85rem;
-      font-weight: 700;
-      font-family: 'Manrope', Arial, sans-serif;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: #0560A0;
-      margin-bottom: 1.1rem;
-    }
-    #hero h1 {
-      font-size: clamp(1.8rem, 5vw, 3rem);
-      font-weight: 700;
-      color: #0D1117;
-      margin-bottom: 1.25rem;
-      line-height: 1.15;
-    }
-    #hero .hero-sub {
-      font-size: 1.05rem;
-      color: #3a4a5a;
-      line-height: 1.6;
-      max-width: 60ch;
-      margin-bottom: 0.75rem;
-    }
-    #hero .hero-proof-line {
-      font-size: 0.9rem;
-      color: #0560A0;
-      font-weight: 700;
-      letter-spacing: 0.03em;
-    }
-    #hero .hero-img-wrap {
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      position: relative;
-    }
-    #hero .hero-img-wrap::before {
-      content: '';
-      position: absolute;
-      inset: -8% -8%;
-      background: radial-gradient(ellipse at 50% 55%, rgba(10, 126, 194, 0.18) 0%, transparent 68%);
-      pointer-events: none;
-      z-index: 0;
-    }
-    #hero .hero-screenshot {
-      width: 100%;
-      max-width: 34rem;
-      border-radius: 1.2rem;
-      display: block;
-      position: relative;
-      z-index: 1;
-      box-shadow: 0 32px 64px -16px rgba(0, 0, 0, 0.18), 0 16px 28px -16px rgba(0, 0, 0, 0.1);
-    }
-    @media (min-width: 900px) {
-      #hero .hero-inner {
-        flex-direction: row;
-        align-items: center;
-        gap: 4rem;
-      }
-      #hero .hero-text { text-align: left; max-width: 520px; flex-shrink: 0; }
-      #hero .store-badges { justify-content: flex-start; }
-      #hero .hero-img-wrap { flex: 1; position: relative; }
-      #hero .hero-screenshot { max-width: 30rem; }
-    }
-
-    /* ── Problem / Solution ── */
-    #problem { background: #fff; }
-    #problem h2 {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      font-weight: 700; color: #0D1117; margin-bottom: 2rem;
-    }
-    #problem .ps-grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-    }
-    #problem .ps-card {
-      border-radius: 1rem;
-      padding: 2rem;
-    }
-    #problem .ps-card.problem-card {
-      background: #faf5f5;
-      border: 1px solid #f2dede;
-      border-left: 4px solid #d95e5e;
-    }
-    #problem .ps-card.solution-card {
-      background: #f5faff;
-      border: 1px solid #dfeef9;
-      border-left: 4px solid #0560A0;
-    }
-    #problem .ps-card h3 {
-      font-size: 1.05rem;
-      font-weight: 700;
-      margin-bottom: 0.75rem;
-    }
-    #problem .ps-card p { color: #3a4a5a; font-size: 0.97rem; }
-    #problem .ps-cta { margin-top: 2.5rem; text-align: center; }
-    #problem .ps-solution {
-      margin-top: 2rem;
-      text-align: center;
-      max-width: 720px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    #problem .ps-solution strong {
-      display: block;
-      font-size: 1.15rem;
-      font-weight: 700;
-      color: #0560A0;
-      margin-bottom: 0.5rem;
-    }
-    #problem .ps-solution p {
-      color: #3a4a5a;
-      font-size: 0.97rem;
-    }
-    @media (min-width: 700px) {
-      #problem .ps-grid { grid-template-columns: 1fr 1fr; }
-    }
-
-    /* ── Core Value ── */
-    #value { background: #f0f8ff; }
-    #value h2 {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      font-weight: 700; color: #0D1117; margin-bottom: 0.75rem;
-    }
-    #value .value-intro {
-      font-size: 1rem; color: #3a4a5a;
-      max-width: 640px; margin-bottom: 3rem; line-height: 1.6;
-    }
-    #value .pillars {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-    }
-    #value .pillar {
-      background: #fff;
-      border-radius: 1rem;
-      padding: 1.75rem;
-      border-top: 3px solid #0A7EC2;
-      transition: transform 0.22s ease, box-shadow 0.22s ease;
-    }
-    #value .pillar:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 14px 36px rgba(10, 80, 140, 0.12);
-    }
-    #value .pillar h3 {
-      font-size: 1.05rem; font-weight: 700;
-      color: #0560A0; margin-bottom: 0.75rem;
-    }
-    #value .pillar ul {
-      margin: 0;
-      padding-left: 1.15rem;
-      color: #3a4a5a;
-      font-size: 0.95rem;
-    }
-    #value .pillar li { margin-bottom: 0.35rem; }
-    #value .pillar li:last-child { margin-bottom: 0; }
-    #value .value-close {
-      margin-top: 2.5rem;
-      text-align: center;
-      font-size: 1.1rem;
-      font-weight: 700;
-      color: #0560A0;
-    }
-    #value .value-privacy {
-      margin-top: 0.75rem;
-      text-align: center;
-      font-size: 0.95rem;
-      color: #3a4a5a;
-    }
-    @media (min-width: 600px) {
-      #value .pillars { grid-template-columns: 1fr 1fr; }
-    }
-
-    /* ── Features ── */
-    #features { background: #fff; }
-    #features h2 {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      font-weight: 700; margin-bottom: 0.75rem;
-    }
-    #features .features-intro {
-      font-size: 1rem; color: #3a4a5a; max-width: 600px;
-      margin-bottom: 3rem; line-height: 1.75;
-    }
-    .feature-group { margin-bottom: 3rem; }
-    .feature-group:last-of-type { margin-bottom: 0; }
-    .feature-group-heading {
-      font-size: 0.78rem;
-      font-weight: 700;
-      font-family: 'Manrope', Arial, sans-serif;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: #0560A0;
-      margin-bottom: 1.25rem;
-      padding-bottom: 0.5rem;
-      border-bottom: 2px solid #d8ecf9;
-    }
-    .feature-cards {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1rem;
-    }
-    .feature-card {
-      background: #f8fbff;
-      border: 1px solid rgba(10, 126, 194, 0.1);
-      border-radius: 0.75rem;
-      padding: 1.25rem 1.5rem;
-      display: flex;
-      gap: 1rem;
-      align-items: flex-start;
-      transition: transform 0.22s ease, box-shadow 0.22s ease;
-    }
-    .feature-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
-    }
-    .feature-card h4 { font-size: 0.97rem; font-weight: 700; color: #0D1117; margin: 0 0 0.3rem 0; }
-    .feature-card p { font-size: 0.9rem; color: #4a5a6a; margin: 0; }
-    .features-cta { margin-top: 3rem; text-align: center; }
-    @media (min-width: 640px) {
-      .feature-cards { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
-    }
-
-    /* ── Comparison Matrix ── */
-    #compare { background: #f0f8ff; }
-    #compare .section-inner { max-width: 1240px; }
-    #compare h2 {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      font-weight: 700;
-      margin-bottom: 0.75rem;
-    }
-    #compare .compare-intro {
-      font-size: 1rem;
-      color: #273748;
-      max-width: 900px;
-      margin-bottom: 1.15rem;
-      line-height: 1.75;
-    }
-    #compare .compare-point {
-      margin: 0;
-      max-width: 900px;
-      color: #355066;
-      font-size: 0.95rem;
-      line-height: 1.65;
-    }
-    #compare .compare-point + .compare-point {
-      margin-top: 0.35rem;
-      margin-bottom: 2rem;
-    }
-    .compare-table-wrap {
-      overflow: visible;
-    }
-    .compare-table {
-      width: 100%;
-      border-collapse: separate;
-      border-spacing: 0;
-      table-layout: fixed;
-      background: #ffffff;
-      color: #203247;
-      border: 1px solid #d5e7f4;
-      border-radius: 1rem;
-      overflow: hidden;
-      box-shadow: 0 12px 26px rgba(10, 67, 109, 0.09);
-    }
-    .compare-table caption {
-      text-align: left;
-      padding: 1rem 1.1rem 0.3rem 1.1rem;
-      font-size: 0.88rem;
-      color: #5c7388;
-      font-weight: 600;
-    }
-    .compare-table th,
-    .compare-table td {
-      text-align: left;
-      vertical-align: top;
-      padding: 0.9rem 0.9rem;
-      border-bottom: 1px solid #e2edf6;
-      border-right: 1px solid #edf4fa;
-      font-size: 0.89rem;
-      line-height: 1.55;
-      background: #fff;
-    }
-    .compare-table th:last-child,
-    .compare-table td:last-child { border-right: 0; }
-    .compare-table th {
-      font-size: 0.78rem;
-      font-weight: 700;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: #3e5a72;
-      background: #f5faff;
-      border-bottom: 1px solid #d9eaf6;
-    }
-    .compare-table th:nth-child(5) {
-      background: #e9f4ff;
-      border-left: 2px solid #86bee9;
-      color: #21527a;
-    }
-    .compare-table td.subx-col {
-      border-left: 2px solid #86bee9;
-      background: #f3f9ff;
-    }
-    .compare-group td {
-      background: #f2f9ff;
-      font-size: 0.74rem;
-      font-weight: 700;
-      letter-spacing: 0.14em;
-      color: #4c6d87;
-      text-transform: uppercase;
-      padding: 0.62rem 1rem;
-      border-right: 0;
-      border-top: 1px solid #dcebf7;
-      border-bottom: 1px solid #dcebf7;
-    }
-    .compare-feature {
-      display: block;
-      font-weight: 700;
-      color: #172636;
-      margin-bottom: 0.25rem;
-      font-size: 0.94rem;
-    }
-    .compare-sub {
-      display: block;
-      color: #647d93;
-      font-size: 0.8rem;
-      line-height: 1.45;
-    }
-    .compare-item {
-      display: flex;
-      align-items: flex-start;
-      gap: 0.5rem;
-    }
-    .status-icon {
-      font-weight: 700;
-      font-size: 0.88rem;
-      line-height: 1.3;
-      margin-top: 0.06rem;
-      flex: 0 0 auto;
-    }
-    .status-icon.yes { color: #1f9a4b; }
-    .status-icon.maybe { color: #b8860b; }
-    .status-icon.no { color: #cb5d5d; }
-    .compare-copy {
-      color: #2f4860;
-      font-size: 0.85rem;
-      line-height: 1.45;
-    }
-    .killer-tag {
-      display: inline-block;
-      margin-bottom: 0.35rem;
-      padding: 0.1rem 0.44rem;
-      border-radius: 0.32rem;
-      background: #e7f3ff;
-      color: #256397;
-      border: 1px solid #8ebfe6;
-      font-size: 0.66rem;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      font-weight: 700;
-    }
-    .compare-highlight {
-      margin-top: 1.7rem;
-      border-radius: 1rem;
-      background: linear-gradient(135deg, #f7fbff 0%, #eef6ff 100%);
-      border: 1px solid #cde1f1;
-      padding: 1.2rem 1.2rem 1.1rem;
-      box-shadow: 0 8px 18px rgba(11, 77, 126, 0.08);
-    }
-    .compare-highlight h3 {
-      margin: 0 0 0.45rem;
-      color: #14304a;
-      font-size: 1rem;
-      font-weight: 700;
-    }
-    .compare-highlight p {
-      margin: 0 0 0.65rem;
-      color: #36556f;
-      font-size: 0.9rem;
-      line-height: 1.6;
-    }
-    .compare-highlight ul {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 0.4rem;
-    }
-    .compare-highlight li {
-      color: #26445e;
-      font-size: 0.86rem;
-      line-height: 1.45;
-      padding-left: 1rem;
-      position: relative;
-    }
-    .compare-highlight li::before {
-      content: '●';
-      position: absolute;
-      left: 0;
-      color: #0A7EC2;
-      font-size: 0.54rem;
-      top: 0.43rem;
-    }
-    @media (min-width: 820px) {
-      .compare-highlight ul { grid-template-columns: repeat(3, 1fr); }
-    }
-    @media (max-width: 1120px) {
-      .compare-table-wrap {
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        padding-bottom: 0.1rem;
-      }
-      .compare-table { min-width: 1080px; }
-    }
-    @media (max-width: 768px) {
-      #compare .compare-intro {
-        margin-bottom: 1.4rem;
-        font-size: 0.95rem;
-      }
-      .compare-table-wrap {
-        overflow: visible;
-        padding-bottom: 0;
-      }
-      .compare-table {
-        min-width: 0;
-        border: 0;
-        border-radius: 0;
-        box-shadow: none;
-        background: transparent;
-      }
-      .compare-table caption {
-        padding: 0 0 0.7rem 0;
-      }
-      .compare-table thead {
-        display: none;
-      }
-      .compare-table tbody,
-      .compare-table tr,
-      .compare-table td {
-        display: block;
-        width: 100%;
-      }
-      .compare-table tr {
-        background: #ffffff;
-        border: 1px solid #d5e7f4;
-        border-radius: 0.85rem;
-        margin-bottom: 0.9rem;
-        overflow: hidden;
-        box-shadow: 0 8px 14px rgba(10, 67, 109, 0.06);
-      }
-      .compare-table tr.compare-group {
-        border: 0;
-        border-radius: 0;
-        margin: 1.2rem 0 0.55rem;
-        box-shadow: none;
-        background: transparent;
-      }
-      .compare-group td {
-        border: 0;
-        border-radius: 0.45rem;
-        background: #eaf5ff;
-        color: #325673;
-        padding: 0.52rem 0.7rem;
-        font-size: 0.71rem;
-      }
-      .compare-table td {
-        padding: 0.66rem 0.78rem;
-        border-right: 0;
-        border-bottom: 1px solid #e8f1f8;
-      }
-      .compare-table tr td:last-child {
-        border-bottom: 0;
-      }
-      .compare-table td:first-child {
-        background: #f7fbff;
-        border-bottom: 1px solid #dcebf7;
-      }
-      .compare-table td.subx-col {
-        background: #eef7ff;
-        border-left: 0;
-      }
-      .compare-table td:not(:first-child) {
-        position: relative;
-        padding-left: 7rem;
-        min-height: 2.7rem;
-      }
-      .compare-table td:not(:first-child)::before {
-        position: absolute;
-        left: 0.78rem;
-        top: 0.66rem;
-        width: 5.6rem;
-        font-size: 0.66rem;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-        color: #5e7890;
-        font-weight: 700;
-        line-height: 1.2;
-      }
-      .compare-table td:nth-child(2)::before { content: 'Players'; }
-      .compare-table td:nth-child(3)::before { content: 'Extensions'; }
-      .compare-table td:nth-child(4)::before { content: 'Streaming'; }
-      .compare-table td:nth-child(5)::before { content: 'SubX'; }
-      .compare-copy {
-        font-size: 0.82rem;
-      }
-      .compare-highlight {
-        margin-top: 1.25rem;
-        padding: 1rem;
-      }
-      .compare-highlight p {
-        font-size: 0.87rem;
-      }
-      .compare-highlight li {
-        font-size: 0.82rem;
-      }
-    }
-
-    /* ── Learning Methodology ── */
-    #methods { background: #fff; }
-    #methods h2 {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      font-weight: 700;
-      margin-bottom: 0.75rem;
-    }
-    #methods .methods-intro {
-      font-size: 1rem;
-      color: #3a4a5a;
-      max-width: 760px;
-      margin-bottom: 2.5rem;
-      line-height: 1.75;
-    }
-    .methods-grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1rem;
-    }
-    .method-card {
-      background: #f8fbff;
-      border-left: 4px solid #0A7EC2;
-      border-radius: 0.8rem;
-      padding: 1.4rem;
-      transition: transform 0.22s ease, box-shadow 0.22s ease;
-    }
-    .method-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
-    }
-    .method-card h3 {
-      font-size: 1rem;
-      font-weight: 700;
-      margin-bottom: 0.5rem;
-      color: #0D1117;
-    }
-    .method-card p {
-      font-size: 0.92rem;
-      color: #3a4a5a;
-    }
-    @media (min-width: 780px) {
-      .methods-grid { grid-template-columns: repeat(3, 1fr); }
-    }
-
-    /* ── Use Cases ── */
-    #usecases { background: #f0f8ff; }
-    #usecases h2 {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      font-weight: 700; margin-bottom: 0.75rem;
-    }
-    #usecases .uc-intro {
-      font-size: 1rem; color: #3a4a5a; max-width: 600px;
-      margin-bottom: 3rem; line-height: 1.75;
-    }
-    .uc-grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1rem;
-    }
-    .uc-card {
-      background: #fff;
-      border: 1px solid rgba(10, 126, 194, 0.09);
-      border-radius: 0.75rem;
-      padding: 1.5rem;
-      transition: transform 0.22s ease, box-shadow 0.22s ease;
-    }
-    .uc-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
-    }
-    .uc-card h3 { font-size: 1rem; font-weight: 700; color: #0D1117; margin-bottom: 0.35rem; }
-    .uc-card p { font-size: 0.9rem; color: #4a5a6a; }
-    @media (min-width: 500px) { .uc-grid { grid-template-columns: 1fr 1fr; } }
-    @media (min-width: 900px) { .uc-grid { grid-template-columns: repeat(3, 1fr); } }
-
-    /* ── Reviews ── */
-    #reviews { background: #fff; }
-    #reviews h2 {
-      font-size: clamp(1.4rem, 3.5vw, 2rem);
-      font-weight: 700; margin-bottom: 0.75rem;
-    }
-    #reviews .reviews-intro {
-      font-size: 1rem; color: #3a4a5a; max-width: 600px;
-      margin-bottom: 3rem; line-height: 1.75;
-    }
-    .reviews-grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1.25rem;
-    }
-    .review-card {
-      background: #f8fbff;
-      border: 1px solid rgba(10, 126, 194, 0.09);
-      border-radius: 1rem;
-      padding: 1.5rem;
-      transition: transform 0.22s ease, box-shadow 0.22s ease;
-    }
-    .review-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 10px 28px rgba(10, 80, 140, 0.1);
-    }
-    .review-stars { color: #F5A623; font-size: 1rem; margin-bottom: 0.5rem; letter-spacing: 0.05em; }
-    .review-title { font-size: 0.97rem; font-weight: 700; color: #0D1117; margin-bottom: 0.4rem; }
-    .review-text { font-size: 0.9rem; color: #3a4a5a; line-height: 1.55; margin-bottom: 0.75rem; }
-    .review-author { font-size: 0.82rem; color: #7a8a9a; font-weight: 700; letter-spacing: 0.04em; }
-    @media (min-width: 640px) { .reviews-grid { grid-template-columns: 1fr 1fr; } }
-    @media (min-width: 1000px) { .reviews-grid { grid-template-columns: repeat(4, 1fr); } }
-
-    /* ── Premium ── */
-    #premium {
-      background: radial-gradient(circle at 15% 20%, #0e5a8a 0%, #073d62 55%, #051e35 100%);
-      color: #fff;
-    }
-    #premium .section-label { color: rgba(255,255,255,0.75); }
-    #premium h2 { font-size: clamp(1.4rem, 3.5vw, 2rem); font-weight: 700; margin-bottom: 0.75rem; }
-    #premium .premium-intro {
-      font-size: 1rem; opacity: 0.85; max-width: 580px;
-      margin-bottom: 3rem; line-height: 1.75;
-    }
-    .premium-tiers {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-      margin-bottom: 2.5rem;
-    }
-    .tier-card {
-      background: rgba(255,255,255,0.12);
-      border-radius: 1rem;
-      padding: 1.75rem;
-      border: 1.5px solid rgba(255,255,255,0.2);
-    }
-    .tier-card.featured {
-      background: rgba(255,255,255,0.17);
-      border-color: rgba(255,255,255,0.45);
-      box-shadow: 0 0 0 1px rgba(255,255,255,0.1), 0 20px 48px rgba(0,0,0,0.22);
-    }
-    .tier-label {
-      font-size: 0.72rem; font-weight: 700;
-      font-family: 'Manrope', Arial, sans-serif;
-      letter-spacing: 0.12em; text-transform: uppercase;
-      opacity: 0.75; margin-bottom: 0.4rem;
-    }
-    .tier-card h3 { font-size: 1.15rem; font-weight: 700; margin-bottom: 1rem; color: #fff; }
-    .tier-card ul { margin: 0; padding: 0 0 0 1.1rem; list-style: none; }
-    .tier-card ul li {
-      font-size: 0.9rem; opacity: 0.88;
-      padding: 0.3rem 0; position: relative;
-    }
-    .tier-card ul li::before {
-      content: '✓'; position: absolute; left: -1.1rem;
-      color: #7ecfff; font-weight: 700;
-    }
-    .premium-cta { text-align: center; }
-    @media (min-width: 640px) { .premium-tiers { grid-template-columns: 1fr 1fr; } }
-
-    /* ── FAQ ── */
-    #faq { background: #f0f8ff; }
-    #faq h2 { font-size: clamp(1.4rem, 3.5vw, 2rem); font-weight: 700; margin-bottom: 0.75rem; }
-    #faq .faq-intro {
-      font-size: 1rem; color: #3a4a5a; max-width: 600px;
-      margin-bottom: 3rem; line-height: 1.75;
-    }
-    .faq-list { max-width: 800px; }
-    .faq-item { border-bottom: 1px solid #d0e8f4; padding: 1.25rem 0; }
-    .faq-item:first-child { padding-top: 0; }
-    .faq-q { font-size: 1rem; font-weight: 700; color: #0D1117; margin-bottom: 0.6rem; }
-    .faq-a { font-size: 0.95rem; color: #3a4a5a; line-height: 1.75; }
-    .faq-cta { margin-top: 3rem; }
-
-    /* ── Download / Final CTA ── */
-    #download { background: #0D1117; color: #fff; text-align: center; }
-    #download h2 { font-size: clamp(1.5rem, 4vw, 2.25rem); font-weight: 700; margin-bottom: 1rem; }
-    #download p {
-      font-size: 1rem; opacity: 0.75;
-      max-width: 560px; margin: 0 auto 2.5rem auto; line-height: 1.75;
-    }
-
-    /* ── Footer ── */
-    footer {
-      background: #0D1117;
-      border-top: 1px solid rgba(255,255,255,0.08);
-      padding: 1.5rem 1.5rem 2.5rem 1.5rem;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 0.75rem;
-    }
-    footer .footer-links {
-      display: flex; align-items: center; gap: 0.5em;
-      font-size: 0.9rem;
-    }
-    footer .footer-links a { color: rgba(255,255,255,0.72); text-decoration: underline; transition: color 0.2s; padding: 0.45rem 0.3rem; }
-    footer .footer-links a:hover { color: #fff; }
-    footer .footer-links span { color: rgba(255,255,255,0.25); }
-    footer .footer-copy { color: rgba(255,255,255,0.3); font-size: 0.8rem; }
-    footer .footer-meta { color: rgba(255,255,255,0.35); font-size: 0.75rem; margin-top: 0.35rem; line-height: 1.5; }
-
-    /* ── Animations ── */
-    @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(32px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes fadeInRight {
-      from { opacity: 0; transform: translateX(32px); }
-      to { opacity: 1; transform: translateX(0); }
-    }
-    .anim-up { animation: fadeInUp 0.9s ease both; }
-    .anim-right { animation: fadeInRight 0.9s ease 0.2s both; }
-
-    img { max-width: 100%; height: auto; display: block; }
-  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to content</a>
 
-  <!-- ── Nav ── -->
-  <div class="nav-wrap">
-    <nav aria-label="Site navigation">
+  <header class="site-header">
+    <div class="wrap">
+      <nav class="nav" aria-label="Primary">
       <a href="/" class="nav-logo" aria-label="SubX Player home">
-        <img src="assets/logo.svg" alt="SubX Player logo" width="40" height="40">
-        <img src="assets/title_light.png" alt="SubX Player" class="nav-title" width="160" height="24">
-      </a>
-      <a href="#download" class="btn-primary">Get SubX Player</a>
+          <img src="assets/logo.svg" alt="" class="logo-mark" width="40" height="40">
+          <img src="assets/title_light.png" alt="SubX Player" class="nav-wordmark" width="160" height="24">
+        </a>
+        <ul class="nav-links">
+          <li><a href="#features">Features</a></li>
+          <li><a href="#language-learning">Language Learning</a></li>
+          <li><a href="#premium">SubX+</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ul>
+        <div class="nav-end">
+          <a href="#download" class="btn btn-primary btn-sm">Download SubX</a>
+          <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+            <span class="nav-toggle-bars"></span>
+          </button>
+        </div>
     </nav>
   </div>
+    <div id="mobile-nav" class="nav-drawer" hidden>
+      <ul>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#language-learning">Language Learning</a></li>
+        <li><a href="#premium">SubX+</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="#download">Download SubX</a></li>
+      </ul>
+    </div>
+  </header>
 
-  <!-- ── Hero ── -->
-  <section id="hero" aria-labelledby="hero-heading">
-    <div class="hero-inner">
-      <div class="hero-text anim-up">
-        <p class="hero-eyebrow">Full-featured video player · First-class subtitles · Language learning</p>
-        <h1 id="hero-heading">A powerful media player built for watching and learning from video</h1>
-        <p class="hero-sub">SubX Player is a full-featured video player with first-class subtitles and language-learning tools. Play movies, anime, local files, and streams — use dual subtitles, translation, and sync when you need them, generate subtitles when tracks are missing or wrong, and practice with repetition, shadowing, and sentence mining when you want — all without switching apps.</p>
-        <p class="hero-proof-line">Everyday playback &nbsp;·&nbsp; Dual subtitles and offline translation &nbsp;·&nbsp; App UI in 30+ languages</p>
+  <main id="main">
+
+    <!-- 01 Hero -->
+    <section class="hero" aria-labelledby="hero-heading">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">SubX Player</p>
+          <h1 id="hero-heading">A powerful media player<br>with an intelligent subtitle layer.</h1>
+          <p class="hero-sub">Watch movies, series, anime, podcasts, YouTube videos, and your own media with dual subtitles, AI-generated subtitles, translation, and advanced playback controls.</p>
+          <p class="hero-tagline">Watch normally. Learn whenever you want.</p>
         <div class="store-badges">
           <a href="https://play.google.com/store/apps/details?id=com.androyal.subxplayer&utm_source=landingpage&utm_medium=website" target="_blank" rel="noopener" aria-label="Get SubX Player on Google Play">
-            <img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" class="store-badge">
+              <img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" class="store-badge" width="180" height="54">
           </a>
           <a href="https://apps.apple.com/us/app/subx-player-dual-subtitles/id6747609766" target="_blank" rel="noopener" aria-label="Download SubX Player on the App Store">
-            <img src="assets/badges/appstore_badge.png" alt="Download on the App Store" class="store-badge">
+              <img src="assets/badges/appstore_badge.png" alt="Download on the App Store" class="store-badge" width="180" height="54">
           </a>
         </div>
+          <a href="#demo" class="btn btn-ghost">See how it works</a>
+          <p class="hero-meta">Android &amp; iOS &nbsp;·&nbsp; Local files &amp; streams &nbsp;·&nbsp; App UI in 30+ languages</p>
       </div>
-      <div class="hero-img-wrap anim-right">
+        <div class="media-slot" data-slot="hero-player-video">
         <picture>
-          <source srcset="assets/screenshot.webp" type="image/webp">
-          <img src="assets/screenshot.png" alt="SubX Player showing video playback with dual subtitles on screen" class="hero-screenshot" width="1920" height="916">
+            <source srcset="assets/hero-player.webp" type="image/webp">
+            <img src="assets/hero-player.jpg" alt="SubX Player showing dual subtitles: Fall seven times, stand up eight, with Japanese translation, over a climber rising on a storm-lit mountain ridge" width="1600" height="1067" fetchpriority="high">
         </picture>
       </div>
     </div>
   </section>
 
-  <!-- ── Problem + Solution ── -->
-  <section id="problem" class="section" aria-labelledby="problem-heading">
-    <div class="section-inner">
-      <span class="section-label">The Gap</span>
-      <h2 id="problem-heading">You shouldn't have to choose between a powerful video player and a powerful language-learning tool.</h2>
-      <div class="ps-grid">
-        <div class="ps-card problem-card">
-          <h3>General players excel at playback — subtitles and learning are secondary</h3>
-          <p>VLC, MX Player, and similar apps handle formats, local files, and everyday watching well. But subtitle workflows — dual languages, translation, line-by-line navigation, repetition — are usually an afterthought, not a first-class experience.</p>
+    <!-- 02 Immediate product demonstration -->
+    <section id="demo" class="section demo" aria-labelledby="demo-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">Product</p>
+          <h2 id="demo-heading">See SubX in action</h2>
+          <p class="lede">A video player first. Dual subtitles, AI generation, practice, and Anki sit on the same subtitle layer — so you can understand more without leaving playback.</p>
         </div>
-        <div class="ps-card solution-card">
-          <h3>Learning tools excel at study — but often aren't your everyday player</h3>
-          <p>Browser extensions and specialized apps offer bilingual subtitles and vocabulary tools, but they often depend on specific platforms, lack full playback features, or aren't the player you'd use for your own files, folders, streams, PIP, and casting.</p>
+        <div class="media-slot demo-video" data-slot="product-demo-video">
+          <div class="video-embed" id="demo-video-embed">
+            <iframe
+              src="https://www.youtube.com/embed/Ec8hUvZJU_s?rel=0"
+              title="Turn Any Video into Dual Subtitles (Offline AI) | SubX Player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+              loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"></iframe>
         </div>
+          <p class="video-fallback">
+            <a href="https://www.youtube.com/watch?v=Ec8hUvZJU_s" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+            if the player does not load.
+          </p>
       </div>
-      <div class="ps-solution">
-        <strong>SubX brings both together.</strong>
-        <p>A serious media player with first-class subtitles and language-learning tools built on the same subtitle layer — so you can watch normally and learn whenever you want.</p>
+        <ol class="steps">
+          <li class="step">
+            <span class="step-num">01 — Understand</span>
+            <h3>Dual subtitles</h3>
+            <p>Read the original line and its translation together. Offline translation and sync keep bilingual subtitles usable on the videos you already watch.</p>
+          </li>
+          <li class="step">
+            <span class="step-num">02 — Generate</span>
+            <h3>AI subtitles</h3>
+            <p>Create subtitles when a track is missing or wrong. On-device Whisper and Moonshine transcribe supported audio without uploading your media.</p>
+          </li>
+          <li class="step">
+            <span class="step-num">03 — Practice</span>
+            <h3>Replay &amp; shadow</h3>
+            <p>Jump to a line, repeat it, listen again, and shadow native audio. A subtitle line becomes the unit of practice.</p>
+          </li>
+          <li class="step">
+            <span class="step-num">04 — Remember</span>
+            <h3>Sentence mining</h3>
+            <p>Save useful sentences from authentic dialogue and export them to Anki on Android, or share text and audio on iOS.</p>
+          </li>
+        </ol>
       </div>
-      <div class="ps-cta">
-        <a href="#download" class="btn-primary">Download SubX Player — Free</a>
-      </div>
+    </section>
+
+    <!-- 03 Social proof -->
+    <section id="reviews" class="section proof" aria-labelledby="reviews-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">Reviews</p>
+          <h2 id="reviews-heading">Used as a player, a subtitle tool, and a learning companion</h2>
+          <p class="lede">Genuine reviews from the App Store and Google Play — from everyday watchers and language learners.</p>
+        </div>
+        <div class="reviews">
+          <figure class="review">
+            <div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div>
+            <blockquote>“Great app! Super convenient for language learning — being able to jump between subtitles and repeat lines makes a huge difference. Very useful features. Highly recommended!”</blockquote>
+            <figcaption>Texnic1 <span class="review-platform">· App Store</span></figcaption>
+          </figure>
+          <figure class="review">
+            <div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div>
+            <blockquote>“I use this app to learn a foreign language. It's easy to toggle the subtitle on/off so I can train my listening and check words anytime I want. Easy to use and very useful tool.”</blockquote>
+            <figcaption>Happiness2014 <span class="review-platform">· App Store</span></figcaption>
+          </figure>
+          <figure class="review">
+            <div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div>
+            <blockquote>“It can be one of the best apps for all users — as a fantastic video and audio player at the same level as MX Pro or mpv players.”</blockquote>
+            <figcaption>Pavel S. <span class="review-platform">· Google Play</span></figcaption>
+          </figure>
+          <figure class="review">
+            <div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div>
+            <blockquote>“Honestly, SubX is one of the most underrated video players I've found. I mainly use it for English-dubbed anime, and its AI-generated subtitles are extremely useful when the available subtitles don't match the actual audio. The dual subtitle feature is also amazing—you can watch with two different languages at the same time, which makes it useful for learning a new language through movies, anime, and other videos. I genuinely think this app deserves much more popularity!”</blockquote>
+            <figcaption>Avi K. <span class="review-platform">· Google Play</span></figcaption>
+          </figure>
+        </div>
     </div>
   </section>
 
-  <!-- ── Core Value ── -->
-  <section id="value" class="section" aria-labelledby="value-heading">
-    <div class="section-inner">
-      <span class="section-label">Why SubX Player</span>
-      <h2 id="value-heading">Powerful media playback and powerful subtitle tools — in one player</h2>
-      <p class="value-intro">SubX is not a language course and not a generic player with learning features bolted on. It is a full-featured video player where subtitles and language learning are both first-class.</p>
-      <div class="pillars">
-        <div class="pillar">
-          <h3>Powerful media player</h3>
-          <ul>
-            <li>Broad format support: MKV, MP4, AVI, MOV, MP3, FLAC</li>
-            <li>Local files, folders, and playlists</li>
-            <li>URL streaming via M3U/M3U8</li>
-            <li>Background playback and picture-in-picture</li>
-            <li>Gesture controls and casting</li>
+    <!-- 04 Core product concept -->
+    <section class="section concept" aria-labelledby="concept-heading">
+      <div class="wrap concept-grid">
+        <div class="concept-copy">
+          <p class="eyebrow">The idea</p>
+          <h2 id="concept-heading">One player. One intelligent subtitle layer.</h2>
+          <p class="lede">SubX works as a normal media player first. Subtitles are not an overlay you tolerate — they are the layer that adds dual languages, translation, generation, practice, and memory when you want them.</p>
+          <ul class="concept-points">
+            <li><strong>Original</strong> The spoken line, on screen, as a first-class object.</li>
+            <li><strong>Translated</strong> A second subtitle track for bilingual viewing.</li>
+            <li><strong>Controls</strong> Playback, seek-by-subtitle, repeat, and shadowing sit on the same line.</li>
           </ul>
+          <p class="tagline-dark">Watch normally. Learn whenever you want.</p>
         </div>
-        <div class="pillar">
-          <h3>Powerful subtitle and learning tools</h3>
-          <ul>
-            <li>Dual subtitles and offline translation (60+ languages free)</li>
-            <li>AI subtitle generation when tracks are missing or wrong</li>
-            <li>Subtitle sync, navigation, and customization</li>
-            <li>Repetition, shadowing, and sentence mining</li>
-            <li>Anki export on Android; share text and audio on iOS</li>
-          </ul>
+        <div class="media-slot" data-slot="dual-subtitle-screenshot">
+          <img
+            src="assets/content/dual_subs.png"
+            alt="SubX Player showing video playback with a dual-language subtitle panel listing German lines and English translations"
+            width="1938"
+            height="1350"
+            loading="lazy">
         </div>
       </div>
-      <p class="value-close">Watch normally. Learn whenever you want.</p>
-      <p class="value-privacy">On-device transcription for supported languages and models — your video stays on your device.</p>
+    </section>
+
+    <!-- 05 Four core workflows -->
+    <section id="how-it-works" class="section workflows is-hidden" aria-labelledby="workflows-heading" hidden>
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">How it works</p>
+          <h2 id="workflows-heading">Four workflows. One player.</h2>
+          <p class="lede">Use SubX as your everyday video player — or turn the videos you already watch into language-learning material whenever you want.</p>
+        </div>
+
+        <article class="workflow">
+          <div class="workflow-copy">
+            <p class="workflow-index">01 — Watch</p>
+            <h3>A complete everyday media player</h3>
+            <p>Play local files, browse folders, build playlists, stream via M3U/M3U8, keep audio going in the background, use picture-in-picture, and cast to a TV. Subtitle customization stays in the player, not in a separate app.</p>
+            <ul>
+              <li>Local video and audio: MKV, MP4, AVI, MOV, MP3, FLAC</li>
+              <li>Folders, playlists, and gesture controls</li>
+              <li>Streaming, PIP, background playback, and casting</li>
+              <li>Load, display, and customize subtitle files</li>
+          </ul>
+        </div>
+          <div class="media-slot" data-slot="media-player-screenshot">
+            <div class="media-ph" data-ratio="16/9" role="img" aria-label="Placeholder for a SubX media player screenshot">
+              <span class="media-ph-label">MEDIA PLAYER SCREENSHOT</span>
+              <div class="player-mock" aria-hidden="true">
+                <div class="player-mock-top"><span>Library · Folders · Playlists</span></div>
+                <div class="player-mock-bar">
+                  <span class="play-tri"></span>
+                  <span class="scrub"></span>
+                  <span>PIP</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <article class="workflow">
+          <div class="workflow-copy">
+            <p class="workflow-index">02 — Understand</p>
+            <h3>Dual subtitles, translation, and sync</h3>
+            <p>Put two languages on screen. Translate tracks offline, fix timing when a file drifts, and keep bilingual subtitles aligned with what you hear — useful for movies, TV, and anime where official tracks or fan subs don’t match the audio.</p>
+            <ul>
+              <li>Bilingual dual subtitles on any supported file</li>
+              <li>Offline subtitle translation: 60+ languages free, 130+ with SubX+</li>
+              <li>Subtitle synchronization, editing, and export</li>
+          </ul>
+        </div>
+          <div class="media-slot" data-slot="dual-subtitle-translation-screenshot">
+            <div class="media-ph" data-ratio="16/9" role="img" aria-label="Placeholder for a dual subtitle and translation screenshot">
+              <span class="media-ph-label">DUAL SUBTITLE / TRANSLATION SCREENSHOT</span>
+              <div class="player-mock" aria-hidden="true">
+                <div class="player-mock-subs">
+                  <span class="sub-orig">Original subtitle</span>
+                  <span class="sub-tr">Translated subtitle</span>
+      </div>
+                <div class="player-mock-bar">
+                  <span class="play-tri"></span>
+                  <span class="scrub"></span>
     </div>
-  </section>
+              </div>
+            </div>
+          </div>
+        </article>
 
-  <!-- ── Features ── -->
-  <section id="features" class="section" aria-labelledby="features-heading">
-    <div class="section-inner">
-      <span class="section-label">Features</span>
-      <h2 id="features-heading">Tools for everyday playback, first-class subtitles, and learning when you want it</h2>
-      <p class="features-intro">SubX organizes capabilities around how you actually use video — watch your content, understand dialogue through subtitles, and practice from the same player when something catches your attention.</p>
+        <article class="workflow">
+          <div class="workflow-copy">
+            <p class="workflow-index">03 — Practice</p>
+            <h3>A subtitle line becomes a practice unit</h3>
+            <p>When a line deserves a closer look, seek to it, replay it, loop it, and shadow it. Listening practice stays inside the player instead of a separate drill app.</p>
+            <ul>
+              <li>Seek by subtitle (SubX+)</li>
+              <li>Replay, auto-repeat, and line looping (SubX+)</li>
+              <li>Shadowing with auto-pause at each line (SubX+)</li>
+              <li>Playback speed and subtitle-synced controls</li>
+            </ul>
+          </div>
+          <div class="media-slot" data-slot="language-practice-video">
+            <div class="media-ph" data-ratio="16/9" role="img" aria-label="Placeholder for a language practice screenshot or product video">
+              <span class="media-ph-label">LANGUAGE PRACTICE — PRODUCT VIDEO</span>
+              <div class="player-mock" aria-hidden="true">
+                <div class="player-mock-subs">
+                  <span class="sub-orig">Replay this line</span>
+                  <span class="sub-tr">Listen · Repeat · Shadow</span>
+                </div>
+                <div class="player-mock-bar">
+                  <span class="play-tri"></span>
+                  <span class="scrub"></span>
+                  <span>×3</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
 
-      <div class="feature-group">
-        <div class="feature-group-heading">Media Playback</div>
-        <div class="feature-cards">
-          <div class="feature-card">
-            <span class="fc-chip">▶</span>
-            <div>
-              <h4>Local files and streaming</h4>
-              <p>Play MKV, MP4, AVI, MOV, MP3, FLAC, and stream via M3U/M3U8. Your own library — not locked to one platform or curated catalog.</p>
+        <article class="workflow">
+          <div class="workflow-copy">
+            <p class="workflow-index">04 — Remember</p>
+            <h3>Sentence mining from authentic content</h3>
+            <p>Capture useful sentences from the movies, shows, and files you already watch. Export to Anki with optional audio on Android, or share subtitle text and audio on iOS — vocabulary tied to scenes you understand.</p>
+            <ul>
+              <li>Save dialogue lines as you watch (SubX+)</li>
+              <li>Anki export with audio clips on Android</li>
+              <li>Share subtitle text and audio on iOS</li>
+            </ul>
+            </div>
+          <div class="media-slot" data-slot="anki-sentence-mining-screenshot">
+            <div class="media-ph" data-ratio="16/9" role="img" aria-label="Placeholder for a sentence mining and Anki export screenshot">
+              <span class="media-ph-label">ANKI / SENTENCE MINING SCREENSHOT</span>
+              <div class="player-mock" aria-hidden="true">
+                <div class="player-mock-subs">
+                  <span class="sub-orig">Save this sentence</span>
+                  <span class="sub-tr">Export to Anki</span>
+          </div>
+                <div class="player-mock-bar">
+                  <span class="play-tri"></span>
+                  <span class="scrub"></span>
             </div>
           </div>
-          <div class="feature-card">
-            <span class="fc-chip">FL</span>
-            <div>
-              <h4>Folders and playlists</h4>
-              <p>Browse local video libraries by folder and build playlists for series, courses, or listening sessions — the organization you expect from a serious player.</p>
             </div>
           </div>
-          <div class="feature-card">
-            <span class="fc-chip">BG</span>
-            <div>
-              <h4>Background audio, PIP, and casting</h4>
-              <p>Keep listening with the screen off, use picture-in-picture while multitasking, or cast to a TV while keeping subtitle controls on your phone.</p>
-            </div>
-          </div>
+        </article>
         </div>
+    </section>
+
+    <!-- 06 Feature overview -->
+    <section id="features" class="section features" aria-labelledby="features-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">Features</p>
+          <h2 id="features-heading">Everything in the player</h2>
+          <p class="lede">Capabilities grouped the way you actually use video — playback, subtitles, AI and translation, language learning, and advanced tools.</p>
       </div>
 
-      <div class="feature-group">
-        <div class="feature-group-heading">First-Class Subtitles</div>
-        <div class="feature-cards">
-          <div class="feature-card">
-            <span class="fc-chip">DB</span>
+        <div class="feature-groups">
             <div>
+            <h3 class="feature-group-title">Media Playback</h3>
+            <div class="feature-grid">
+              <article class="feature-card">
+                <h4>Local files and streaming</h4>
+                <p>Play MKV, MP4, AVI, MOV, MP3, FLAC, and stream via M3U/M3U8. Your own library — not locked to one platform.</p>
+              </article>
+              <article class="feature-card">
+                <h4>Folders and playlists</h4>
+                <p>Browse local video libraries by folder and build playlists for series, courses, or listening sessions.</p>
+              </article>
+              <article class="feature-card">
+                <h4>Background audio, PIP, and casting</h4>
+                <p>Keep listening with the screen off, use picture-in-picture, or cast to a TV while keeping subtitle controls on your phone.</p>
+              </article>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="feature-group-title">Subtitles</h3>
+            <div class="feature-grid">
+              <article class="feature-card">
               <h4>Dual subtitles</h4>
-              <p>Put two languages on screen at once to follow foreign-language movies and shows without losing context — and connect meaning to unfamiliar words when you want to learn.</p>
+                <p>Two languages on screen at once to follow foreign-language movies and shows — and connect meaning when you want to learn.</p>
+              </article>
+              <article class="feature-card">
+                <h4>Subtitle sync and customization</h4>
+                <p>Fix timing when tracks drift, adjust appearance, and keep subtitles readable as a first-class part of playback.</p>
+              </article>
+              <article class="feature-card">
+                <h4>Editing and export</h4>
+                <p>Edit timing and text, then export corrected subtitles in SRT, VTT, TXT, or PDF (export with SubX+).</p>
+              </article>
             </div>
           </div>
-          <div class="feature-card">
-            <span class="fc-chip">TR</span>
+
             <div>
+            <h3 class="feature-group-title">AI &amp; Translation</h3>
+            <div class="feature-grid">
+              <article class="feature-card">
+                <h4>On-device AI subtitle generation</h4>
+                <p>When tracks are missing or wrong, generate subtitles from the actual audio using OpenAI Whisper and Moonshine (supported languages and models). Free includes a standard model; SubX+ adds high-accuracy models for English, Korean, Japanese, Spanish, French, German, and Arabic.</p>
+              </article>
+              <article class="feature-card">
               <h4>Offline subtitle translation</h4>
-              <p>Translate subtitle tracks on-device into 60+ languages free. SubX+ expands to 130+ languages for a sharper bilingual viewing experience.</p>
+                <p>Translate subtitle tracks on-device into 60+ languages free. SubX+ expands to 130+ languages.</p>
+              </article>
             </div>
           </div>
-          <div class="feature-card">
-            <span class="fc-chip">ED</span>
+
+          <div>
+            <h3 class="feature-group-title">Language Learning</h3>
+            <div class="feature-grid">
+              <article class="feature-card">
+                <h4>Seek by subtitle</h4>
+                <p>Jump between subtitle lines to replay a difficult passage — spend time on the dialogue, not the timeline (SubX+).</p>
+              </article>
+              <article class="feature-card">
+                <h4>Shadowing with auto-pause</h4>
+                <p>Playback pauses at each subtitle line so you can repeat out loud before moving on (SubX+).</p>
+              </article>
+              <article class="feature-card">
+                <h4>Auto-repeat for listening practice</h4>
+                <p>Loop a subtitle line with adjustable count and delay until sounds and words become familiar (SubX+).</p>
+              </article>
+              <article class="feature-card">
+                <h4>Sentence mining</h4>
+                <p>Capture useful lines. On Android, export to Anki with optional audio. On iOS, share subtitle text and audio (SubX+).</p>
+              </article>
+              <article class="feature-card">
+                <h4>Practice Mode (optional)</h4>
+                <p>Curated YouTube videos by level and topic if you want a starting point. Your own content remains the main experience.</p>
+              </article>
+        </div>
+      </div>
+
             <div>
-              <h4>Subtitle sync, editing, and export</h4>
-              <p>Fix timing and text, adjust sync when tracks drift, and export corrected subtitles in SRT, VTT, TXT, or PDF (export with SubX+).</p>
+            <h3 class="feature-group-title">Advanced Tools</h3>
+            <div class="feature-grid">
+              <article class="feature-card">
+                <h4>Gesture playback controls</h4>
+                <p>The playback controls you expect from a serious media player — brightness, volume, seek — without leaving the video.</p>
+              </article>
+              <article class="feature-card">
+                <h4>Formats that matter</h4>
+                <p>MKV, MP4, AVI, MOV, MP3, FLAC, and M3U/M3U8 — movies, TV shows, anime, podcasts, and local video files.</p>
+              </article>
+              <article class="feature-card">
+                <h4>Anki export</h4>
+                <p>Android: direct Anki flashcards with optional audio clips. iOS: share subtitle text and audio to your study workflow.</p>
+              </article>
+            </div>
+            <div class="media-slot feature-media" data-slot="anki-export-screenshot">
+              <img
+                src="assets/content/anki_export.png"
+                alt="SubX Player export to Anki dialog showing bilingual subtitle fields, audio clip generation, and deck selection"
+                width="1934"
+                height="1354"
+                loading="lazy">
             </div>
           </div>
         </div>
       </div>
+    </section>
 
-      <div class="feature-group">
-        <div class="feature-group-heading">On-Device AI Subtitles</div>
-        <div class="feature-cards">
-          <div class="feature-card">
-            <span class="fc-chip">AI</span>
-            <div>
-              <h4>Generate subtitles from the actual audio</h4>
-              <p>When subtitles are missing or don't match the audio, create them on your device using OpenAI Whisper and Moonshine (supported languages and models). Free tier includes a standard model; SubX+ adds high-accuracy models for English, Korean, Japanese, Spanish, French, German, and Arabic.</p>
+    <!-- 07 What can you watch -->
+    <section id="watch" class="section watch" aria-labelledby="watch-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">Content</p>
+          <h2 id="watch-heading">What can you watch?</h2>
+          <p class="lede">Your own movies, TV series, anime, podcasts, audiobooks, local files, and streams — not only curated educational content. Supported videos in supported languages can become learning material.</p>
             </div>
+        <div class="content-grid">
+          <figure class="content-card">
+            <div class="media-slot" data-slot="content-movies-tv">
+              <picture>
+                <source srcset="assets/content/movies-tv.webp" type="image/webp">
+                <img src="assets/content/movies-tv.jpg" alt="SubX Player showing a foreign-language movie with dual English and French subtitles" width="1200" height="800" loading="lazy">
+              </picture>
           </div>
+            <figcaption>Movies &amp; TV</figcaption>
+            <p>Foreign-language films and series with dual subtitles and translation.</p>
+          </figure>
+          <figure class="content-card">
+            <div class="media-slot" data-slot="content-anime">
+              <picture>
+                <source srcset="assets/content/anime.webp" type="image/webp">
+                <img src="assets/content/anime.jpg" alt="SubX Player showing anime with dual English and Japanese subtitles" width="1200" height="800" loading="lazy">
+              </picture>
+            </div>
+            <figcaption>Anime</figcaption>
+            <p>Generate subtitles from the actual audio when dubs or fan subs don’t match.</p>
+          </figure>
+          <figure class="content-card">
+            <div class="media-slot" data-slot="content-youtube">
+              <picture>
+                <source srcset="assets/content/youtube.webp" type="image/webp">
+                <img src="assets/content/youtube.jpg" alt="SubX Player showing a language-learning YouTube video with dual English and Spanish subtitles" width="1200" height="800" loading="lazy">
+              </picture>
+          </div>
+            <figcaption>YouTube</figcaption>
+            <p>Optional Practice Mode videos by level and topic, if you want a starting point.</p>
+          </figure>
+          <figure class="content-card">
+            <div class="media-slot" data-slot="content-podcasts">
+              <picture>
+                <source srcset="assets/content/podcasts.webp" type="image/webp">
+                <img src="assets/content/podcasts.jpg" alt="SubX Player showing a podcast with dual English and German subtitles and a waveform" width="1200" height="800" loading="lazy">
+              </picture>
+            </div>
+            <figcaption>Podcasts</figcaption>
+            <p>Background audio with the screen off — and subtitles when you want the words.</p>
+          </figure>
+          <figure class="content-card">
+            <div class="media-slot" data-slot="content-audiobooks">
+              <picture>
+                <source srcset="assets/content/audiobooks.webp" type="image/webp">
+                <img src="assets/content/audiobooks.jpg" alt="SubX Player showing an audiobook with dual English and Spanish subtitles" width="1200" height="800" loading="lazy">
+              </picture>
+          </div>
+            <figcaption>Audiobooks</figcaption>
+            <p>Listen as audio, or generate subtitles for supported titles and languages.</p>
+          </figure>
+          <figure class="content-card">
+            <div class="media-slot" data-slot="content-local-files">
+              <picture>
+                <source srcset="assets/content/local-files.webp" type="image/webp">
+                <img src="assets/content/local-files.jpg" alt="SubX Player showing a local travel video file with dual English and Spanish subtitles" width="1200" height="800" loading="lazy">
+              </picture>
+            </div>
+            <figcaption>Your own video files</figcaption>
+            <p>Folders, playlists, and offline libraries on Android and iOS.</p>
+          </figure>
+          </div>
+            </div>
+    </section>
+
+    <!-- 08 Language-learning methodology -->
+    <section id="language-learning" class="section methods" aria-labelledby="methods-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">Language learning</p>
+          <h2 id="methods-heading">Built around practical language-learning techniques</h2>
+          <p class="lede">SubX is not a language course. When something in a scene catches your attention, optional workflows on the subtitle layer help you move from watching to practice — on your terms.</p>
+          </div>
+        <div class="method-grid">
+          <article class="method">
+            <h3>Comprehensible input</h3>
+            <p>Dual subtitles and instant line replay keep dialogue understandable while still challenging — stay in context and absorb patterns from real speech.</p>
+          </article>
+          <article class="method">
+            <h3>Listening practice</h3>
+            <p>Toggle subtitles, replay a line, and loop audio until sounds become familiar. Ear training happens on the videos you already chose.</p>
+          </article>
+          <article class="method">
+            <h3>Shadowing</h3>
+            <p>Auto-pause and repeat let you speak along with native audio in short subtitle-sized chunks — pronunciation practice when you choose.</p>
+          </article>
+          <article class="method">
+            <h3>Repetition</h3>
+            <p>Auto-repeat a subtitle line with adjustable count and delay. The line, not the whole scene, is the unit you work on.</p>
+          </article>
+          <article class="method">
+            <h3>Sentence mining</h3>
+            <p>Pull useful sentences from authentic movies, TV, anime, and local files instead of made-for-learner scripts.</p>
+          </article>
+          <article class="method">
+            <h3>Spaced repetition / Anki</h3>
+            <p>Export mined lines to Anki with audio on Android, or share text and audio on iOS — vocabulary tied to scenes you already understand.</p>
+          </article>
         </div>
       </div>
+    </section>
 
-      <div class="feature-group">
-        <div class="feature-group-heading">Learning Tools</div>
-        <div class="feature-cards">
-          <div class="feature-card">
-            <span class="fc-chip">SK</span>
-            <div>
-              <h4>Seek by subtitle</h4>
-              <p>Jump between subtitle lines instantly to replay a difficult passage — spend time on the dialogue, not hunting your position on the timeline (SubX+).</p>
-            </div>
-          </div>
-          <div class="feature-card">
-            <span class="fc-chip">SH</span>
-            <div>
-              <h4>Shadowing with auto-pause</h4>
-              <p>Playback pauses at each subtitle line so you can repeat out loud before moving on — practice speaking along with native audio when you choose (SubX+).</p>
-            </div>
-          </div>
-          <div class="feature-card">
-            <span class="fc-chip">AR</span>
-            <div>
-              <h4>Auto-repeat for listening practice</h4>
-              <p>Loop a subtitle line with adjustable count and delay until sounds and words become familiar — ear training on your schedule (SubX+).</p>
-            </div>
-          </div>
-          <div class="feature-card">
-            <span class="fc-chip">SM</span>
-            <div>
-              <h4>Sentence mining</h4>
-              <p>Capture useful lines from what you watch. On Android, export to Anki with optional audio. On iOS, share subtitle text and audio clips to your workflow (SubX+).</p>
-            </div>
-          </div>
-          <div class="feature-card">
-            <span class="fc-chip">YT</span>
-            <div>
-              <h4>Practice Mode (optional)</h4>
-              <p>Prefer a starting point? Practice Mode offers curated YouTube videos by level and topic — your own content remains the main experience.</p>
-            </div>
-          </div>
+    <!-- 09 Free vs SubX+ -->
+    <section id="premium" class="section pricing" aria-labelledby="premium-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">SubX Player and SubX+</p>
+          <h2 id="premium-heading">A capable player free. Advanced tools with SubX+.</h2>
+          <p class="lede">The free player is useful on its own. SubX+ is for users who want advanced subtitle and language-learning tools.</p>
+      </div>
+        <div class="tiers">
+          <article class="tier">
+            <p class="tier-kicker">Free</p>
+            <h3>SubX Player</h3>
+            <p class="tier-desc">A capable everyday media player.</p>
+            <ul>
+              <li>Play local video and audio files (MKV, MP4, AVI, MOV, MP3, FLAC)</li>
+              <li>Stream via M3U/M3U8; folders and playlists</li>
+              <li>Load, display, and customize subtitle files</li>
+              <li>Dual subtitle display</li>
+              <li>Offline subtitle translation (60+ languages)</li>
+              <li>On-device AI subtitle generation (standard model)</li>
+              <li>Background playback, PIP, casting, and gestures</li>
+            </ul>
+          </article>
+          <article class="tier featured">
+            <p class="tier-kicker">Premium</p>
+            <h3>SubX+</h3>
+            <p class="tier-desc">Advanced subtitle and language-learning tools.</p>
+            <ul>
+              <li>High-accuracy AI subtitle generation (English, Korean, Japanese, Spanish, French, German, Arabic)</li>
+              <li>Subtitle translation into 130+ languages</li>
+              <li>Seek by Subtitle — jump between lines</li>
+              <li>Auto Pause for shadowing practice</li>
+              <li>Auto Repeat for listening practice</li>
+              <li>Sentence mining — Anki export on Android / share subtitle text &amp; audio on iOS</li>
+              <li>Subtitle editing and export (SRT, VTT, TXT, PDF)</li>
+              <li>Ad-free experience</li>
+            </ul>
+          </article>
         </div>
-      </div>
-
-      <div class="features-cta">
-        <a href="#download" class="btn-primary">Download SubX Player — Free</a>
-      </div>
+        <p class="pricing-note">Download SubX Player free on Android and iOS. Upgrade to SubX+ when you want the advanced tools.</p>
     </div>
   </section>
 
-  <!-- ── Comparison Matrix ── -->
-  <section id="compare" class="section" aria-labelledby="compare-heading">
-    <div class="section-inner">
-      <span class="section-label">Comparison Matrix</span>
+    <!-- 10 Comparison -->
+    <section id="compare" class="section compare" aria-labelledby="compare-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">Comparison</p>
       <h2 id="compare-heading">How SubX fits between everyday players and specialized learning tools</h2>
-      <p class="compare-intro">General media players excel at playback. Browser extensions and streaming apps excel within their ecosystems. SubX is designed to be strong in both directions — a capable everyday player with deep subtitle and learning capabilities for your own media.</p>
-      <div class="compare-table-wrap" role="region" aria-label="Comparison table: SubX Player versus standard players and streaming apps">
+        </div>
+        <ul class="compare-points">
+          <li>General media players excel at playback. Browser extensions and streaming apps excel within their ecosystems.</li>
+          <li>SubX is designed to be strong in both directions — a capable everyday player with deep subtitle and learning capabilities for your own media.</li>
+        </ul>
+        <div class="compare-table-wrap" tabindex="0" role="region" aria-label="Comparison table: SubX Player versus standard players and streaming apps. Scroll horizontally on small screens.">
         <table class="compare-table">
           <caption>Video player vs language-learning tool comparison</caption>
           <thead>
@@ -1288,60 +811,60 @@
                 <span class="compare-feature">Local file playback</span>
                 <span class="compare-sub">MKV, MP4, AVI, MOV, MP3, FLAC</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Full format support; no subtitle learning layer</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Browser and platform only; no local files</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No local file support</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Full formats with subtitle and learning tools active</span></div></td>
+                <td><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Full format support; no subtitle learning layer</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Browser and platform only; no local files</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">No local file support</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Full formats with subtitle and learning tools active</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Folders, playlists, and gestures</span>
                 <span class="compare-sub">Library organization and playback controls</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Strong on desktop; varies on mobile</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Not a standalone media library player</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Platform playlists only</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Folders, playlists, and gesture controls</span></div></td>
+                <td><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Strong on desktop; varies on mobile</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Not a standalone media library player</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Platform playlists only</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Folders, playlists, and gesture controls</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Picture-in-picture</span>
                 <span class="compare-sub">Watch while using other apps</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">OS-dependent</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Browser tab required</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Limited or platform-specific</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">PIP with subtitle controls</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">OS-dependent</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Browser tab required</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Limited or platform-specific</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">PIP with subtitle controls</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Streaming via M3U/M3U8</span>
                 <span class="compare-sub">Any IPTV or HTTP stream</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">VLC supports it; no learning mode</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Browser tabs only</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Platform-specific streams only</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">M3U/M3U8 with full subtitle tools</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">VLC supports it; no learning mode</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Browser tabs only</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Platform-specific streams only</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">M3U/M3U8 with full subtitle tools</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Background audio</span>
                 <span class="compare-sub">Continue listening with screen off</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">OS-dependent; inconsistent on mobile</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Active browser tab required</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">YouTube Premium only</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Screen-off audio for podcasts and audiobooks</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">OS-dependent; inconsistent on mobile</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Active browser tab required</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">YouTube Premium only</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Screen-off audio for podcasts and audiobooks</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Cast to TV</span>
                 <span class="compare-sub">Mirror to TV with subtitle control</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Possible with workarounds</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No casting support</span></div></td>
-              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Native but no learning controls on phone</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Cast and keep subtitle controls on phone</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Possible with workarounds</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">No casting support</span></div></td>
+                <td><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Native but no learning controls on phone</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Cast and keep subtitle controls on phone</span></div></td>
             </tr>
 
             <tr class="compare-group">
@@ -1352,50 +875,50 @@
                 <span class="compare-feature">Offline AI subtitle generation</span>
                 <span class="compare-sub">Generate subtitles from audio on supported content</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No AI tools at all</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Cloud-only; local files not supported</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Pre-made tracks only; cloud-dependent</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">On-device Whisper and Moonshine; media not uploaded</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">No AI tools at all</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Cloud-only; local files not supported</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Pre-made tracks only; cloud-dependent</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">On-device Whisper and Moonshine; media not uploaded</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Bilingual dual subtitles</span>
                 <span class="compare-sub">Native + target language side by side</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Two SRT files; manual load, no translation</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Netflix and YouTube only; not local files</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Auto-translate only; limited accuracy</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">On any content; offline; 60+ languages free</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Two SRT files; manual load, no translation</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Netflix and YouTube only; not local files</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Auto-translate only; limited accuracy</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">On any content; offline; 60+ languages free</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Offline subtitle translation</span>
                 <span class="compare-sub">Translate subtitle tracks locally</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Cloud translation; internet required</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Online-only; limited language pairs</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">60+ languages offline; 130+ with SubX+</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">None</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Cloud translation; internet required</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Online-only; limited language pairs</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">60+ languages offline; 130+ with SubX+</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Subtitle editing and export</span>
                 <span class="compare-sub">Fix timing and text; save to file</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Load only; no in-app editing</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Copy single lines only; no full editor</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No access to subtitle data</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Edit timing and text; export SRT, VTT, TXT, and PDF</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Load only; no in-app editing</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Copy single lines only; no full editor</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">No access to subtitle data</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Edit timing and text; export SRT, VTT, TXT, and PDF</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Seek by subtitle</span>
                 <span class="compare-sub">Jump to any line without scrubbing</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Timeline scrubbing only</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Streaming and YouTube only</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No subtitle-level navigation</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Jump to any line on all content (SubX+)</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Timeline scrubbing only</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Streaming and YouTube only</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">No subtitle-level navigation</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Jump to any line on all content (SubX+)</span></div></td>
             </tr>
 
             <tr class="compare-group">
@@ -1406,50 +929,50 @@
                 <span class="compare-feature">Shadowing and auto-pause</span>
                 <span class="compare-sub">Pause at every line for speaking practice</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Manual pausing only</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Basic loop; no dedicated shadowing flow</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No shadowing tools</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Auto-pause at subtitle lines (SubX+)</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Manual pausing only</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Basic loop; no dedicated shadowing flow</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">No shadowing tools</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Auto-pause at subtitle lines (SubX+)</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Auto-repeat and line looping</span>
                 <span class="compare-sub">Loop a line with count and delay</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">A-B loop in VLC; not subtitle-synced</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Platform-locked; no delay control</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">No line looping</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Subtitle-synced, adjustable count and delay (SubX+)</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">A-B loop in VLC; not subtitle-synced</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Platform-locked; no delay control</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">No line looping</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Subtitle-synced, adjustable count and delay (SubX+)</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Sentence mining</span>
                 <span class="compare-sub">Capture vocabulary from real content</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
-              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Strong, but streaming platforms only</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">Closed ecosystems</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Any source: local files, streaming links, YouTube</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">None</span></div></td>
+                <td><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Strong, but streaming platforms only</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">Closed ecosystems</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Any source: local files, streaming links, YouTube</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Anki export with audio</span>
                 <span class="compare-sub">Flashcard export with subtitle clips</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Streaming-locked; no local file support</span></div></td>
-              <td><div class="compare-item"><span class="status-icon no">□</span><span class="compare-copy">None</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Android direct Anki and audio clip; iOS share text and audio</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">None</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Streaming-locked; no local file support</span></div></td>
+                <td><div class="compare-item"><span class="status-icon no" aria-hidden="true">□</span><span class="compare-copy">None</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Android direct Anki and audio clip; iOS share text and audio</span></div></td>
             </tr>
             <tr>
               <td>
                 <span class="compare-feature">Your own content library</span>
                 <span class="compare-sub">Learn from media you already have</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Plays your files; no learning layer</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Tied to Netflix, YouTube, and browser</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Platform catalog only</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Your files, folders, and streams — not a curated library</span></div></td>
+                <td><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Plays your files; no learning layer</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Tied to Netflix, YouTube, and browser</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Platform catalog only</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Your files, folders, and streams — not a curated library</span></div></td>
             </tr>
 
             <tr class="compare-group">
@@ -1460,15 +983,15 @@
                 <span class="compare-feature">Works across content sources</span>
                 <span class="compare-sub">Local files, streams, and platform video</span>
               </td>
-              <td><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Local and streams; no subtitle learning</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Specific platforms only</span></div></td>
-              <td><div class="compare-item"><span class="status-icon maybe">◧</span><span class="compare-copy">Single ecosystem</span></div></td>
-              <td class="subx-col"><div class="compare-item"><span class="status-icon yes">■</span><span class="compare-copy">Local files, M3U/M3U8, and more with full tools</span></div></td>
+                <td><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Local and streams; no subtitle learning</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Specific platforms only</span></div></td>
+                <td><div class="compare-item"><span class="status-icon maybe" aria-hidden="true">◧</span><span class="compare-copy">Single ecosystem</span></div></td>
+                <td class="subx-col"><div class="compare-item"><span class="status-icon yes" aria-hidden="true">■</span><span class="compare-copy">Local files, M3U/M3U8, and more with full tools</span></div></td>
             </tr>
           </tbody>
         </table>
       </div>
-      <aside class="compare-highlight" aria-label="Privacy and technology differentiators">
+        <aside class="compare-note">
         <h3>On-device processing for supported workflows</h3>
         <p>For supported languages and models, SubX runs transcription and related subtitle workflows on your device — your video is not uploaded to generate subtitles.</p>
         <ul>
@@ -1480,226 +1003,166 @@
     </div>
   </section>
 
-  <!-- ── Learning Methodology ── -->
-  <section id="methods" class="section" aria-labelledby="methods-heading">
-    <div class="section-inner">
-      <span class="section-label">Learning Methods</span>
-      <h2 id="methods-heading">When you want to practice, the tools are already in the player</h2>
-      <p class="methods-intro">SubX is not a language course. When something in a scene catches your attention, optional workflows built on the subtitle layer help you move from passive viewing to active practice — on your terms.</p>
-      <div class="methods-grid">
-        <article class="method-card">
-          <h3>Comprehensible Input (Krashen)</h3>
-          <p>Dual subtitles and instant line replay keep dialogue understandable while still challenging — stay in context and absorb patterns from real speech.</p>
+    <!-- 11 Privacy -->
+    <section id="privacy" class="section privacy" aria-labelledby="privacy-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">Privacy</p>
+          <h2 id="privacy-heading">Your media stays yours.</h2>
+          <p class="lede">Technical accuracy matters more than slogans. SubX processes supported subtitle workflows on-device. Some features still depend on the network — because of the content source, or because a model is not available locally.</p>
+        </div>
+        <div class="privacy-grid">
+          <article class="privacy-card">
+            <h3>On-device AI where applicable</h3>
+            <p>Subtitle generation uses on-device transcription models including OpenAI Whisper and Moonshine for supported languages and models. Your media files are not uploaded to generate those subtitles.</p>
         </article>
-        <article class="method-card">
-          <h3>Shadowing (Arguelles)</h3>
-          <p>Auto-pause and repeat let you speak along with native audio in short subtitle-sized chunks — practice pronunciation when you choose, not on a fixed lesson schedule.</p>
+          <article class="privacy-card">
+            <h3>Offline generation and translation</h3>
+            <p>Core playback works offline. For supported workflows, subtitle generation and translation also run on-device. Some features may require an internet connection depending on content source and model availability.</p>
         </article>
-        <article class="method-card">
-          <h3>SRS review (Anki)</h3>
-          <p>Mine a useful line and export to Anki with audio on Android, or share text and audio on iOS — vocabulary tied to scenes you already understand.</p>
+          <article class="privacy-card">
+            <h3>Local media processing</h3>
+            <p>Local video and audio you play, and on-device subtitle generation and translation from that media, are processed on your device — not as a cloud upload for those workflows.</p>
+          </article>
+          <article class="privacy-card">
+            <h3>What this does not claim</h3>
+            <p>Not every feature is offline. Streaming, optional Practice Mode YouTube videos, store downloads, and some model availability still need a connection. See the <a href="/privacy/">privacy policy</a> for data the app may collect in general use.</p>
         </article>
       </div>
     </div>
   </section>
 
-  <!-- ── Use Cases ── -->
-  <section id="usecases" class="section" aria-labelledby="usecases-heading">
-    <div class="section-inner">
-      <span class="section-label">Who It's For</span>
-      <h2 id="usecases-heading">For foreign-media viewers and language learners alike</h2>
-      <p class="uc-intro">Some people come for better subtitles. Others come to learn from the videos they already watch. SubX supports both — and many users discover the other side over time.</p>
-      <div class="uc-grid">
-        <div class="uc-card">
-          <div class="uc-chip">TV</div>
-          <h3>Foreign-Language Movies &amp; Shows</h3>
-          <p>Follow dialogue with dual subtitles and offline translation — understand what you watch without pausing to look everything up.</p>
+    <!-- 12 FAQ -->
+    <section id="faq" class="section faq" aria-labelledby="faq-heading">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="eyebrow">FAQ</p>
+          <h2 id="faq-heading">Common questions</h2>
+          <p class="lede">What SubX is, how dual subtitles and AI generation work, and where the free player ends and SubX+ begins.</p>
         </div>
-        <div class="uc-card">
-          <div class="uc-chip">AN</div>
-          <h3>Missing or Mismatched Subtitles</h3>
-          <p>Dubbed anime, fan subs, or tracks that don't match the audio? Generate subtitles from the actual audio and display two languages side by side.</p>
-        </div>
-        <div class="uc-card">
-          <div class="uc-chip">OFF</div>
-          <h3>Your Local Video Library</h3>
-          <p>A capable everyday player for your files, folders, and offline library — with subtitle tools that general players leave as an afterthought.</p>
-        </div>
-        <div class="uc-card">
-          <div class="uc-chip">IM</div>
-          <h3>Immersion From Authentic Content</h3>
-          <p>Learn from the movies, anime, and shows you already want to watch — not only content selected for language learners.</p>
-        </div>
-        <div class="uc-card">
-          <div class="uc-chip">SH</div>
-          <h3>Listening, Shadowing &amp; Repeat</h3>
-          <p>Replay a difficult line, shadow dialogue, or loop a subtitle until it clicks — move from watching to practice without switching apps.</p>
-        </div>
-        <div class="uc-card">
-          <div class="uc-chip">SM</div>
-          <h3>Sentence Mining</h3>
-          <p>Capture useful phrases from real dialogue. Export to Anki with audio on Android, or share subtitle text and audio on iOS.</p>
-        </div>
+        <div class="faq-list">
+          <details class="faq-item" open>
+            <summary>What is SubX Player?</summary>
+            <p>SubX Player is a full-featured video player with first-class subtitles and language-learning tools. Play movies, shows, anime, local files, and streams with broad playback support, then use dual subtitles, translation, AI-generated subtitles, repetition, shadowing, and sentence mining when you want to go beyond watching — without switching apps.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Is SubX a video player or a language-learning app?</summary>
+            <p>Both — and both are first-class. SubX is a capable everyday video player with serious subtitle tools and meaningful language-learning workflows built into the same experience. It is not a language course, and it is not a generic player with learning features bolted on.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Does SubX support dual subtitles?</summary>
+            <p>Yes. Dual subtitles put two languages on screen at once so you can follow foreign-language movies and shows without losing context, and connect meaning to unfamiliar words when you want to learn. Offline subtitle translation into 60+ languages is included free; SubX+ expands to 130+ languages.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can SubX generate subtitles?</summary>
+            <p>Yes. When subtitles are missing or don't match the audio, SubX can generate them on your device using on-device transcription models including OpenAI Whisper and Moonshine (for supported languages and models).</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can SubX translate subtitles?</summary>
+            <p>Yes. SubX can translate subtitle tracks on-device. Offline subtitle translation into 60+ languages is included free; SubX+ expands to 130+ languages.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Does subtitle generation work offline?</summary>
+            <p>Core playback works offline. For supported workflows, subtitle generation and translation also run on-device without uploading your media. Some features may require an internet connection depending on content source and model availability.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What languages are supported?</summary>
+            <p>Offline subtitle translation covers 60+ languages free and 130+ with SubX+. On-device subtitle generation uses OpenAI Whisper and Moonshine for supported languages and models. SubX+ adds high-accuracy models for English, Korean, Japanese, Spanish, French, German, and Arabic. The app UI is available in 30+ languages.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can I use my own video files?</summary>
+            <p>Yes. SubX supports local video and audio files (MKV, MP4, AVI, MOV, MP3, FLAC), folders, playlists, and URL streaming via M3U/M3U8 — your own library, not a locked catalog.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can I use SubX with YouTube?</summary>
+            <p>Practice Mode offers optional curated YouTube videos by level and topic if you want a starting point. Your own movies, TV series, anime, podcasts, audiobooks, local files, and streams remain the main experience.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What is SubX+?</summary>
+            <p>SubX+ expands advanced capability: high-accuracy AI subtitle models for English, Korean, Japanese, Spanish, French, German, and Arabic; translation into 130+ languages; seek-by-subtitle; auto-pause and auto-repeat; sentence mining and subtitle export; and an ad-free experience. The free app remains a full video player with core playback, dual subtitles, standard on-device generation, and 60+ language translation.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Is SubX available on Android and iOS?</summary>
+            <p>Yes. SubX Player is available on Android and iOS. Anki export with optional audio clips is available on Android; on iOS you can share subtitle text and audio to your preferred study workflow.</p>
+          </details>
+          <details class="faq-item">
+            <summary>How does SubX help with language learning?</summary>
+            <p>Use SubX as your everyday video player, then turn the videos you already watch into language-learning material when you want. Dual subtitles and translation help you understand; seek-by-subtitle, auto-pause, auto-repeat, and shadowing support listening practice; sentence mining and Anki export help you remember useful lines from authentic content.</p>
+          </details>
       </div>
     </div>
   </section>
 
-  <!-- ── Reviews ── -->
-  <section id="reviews" class="section" aria-labelledby="reviews-heading">
-    <div class="section-inner">
-      <span class="section-label">Reviews</span>
-      <h2 id="reviews-heading">People use SubX as a player, a subtitle tool, and a learning companion</h2>
-      <p class="reviews-intro">Real reviews from the App Store and Google Play — from language learners and everyday video watchers.</p>
-      <div class="reviews-grid">
-        <div class="review-card">
-          <div class="review-stars">★★★★★</div>
-          <div class="review-title">Exactly what I needed</div>
-          <div class="review-text">"Great app! Super convenient for language learning — being able to jump between subtitles and repeat lines makes a huge difference. Very useful features. Highly recommended!"</div>
-          <div class="review-author">Texnic1</div>
+    <!-- 13 Final CTA -->
+    <section id="download" class="section final-cta" aria-labelledby="download-heading">
+      <div class="wrap">
+        <p class="eyebrow">Android &amp; iOS</p>
+        <h2 id="download-heading">Watch what you want.<br>Learn from what you watch.</h2>
+        <p class="lede">Download SubX Player — a full-featured video player with first-class subtitles and language-learning tools. Free on Android and iOS.</p>
+        <div class="store-badges">
+          <a href="https://play.google.com/store/apps/details?id=com.androyal.subxplayer&utm_source=landingpage&utm_medium=website" target="_blank" rel="noopener" aria-label="Get SubX Player on Google Play">
+            <img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" class="store-badge" width="180" height="54" loading="lazy">
+          </a>
+          <a href="https://apps.apple.com/us/app/subx-player-dual-subtitles/id6747609766" target="_blank" rel="noopener" aria-label="Download SubX Player on the App Store">
+            <img src="assets/badges/appstore_badge.png" alt="Download on the App Store" class="store-badge" width="180" height="54" loading="lazy">
+          </a>
         </div>
-        <div class="review-card">
-          <div class="review-stars">★★★★★</div>
-          <div class="review-title">Excellent language learning video player app!</div>
-          <div class="review-text">"I use this app to learn a foreign language. It's easy to toggle the subtitle on/off so I can train my listening and check words anytime I want. Easy to use and very useful tool."</div>
-          <div class="review-author">Happiness2014</div>
-        </div>
-        <div class="review-card">
-          <div class="review-stars">★★★★★</div>
-          <div class="review-title">Super</div>
-          <div class="review-text">"It can be one of the best apps for all users — as a fantastic video and audio player at the same level as MX Pro or mpv players."</div>
-          <div class="review-author">Pavel S.</div>
-        </div>
-        <div class="review-card">
-          <div class="review-stars">★★★★★</div>
-          <div class="review-title">Congratulations to the developers</div>
-          <div class="review-text">"Finally a working player with 2 subtitles, after testing several."</div>
-          <div class="review-author">Marcio</div>
+        <div class="media-slot final-visual" data-slot="final-cta-product-visual">
+          <img
+            src="assets/content/final_cta.jpeg"
+            alt="SubX Player on a phone showing dual French and English subtitles with practice and replay controls"
+            width="1376"
+            height="768"
+            loading="lazy">
         </div>
       </div>
-    </div>
-  </section>
+    </section>
+  </main>
 
-  <!-- ── Premium ── -->
-  <section id="premium" class="section" aria-labelledby="premium-heading">
-    <div class="section-inner">
-      <span class="section-label">SubX Player Free vs SubX+</span>
-      <h2 id="premium-heading">A capable player free. Advanced tools with SubX+.</h2>
-      <p class="premium-intro">SubX is a full video player before you ever pay for anything. The free app includes core playback, dual subtitles, standard on-device subtitle generation, and offline translation into 60+ languages. SubX+ expands advanced study and subtitle tools when you want more.</p>
-      <div class="premium-tiers">
-        <div class="tier-card">
-          <div class="tier-label">Free</div>
-          <h3>SubX Player</h3>
-          <ul>
-            <li>Play local video and audio files (MKV, MP4, AVI, MOV, MP3, FLAC)</li>
-            <li>Stream via M3U/M3U8; folders and playlists</li>
-            <li>Load, display, and customize subtitle files</li>
-            <li>Dual subtitle display</li>
-            <li>Offline subtitle translation (60+ languages)</li>
-            <li>On-device AI subtitle generation (standard model)</li>
-            <li>Background playback, PIP, casting, and gestures</li>
-          </ul>
-        </div>
-        <div class="tier-card featured">
-          <div class="tier-label">Premium</div>
-          <h3>SubX+</h3>
-          <ul>
-            <li>High-accuracy AI subtitle generation (English, Korean, Japanese, Spanish, French, German, Arabic)</li>
-            <li>Subtitle translation into 130+ languages</li>
-            <li>Seek by Subtitle — jump between lines</li>
-            <li>Auto Pause for shadowing practice</li>
-            <li>Auto Repeat for listening practice</li>
-            <li>Sentence mining — Anki export on Android / share subtitle text &amp; audio on iOS</li>
-            <li>Subtitle editing and export (SRT, VTT, TXT, PDF)</li>
-            <li>Ad-free experience</li>
-          </ul>
-        </div>
-      </div>
-      <div class="premium-cta">
-        <a href="#download" class="btn-primary">Download SubX Player — Free</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ── FAQ ── -->
-  <section id="faq" class="section" aria-labelledby="faq-heading">
-    <div class="section-inner">
-      <span class="section-label">FAQ</span>
-      <h2 id="faq-heading">Common questions about SubX Player</h2>
-      <p class="faq-intro">Answers about what SubX is, everyday playback, subtitles, offline use, and optional learning workflows.</p>
-      <div class="faq-list">
-        <div class="faq-item">
-          <div class="faq-q">What is SubX Player?</div>
-          <div class="faq-a">SubX Player is a full-featured video player with first-class subtitles and language-learning tools. Play movies, shows, anime, local files, and streams with broad playback support, then use dual subtitles, translation, AI-generated subtitles, repetition, shadowing, and sentence mining when you want to go beyond watching — without switching apps.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">Is SubX Player a video player or a language-learning app?</div>
-          <div class="faq-a">Both — and both are first-class. SubX is a capable everyday video player with serious subtitle tools and meaningful language-learning workflows built into the same experience. It is not a language course, and it is not a generic player with learning features bolted on.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">Can I use SubX Player as my everyday player?</div>
-          <div class="faq-a">Yes. SubX supports local video and audio files (MKV, MP4, AVI, MOV, MP3, FLAC), URL streaming via M3U/M3U8, background playback, picture-in-picture, casting, gestures, folders, and playlists — the playback features you expect from a serious media player.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">What if subtitles are missing or don't match the audio?</div>
-          <div class="faq-a">SubX can generate subtitles from the actual audio on your device using on-device transcription models including OpenAI Whisper and Moonshine (for supported languages and models). You can also display dual subtitles, translate tracks offline, and sync timing — useful when dubs, fan subs, or official tracks do not match what you hear.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">Can I use SubX Player fully offline?</div>
-          <div class="faq-a">Core playback works offline. For supported workflows, subtitle generation and translation also run on-device without uploading your media. Some features may require an internet connection depending on content source and model availability.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">How do dual subtitles help?</div>
-          <div class="faq-a">Dual subtitles put two languages on screen at once so you can follow foreign-language movies and shows without losing context, and connect meaning to unfamiliar words when you want to learn. Offline subtitle translation into 60+ languages is included free; SubX+ expands to 130+ languages.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">How do I move from watching to practice?</div>
-          <div class="faq-a">Watch normally, then use seek-by-subtitle, auto-pause, and auto-repeat when a line deserves a closer look. SubX+ adds purpose-built shadowing and line-looping controls synced to subtitle lines — you choose when viewing becomes practice.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">How does sentence mining and Anki export work?</div>
-          <div class="faq-a">Extract dialogue lines from the subtitles you are watching. On Android, export directly to Anki flashcards with optional audio clips. On iOS, share subtitle text and audio to your preferred study workflow.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">What videos can I use with SubX Player?</div>
-          <div class="faq-a">Your own movies, TV series, anime, podcasts, audiobooks, local files, and streams — not only curated educational content. Supported videos in supported languages can become learning material. Practice Mode also offers optional curated YouTube videos by level and topic if you want a starting point.</div>
-        </div>
-        <div class="faq-item">
-          <div class="faq-q">What is SubX+?</div>
-          <div class="faq-a">SubX+ expands advanced capability: high-accuracy AI subtitle models for English, Korean, Japanese, Spanish, French, German, and Arabic; translation into 130+ languages; seek-by-subtitle; auto-pause and auto-repeat; sentence mining and subtitle export; and an ad-free experience. The free app remains a full video player with core playback, dual subtitles, standard on-device generation, and 60+ language translation.</div>
-        </div>
-      </div>
-      <div class="faq-cta">
-        <a href="#download" class="btn-primary">Download SubX Player — Free</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Download ── -->
-  <section id="download" class="section" aria-labelledby="download-heading">
-    <div class="section-inner">
-      <h2 id="download-heading">Watch what you want. Learn from what you watch.</h2>
-      <p>Download SubX Player — a full-featured video player with first-class subtitles and language-learning tools. Free on Android and iOS.</p>
-      <div class="store-badges" style="justify-content:center;">
-        <a href="https://play.google.com/store/apps/details?id=com.androyal.subxplayer&utm_source=landingpage&utm_medium=website" target="_blank" rel="noopener" aria-label="Get SubX Player on Google Play">
-          <img src="assets/badges/google-play-badge.png" alt="Get it on Google Play" class="store-badge">
-        </a>
-        <a href="https://apps.apple.com/us/app/subx-player-dual-subtitles/id6747609766" target="_blank" rel="noopener" aria-label="Download SubX Player on the App Store">
-          <img src="assets/badges/appstore_badge.png" alt="Download on the App Store" class="store-badge">
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Footer ── -->
-  <footer>
+  <footer class="site-footer">
+    <div class="wrap">
     <div class="footer-links">
       <a href="/privacy/">Privacy Policy</a>
       <span>|</span>
       <a href="/terms/">Terms &amp; Conditions</a>
     </div>
-    <div class="footer-copy">&copy; 2026 SubX Player. All rights reserved.</div>
-    <div class="footer-meta">Publisher: Abdulhameed ALHINBAZLY &nbsp;·&nbsp; Last updated: 20 Aug 2026</div>
+      <div>&copy; 2026 SubX Player. All rights reserved.</div>
+      <div class="footer-meta">Publisher: Abdulhameed ALHINBAZLY &nbsp;·&nbsp; Last updated: 21 Aug 2026</div>
+    </div>
   </footer>
 
+  <script>
+    (function () {
+      var toggle = document.querySelector('.nav-toggle');
+      var drawer = document.getElementById('mobile-nav');
+      if (toggle && drawer) {
+        function setOpen(open) {
+          toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+          toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+          drawer.hidden = !open;
+          document.body.classList.toggle('is-nav-open', open);
+        }
+
+        toggle.addEventListener('click', function () {
+          setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+        });
+
+        drawer.addEventListener('click', function (e) {
+          if (e.target.tagName === 'A') setOpen(false);
+        });
+
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') setOpen(false);
+        });
+      }
+
+      if (location.protocol === 'file:') {
+        var embed = document.getElementById('demo-video-embed');
+        if (embed) {
+          embed.innerHTML = '<p class="video-embed-fallback">YouTube embeds need an HTTP server. Run a local preview, or <a href="https://www.youtube.com/watch?v=Ec8hUvZJU_s" target="_blank" rel="noopener noreferrer">watch the demo on YouTube</a>.</p>';
+        }
+      }
+    })();
+  </script>
 </body>
 </html> 
