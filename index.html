@@ -281,6 +281,66 @@
     </div>
   </section>
 
+    <!-- Watch × Learn positioning -->
+    <section id="watch-learn" class="section converge" aria-labelledby="converge-heading">
+      <div class="wrap">
+        <div class="section-head center">
+          <p class="eyebrow">Watch × Learn</p>
+          <h2 id="converge-heading">Why choose between watching and learning?</h2>
+          <p class="lede">Video players are built for watching. Learning tools are built for studying. SubX brings both into the same player — watch normally, and dive deeper whenever a line catches your attention.</p>
+        </div>
+
+        <div class="converge-stage" id="converge-stage">
+          <div class="converge-side converge-side--watch">
+            <p class="converge-side-label">Built to watch</p>
+            <ul class="converge-chips">
+              <li>Formats</li>
+              <li>Library</li>
+              <li>Playlists</li>
+              <li>Background</li>
+              <li>PIP</li>
+              <li>Casting</li>
+            </ul>
+          </div>
+
+          <div class="converge-player media-slot" data-slot="converge-player-still">
+            <div class="converge-scene">
+              <picture>
+                <source srcset="assets/content/converge-still.webp" type="image/webp">
+                <img src="assets/content/converge-still.jpg" alt="A young man pausing at the entrance of a European train station at sunrise, suitcase in hand, in a cinematic film still" width="1280" height="720" loading="lazy">
+              </picture>
+              <div class="converge-layer">
+                <p class="converge-layer-subs">
+                  <span class="sub-orig">All beginnings are hard.</span>
+                  <span class="sub-tr converge-sub-tr">Aller Anfang ist schwer.</span>
+                </p>
+                <ul class="converge-sub-actions">
+                  <li>Replay</li>
+                  <li>Shadow</li>
+                  <li>Save</li>
+                </ul>
+              </div>
+            </div>
+            <p class="converge-player-caption">Watch normally. Learn whenever you want.</p>
+          </div>
+
+          <div class="converge-side converge-side--learn">
+            <p class="converge-side-label">Learn from video</p>
+            <ul class="converge-chips converge-chips--learn">
+              <li>Dual subtitles</li>
+              <li>Translation</li>
+              <li>Replay</li>
+              <li>Shadowing</li>
+              <li>Line seek</li>
+              <li>Sentence mining</li>
+            </ul>
+          </div>
+        </div>
+
+        <p class="converge-close">No switching apps. No losing context.</p>
+      </div>
+    </section>
+
     <!-- 02 Immediate product demonstration -->
     <section id="demo" class="section demo" aria-labelledby="demo-heading">
       <div class="wrap">
@@ -366,7 +426,7 @@
     <section class="section concept" aria-labelledby="concept-heading">
       <div class="wrap concept-grid">
         <div class="concept-copy">
-          <p class="eyebrow">The idea</p>
+          <p class="eyebrow">The layer</p>
           <h2 id="concept-heading">One player. One intelligent subtitle layer.</h2>
           <p class="lede">SubX works as a normal media player first. Subtitles are not an overlay you tolerate — they are the layer that adds dual languages, translation, generation, practice, and memory when you want them.</p>
           <ul class="concept-points">
@@ -1133,6 +1193,26 @@
 
   <script>
     (function () {
+      document.documentElement.classList.add('js');
+
+      var convergeStage = document.getElementById('converge-stage');
+      if (convergeStage && 'IntersectionObserver' in window) {
+        var convergeObserver = new IntersectionObserver(
+          function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) {
+                entry.target.classList.add('is-inview');
+                convergeObserver.unobserve(entry.target);
+              }
+            });
+          },
+          { root: null, rootMargin: '0px 0px -12% 0px', threshold: 0.2 }
+        );
+        convergeObserver.observe(convergeStage);
+      } else if (convergeStage) {
+        convergeStage.classList.add('is-inview');
+      }
+
       var toggle = document.querySelector('.nav-toggle');
       var drawer = document.getElementById('mobile-nav');
       if (toggle && drawer) {
